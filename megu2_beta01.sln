@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "megu2_beta01", "megu2_beta01.vcxproj", "{9F6F61E8-0776-4755-A7F9-4FA534A3852C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6F61E8-0776-4755-A7F9-4FA534A3852C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F6F61E8-0776-4755-A7F9-4FA534A3852C}.Debug|Win32.Build.0 = Debug|Win32
+		{9F6F61E8-0776-4755-A7F9-4FA534A3852C}.Release|Win32.ActiveCfg = Release|Win32
+		{9F6F61E8-0776-4755-A7F9-4FA534A3852C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
