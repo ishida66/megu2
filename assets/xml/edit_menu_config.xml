@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <config>
+    <type>mini</type>
+   <edit>
+            <type>edit</type>
+            <texture>assets/Menus/menu_edit.png</texture>
+            <pos>
+              <x>0</x>
+              <y>0</y>
+              <w>320</w>
+              <h>360</h>
+            </pos>
+            <button_displacement>
+            <pos>
+            <x>75</x>
+            <y>81</y>
+            <w>41</w>
+            <h>41</h>
+            </pos>
+            <offset>
+            <x>69</x>
+            <y>71</y>
+            </offset>
+            </button_displacement>
+           <button>
+            <type>name</type>
+            <texture></texture>
+            </button>
+            <button>
+            <type>create friend</type>
+            <texture></texture>
+            </button>
+             <button>
+            <type>save megu</type>
+            <texture></texture>
+            </button>
+             <button>
+            <type>save layout</type>
+            <texture></texture>
+            </button>
+            <button>
+            <type>invite friend</type>
+            <texture></texture>
+            </button>
+            <button>
+            <type>save addons</type>
+            <texture></texture>
+            </button>
+            <button>
+            <type>load layout</type>
+            <texture></texture>
+            </button>
+            <button>
+            <type>byebye friend</type>
+            <texture></texture>
+            </button>
+            <back_button>
+            <type>back_button</type>
+            <texture></texture>
+            <pos>
+            <x>243</x>
+            <y>296</y>
+            <w>47</w>
+            <h>36</h>
+            </pos>
+            </back_button>
+      </edit>
+    </config>
+    
+    <config>
+    <type>normal</type>
+   <edit>
+            <type>edit</type>
+            <texture>assets/Menus/menu_edit@2x.png</texture>
+            <pos>
+              <x>0</x>
+              <y>0</y>
+              <w>640</w>
+              <h>720</h>
+            </pos>
+            <button_displacement>
+            <pos>
+            <x>150</x>
+            <y>162</y>
+            <w>82</w>
+            <h>82</h>
+            </pos>
+            <offset>
+            <x>138</x>
+            <y>142</y>
+            </offset>
+            </button_displacement>
+            <button>
+            <type>name</type>
+            <texture></texture>
+            </button>
+            <button>
+            <type>create friend</type>
+            <texture></texture>
+            </button>
+             <button>
+            <type>save megu</type>
+            <texture></texture>
+            </button>
+             <button>
+            <type>save layout</type>
+            <texture></texture>
+            </button>
+            <button>
+            <type>invite friend</type>
+            <texture></texture>
+            </button>
+            <button>
+            <type>save addons</type>
+            <texture></texture>
+            </button>
+            <button>
+            <type>load layout</type>
+            <texture></texture>
+            </button>
+            <button>
+            <type>byebye friend</type>
+            <texture></texture>
+            </button>
+            <back_button>
+            <type>back_button</type>
+            <texture></texture>
+            <pos>
+            <x>486</x>
+            <y>593</y>
+            <w>95</w>
+            <h>72</h>
+            </pos>
+            </back_button>
+      </edit>
+    </config>
+</application>

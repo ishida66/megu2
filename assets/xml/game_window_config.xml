@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <config>
+  <type>mini</type>
+  <game_window>
+  <size>
+  <w>320</w>
+  <h>360</h>
+  </size>
+  </game_window>
+  </config>
+<config>
+    <type>normal</type>
+    <game_window>
+      <size>
+      <w>640</w>
+      <h>720</h>
+      </size>
+    </game_window>
+</config>
+</application>

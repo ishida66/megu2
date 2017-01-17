@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+
+<!--    type: 1 = elixir, 2 = devo  -->
+
+
+
+	<payment>
+		<id>1</id>
+		<product_id>elixir0003</product_id>
+		<level>1</level>
+		<strings lang="ja">
+			<name>エリクサー10個パック</name>
+			<detail>おなかも健康も全回復。お出かけの元気も復活する秘薬！</detail>
+			<price>350</price>
+		</strings>
+		<strings lang="en">
+			<name>Elixirs(Pack of 10)</name>
+			<detail>Only $0.3 for each Good value!</detail>
+			<price>2.99</price>
+		</strings>
+		<type>1</type>
+		<count>10</count>
+	</payment>
+
+    
+    <payment>
+		<id>2</id>
+		<product_id>elixir0004</product_id>
+		<level>6</level>
+		<strings lang="ja">
+			<name>エリクサー20個パック</name>
+			<detail>１個あたり たったの30円でセール中!</detail>
+			<price>600</price>
+		</strings>
+		<strings lang="en">
+			<name>Elixirs(Pack of 20)</name>
+			<detail>Only $0.25 for each Good value!</detail>
+			<price>4.99</price>
+		</strings>
+		<type>1</type>
+		<count>20</count>
+	</payment>
+	
+	<payment>
+		<id>3</id>
+		<product_id>elixir0005</product_id>
+		<level>8</level>
+		<strings lang="ja">
+			<name>エリクサー40個パック</name>
+			<detail>１個あたり たったの25円! お値打ちセール!</detail>
+			<price>1000</price>
+		</strings>
+		<strings lang="en">
+			<name>Elixirs(Pack of 40)</name>
+			<detail>Only $0.23 for each Good value!</detail>
+			<price>8.99</price>
+		</strings>
+		<type>1</type>
+		<count>40</count>
+	</payment>
+	
+	<payment>
+		<id>4</id>
+		<product_id>elixir0006</product_id>
+		<level>10</level>
+		<strings lang="ja">
+			<name>エリクサー100個パック</name>
+			<detail>１個あたり たったの24円! 激安セール!</detail>
+			<price>2400</price>
+		</strings>
+		<strings lang="en">
+			<name>Elixirs(Pack of 100)</name>
+			<detail>Only $0.21 for each Good value!</detail>
+			<price>20.99</price>
+		</strings>
+		<type>1</type>
+		<count>100</count>
+	</payment>
+	
+
+    
+	<payment>
+		<id>1001</id>
+		<product_id>arcanum0003</product_id>
+		<level>5</level>
+		<strings lang="ja">
+			<name>退化の薬10個パック</name>
+			<detail>飲めば たちまち MEGUが退化する 不思議な秘薬</detail>
+			<price>350</price>
+		</strings>
+		<strings lang="en">
+			<name>Devodrug(Pack of 10)</name>
+			<detail>Only $0.3 for each Good value!</detail>
+			<price>2.99</price>
+		</strings>
+		<type>2</type>
+		<count>10</count>
+	</payment>
+	
+	<payment>
+		<id>1002</id>
+		<product_id>arcanum0004</product_id>
+		<level>7</level>
+		<strings lang="ja">
+			<name>退化の薬20個パック</name>
+			<detail>１個あたり たったの30円でセール中!</detail>
+			<price>600</price>
+		</strings>
+		<strings lang="en">
+			<name>Devodrug(Pack of 20)</name>
+			<detail>Only $0.25 for each Good value!</detail>
+			<price>4.99</price>
+		</strings>
+		<type>2</type>
+		<count>20</count>
+	</payment>
+	
+	<payment>
+		<id>1003</id>
+		<product_id>arcanum0006</product_id>
+		<level>9</level>
+		<strings lang="ja">
+			<name>退化の薬40個パック</name>
+			<detail>１個あたり たったの25円! お値打ちセール!</detail>
+			<price>1000</price>
+		</strings>
+		<strings lang="en">
+			<name>Devodrug(Pack of 40)</name>
+			<detail>Only $0.23 for each Good value!</detail>
+			<price>8.99</price>
+		</strings>
+		<type>2</type>
+		<count>40</count>
+	</payment>
+	
+	<payment>
+		<id>1004</id>
+		<product_id>arcanum0007</product_id>
+		<level>11</level>
+		<strings lang="ja">
+			<name>退化の薬100個パック</name>
+			<detail>１個あたり たったの24円! 激安セール!</detail>
+			<price>2400</price>
+		</strings>
+		<strings lang="en">
+			<name>Devodrug(Pack of 100)</name>
+			<detail>Only $0.21 for each Good value!</detail>
+			<price>20.99</price>
+		</strings>
+		<type>2</type>
+		<count>100</count>
+	</payment>
+	
+	<!-- Voltamin -->
+	<payment>
+		<id>2001</id>
+		<product_id>Voltamin001</product_id>
+		<level>14</level>
+		<strings lang="ja">
+			<name>電気ドリンク5個パック</name>
+			<detail>強い電気を帯びた秘薬。MEGUの電力が満タンになる！</detail>
+			<price>1200</price>
+		</strings>
+		<strings lang="en">
+			<name>Voltamin (Pack of 5)</name>
+			<detail>Only $2 for each Good value!</detail>
+			<price>9.99</price>
+		</strings>
+		<type>3</type>
+		<count>5</count>
+	</payment>
+	<payment>
+		<id>2002</id>
+		<product_id>Voltamin002</product_id>
+		<level>15</level>
+		<strings lang="ja">
+			<name>電気ドリンク10個パック</name>
+			<detail>１個あたり たったの200円! 激安セール!</detail>
+			<price>2000</price>
+		</strings>
+		<strings lang="en">
+			<name>Voltamin (Pack of 10)</name>
+			<detail>Only $1.2 for each Good value!</detail>
+			<price>16.99</price>
+		</strings>
+		<type>3</type>
+		<count>10</count>
+	</payment>
+	<payment>
+		<id>2003</id>
+		<product_id>Voltamin003</product_id>
+		<level>16</level>
+		<strings lang="ja">
+			<name>電気ドリンク20個パック</name>
+			<detail>１個あたり たったの180円! 激安セール!</detail>
+			<price>3600</price>
+		</strings>
+		<strings lang="en">
+			<name>Voltamin (Pack of 20)</name>
+			<detail>Only $1.1 for each Good value!</detail>
+			<price>30.99</price>
+		</strings>
+		<type>3</type>
+		<count>20</count>
+	</payment>
+
+	<!-- Driven A -->
+	<payment>
+		<id>3001</id>
+		<product_id>DrivenA0001</product_id>
+		<level>1</level>
+		<strings lang="ja">
+			<name>ヤルキミンA</name>
+			<detail>MEGUのヤル気が復活する薬です。</detail>
+			<price>85</price>
+		</strings>
+		<strings lang="en">
+			<name>Driven A (Pack of 1)</name>
+			<detail>Only $0.99 for each Good value!</detail>
+			<price>0.99</price>
+		</strings>
+		<type>4</type>
+		<count>1</count>
+	</payment>
+	<payment>
+		<id>3002</id>
+		<product_id>DrivenA0002</product_id>
+		<level>10</level>
+		<strings lang="ja">
+			<name>ヤルキミンA(5個パック)</name>
+			<detail>MEGUのヤル気が満ち溢れる薬の5個パックです。</detail>
+			<price>350</price>
+		</strings>
+		<strings lang="en">
+			<name>Driven A (Pack of 5)</name>
+			<detail>Only $0.6 for each Good value!</detail>
+			<price>2.99</price>
+		</strings>
+		<type>4</type>
+		<count>5</count>
+	</payment>
+	<payment>
+		<id>3003</id>
+		<product_id>DrivenA0003</product_id>
+		<level>15</level>
+		<strings lang="ja">
+			<name>ヤルキミンA(10個パック)</name>
+			<detail>「やる気」が回復する薬の10個パックです。</detail>
+			<price>850</price>
+		</strings>
+		<strings lang="en">
+			<name>Driven A (Pack of 10)</name>
+			<detail>Only $0.99 for each Good value!</detail>
+			<price>9.9</price>
+		</strings>
+		<type>4</type>
+		<count>10</count>
+	</payment>
+		
+</application>

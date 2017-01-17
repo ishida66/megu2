@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    
+	<stray_megu>
+		<id>1001</id>
+		<strings lang="ja">
+			<name>ノブオ</name>
+			<detail>街中でイタズラし放題の「悪MEGU団」のひとり。悪MEGU団にあこがれ最近入団した。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Nobby</name>
+			<detail>Newcommer of the Stray MEGU.Wannabe the boss</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<min_weight>2.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1002</id>
+		<strings lang="ja">
+			<name>ジュンペー</name>
+			<detail>根っからの後輩気質だが、体育会系のノリで礼儀が正しく、先輩から可愛がられる存在。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Jack</name>
+			<detail>Gofer of the stray MEGU,but good guy underneath</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1003</id>
+		<strings lang="ja">
+			<name>ケンタ</name>
+			<detail>おっちょこちょいで お調子者。いつも失敗ばかり。だけど悪MEGU団からは人気者。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Ken</name>
+			<detail>A stray MEGU who's impossible to hate</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<min_weight>6.0</min_weight>
+		<max_weight>12.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1004</id>
+		<strings lang="ja">
+			<name>ショージ</name>
+			<detail>悪ぶってはいるけれど、情に厚く友達思い。相撲が得意だが、かけっこは 苦手らしい</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>George</name>
+			<detail>Love playing Sumo,but not good at MEGU Race</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<min_weight>6.0</min_weight>
+		<max_weight>15.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1005</id>
+		<strings lang="ja">
+			<name>ミハル</name>
+			<detail>悪MEGU団のアイドル的存在。わがままでオテンバな性格だが ときおり可愛い一面もある。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Michelle</name>
+			<detail>Sweetest stray ever</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<min_weight>3.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1006</id>
+		<strings lang="ja">
+			<name>トンキチ</name>
+			<detail>臆病者で気が小さい悪MEGU。根性をつけようと考えて悪MEGU団に入ったが 大して変わってない。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Tonny</name>
+			<detail>Coward and timid MEGU</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1007</id>
+		<strings lang="ja">
+			<name>キース</name>
+			<detail>悪MEGU団の影の実力者。彼の舞うように華麗なイタズラは誰もが一目おいている。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Keith</name>
+			<detail>Power-broker of the strays</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1008</id>
+		<strings lang="ja">
+			<name>シュウタ</name>
+			<detail>情熱と闘志がみなぎる熱血MEGU。少年誌顔負けのスポ魂ぶり。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Stuart</name>
+			<detail>Really enthusiastic MEGU</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1009</id>
+		<strings lang="ja">
+			<name>ジョニー</name>
+			<detail>常にポーカーフェイスの渋いMEGU。若い悪MEGU達をまとめている。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Jhonny</name>
+			<detail>MEGU who is agelast and has an immovable heart</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1010</id>
+		<strings lang="ja">
+			<name>ファンファ</name>
+			<detail>優しいまなざしとは裏腹に、こずるいイタズラで困らせるのが大得意。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>Frank</name>
+			<detail>Good looking MEGU in strays</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1011</id>
+		<strings lang="ja">
+			<name>キョウジ</name>
+			<detail>悪MEGU団の下級幹部。たちの悪いイタズラを考えるのが得意な頭脳派。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Dan</name>
+			<detail>Typically marverick MEGU</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>3</hungry>
+		<min_weight>5.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1012</id>
+		<strings lang="ja">
+			<name>ツルキチ</name>
+			<detail>他の悪MEGUよりちょっと高級なサングラスがコダワリ。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>Ted</name>
+			<detail>Wearing better sunglasses than others</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<min_weight>6.0</min_weight>
+		<max_weight>12.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1013</id>
+		<strings lang="ja">
+			<name>アキラ</name>
+			<detail>キザな振る舞いがハナにつく悪MEGU。実力はなかなかのもの。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>Akira</name>
+			<detail>One of the most dashing MEGU</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<min_weight>6.0</min_weight>
+		<max_weight>12.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1014</id>
+		<strings lang="ja">
+			<name>コータ</name>
+			<detail>飼いMEGUだったが 心無い人間にから 捨てられてしまった悲しい過去を背負っている。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>Tina</name>
+			<detail>Like a mascot in the stray MEGUs</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1015</id>
+		<strings lang="ja">
+			<name>ユウイチ</name>
+			<detail>新しいイタズラを考える天才。「ピンポンダッシュはオレが発明した」が口癖。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Larry</name>
+			<detail>Larry became a stray because of yearning for freedom</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<min_weight>7.0</min_weight>
+		<max_weight>14.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1016</id>
+		<strings lang="ja">
+			<name>ヒデキ</name>
+			<detail>三度の飯より イタズラが大好きの悪MEGU。でもゴハンも好き。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>Vick</name>
+			<detail>Vick still behavs like a kid,selfish and noisy</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>3</hungry>
+		<min_weight>6.0</min_weight>
+		<max_weight>12.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1017</id>
+		<strings lang="ja">
+			<name>ショウヘイ</name>
+			<detail>穏やかな表情とは裏腹に じっくりとイタズラの作戦を練る策士。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Sean</name>
+			<detail>Most nature loving MEG</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<min_weight>7.0</min_weight>
+		<max_weight>14.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1018</id>
+		<strings lang="ja">
+			<name>キョウカ</name>
+			<detail>悪MEGU団のアネゴ的存在。歯に衣着せぬ物言いで 周りの悪MEGUもタジタジ。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>Harry</name>
+			<detail>Acting like a movie star</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>5</hungry>
+		<min_weight>10.0</min_weight>
+		<max_weight>15.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1019</id>
+		<strings lang="ja">
+			<name>スパイク</name>
+			<detail>悪MEGU団の中級幹部。冷静沈着にイタズラを指示する司令塔。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Spike</name>
+			<detail>Friendly and cheerful MEGU</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<min_weight>7.0</min_weight>
+		<max_weight>14.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1020</id>
+		<strings lang="ja">
+			<name>コージ</name>
+			<detail>悪MEGU団の出世頭。のし上がる為に悪MEGU道をひたはしる。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Abbie</name>
+			<detail>Introvert and bashful MEGU</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<min_weight>7.0</min_weight>
+		<max_weight>14.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1021</id>
+		<strings lang="ja">
+			<name>マサヒコ</name>
+			<detail>悪MEGU団の中級幹部。悪MEGU全員のスケジュール管理をこなす。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>Sid</name>
+			<detail>Senior stray MEGU leader</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>7</hungry>
+		<min_weight>4.0</min_weight>
+		<max_weight>12.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1022</id>
+		<strings lang="ja">
+			<name>ケンサク</name>
+			<detail>イタズラをするときもいつもカラッと明るい。能天気なお調子者。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>Judy</name>
+			<detail>Judy has an inferiority complex toward Tina</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>8</hungry>
+		<min_weight>6.0</min_weight>
+		<max_weight>15.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1023</id>
+		<strings lang="ja">
+			<name>ガジオ</name>
+			<detail>血も涙もない冷徹で残酷な悪MEGU。勝ち負けに異常にこだわる。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>Stan</name>
+			<detail>Stan has strong yearning to win</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>10</hungry>
+		<min_weight>13.0</min_weight>
+		<max_weight>20.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1024</id>
+		<strings lang="ja">
+			<name>テツ</name>
+			<detail>悪MEGU団の風来坊。奇抜なファッションであたりをうろつく。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>Chuck</name>
+			<detail>Chuck has the strongest arms</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>10</hungry>
+		<min_weight>15.0</min_weight>
+		<max_weight>25.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1025</id>
+		<strings lang="ja">
+			<name>タダオ</name>
+			<detail>悪MEGU団でも一二を争う荒くれ者。その生い立ちは誰も知らない。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Tom</name>
+			<detail>Tom dreams of being a singer</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>3</hungry>
+		<min_weight>7.0</min_weight>
+		<max_weight>16.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1026</id>
+		<strings lang="ja">
+			<name>サボ</name>
+			<detail>悪MEGU団の中でも世話焼き役。なぜか関西弁を話す。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Ron</name>
+			<detail>He likes to play football</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<min_weight>1.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1027</id>
+		<strings lang="ja">
+			<name>タケシ</name>
+			<detail>勝ち気な悪MEGU団の上級幹部。仲間思いな一面も。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Lisa</name>
+			<detail>Lisa plays a mothering role of young strays</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<min_weight>2.0</min_weight>
+		<max_weight>20.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1028</id>
+		<strings lang="ja">
+			<name>コロン</name>
+			<detail>運だけでここまで来た恵まれた悪MEGU。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Bella</name>
+			<detail>Bella leaves everything to fate</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<min_weight>7.0</min_weight>
+		<max_weight>15.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1029</id>
+		<strings lang="ja">
+			<name>レイジロー</name>
+			<detail>つかみどころがなく、冷静な表情には冷徹な目が光っている。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Fred</name>
+			<detail>Fred has a good nose</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>1</hungry>
+		<min_weight>5.0</min_weight>
+		<max_weight>25.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1030</id>
+		<strings lang="ja">
+			<name>リカイ</name>
+			<detail>悪MEGU団いちの知性派。下級メンバーのまとめ役でもある。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Randy</name>
+			<detail>Pure-hearted MEGU in strays</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>1</hungry>
+		<min_weight>1.0</min_weight>
+		<max_weight>25.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1031</id>
+		<strings lang="ja">
+			<name>マートン</name>
+			<detail>気が弱く内向的だが、おどけた仕草で悪MEGU団の仲間をなごませる。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>Nick</name>
+			<detail>Dashing and enthusiastic MEGU</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<min_weight>12.0</min_weight>
+		<max_weight>20.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1032</id>
+		<strings lang="ja">
+			<name>ゴウスケ</name>
+			<detail>見かけによらず悪MEGU団の中でいちばんの力持ち。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Burt</name>
+			<detail>Genius mischief maker</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<min_weight>8.0</min_weight>
+		<max_weight>15.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1033</id>
+		<strings lang="ja">
+			<name>オリョウ</name>
+			<detail>悪MEGU団のアネゴ的存在でみんなからしたわれている。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>Hank</name>
+			<detail>Senior stray MEGU leader</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<min_weight>1.0</min_weight>
+		<max_weight>18.0</max_weight>
+	</stray_megu>
+    
+	<stray_megu>
+		<id>1034</id>
+		<strings lang="ja">
+			<name>モンド</name>
+			<detail>悪MEGU団の上級幹部。ひょうひょうとしているがまなざしは鋭い。</detail>
+			<family>系統不明</family>
+		</strings>
+		<strings lang="en">
+			<name>Patty</name>
+			<detail>Patty is looking at the world with a broad view</detail>
+			<family>Type:Unknown</family>
+		</strings>
+		<size>3</size>
+		<hungry>9</hungry>
+		<min_weight>4.0</min_weight>
+		<max_weight>28.0</max_weight>
+	</stray_megu>
+</application>

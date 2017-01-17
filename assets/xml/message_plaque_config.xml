@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<application>
+<config>
+    
+    <type>mini</type>
+    <message_plaque>
+    <texture>assets/objects/bg_message.png</texture>
+    <pos>
+      <x>5</x>
+      <y>60</y>
+      <w>310</w>
+      <h>40</h>
+    </pos>
+    <message_text>
+    <pos>
+      <x>20</x>
+      <y>15</y>
+    </pos>
+    <font>assets/fonts/petitalight.ttf</font>
+    <font_size>12</font_size>
+    </message_text>
+    </message_plaque>.
+    </config>
+    
+    <config>
+    <type>normal</type>
+    <message_plaque>
+    <texture>assets/objects/bg_message@2x.png</texture>
+    <pos>
+      <x>10</x>
+      <y>120</y>
+      <w>620</w>
+      <h>80</h>
+    </pos>
+    <message_text>
+    <pos>
+      <x>32</x>
+      <y>30</y>
+    </pos>
+    <font>assets/fonts/petitalight.ttf</font>
+    <font_size>24</font_size>
+    </message_text>
+    </message_plaque>
+    </config>
+    </application>

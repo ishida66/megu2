@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <config>
+   <size_selector>
+            <type>size selector</type>
+            <texture>assets/Menus/menu_size.png</texture>
+            <pos>
+              <x>0</x>
+              <y>0</y>
+              <w>180</w>
+              <h>100</h>
+            </pos>
+            <button>
+            <type>normal</type>
+            <pos>
+            <x>40</x>
+            <y>36</y>
+            <w>100</w>
+            <h>26</h>
+            </pos>
+            </button>
+            <button>
+            <type>mini</type>
+            <pos>
+            <x>40</x>
+            <y>68</y>
+            <w>100</w>
+            <h>26</h>
+            </pos>
+            </button>
+      </size_selector>
+    </config>
+</application>

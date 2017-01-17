@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <accessory>
+        <id>1</id>
+        <strings lang="ja">
+            <name><![CDATA[PANDUC'sチェア]]></name>
+            <detail><![CDATA[背中部分は低反発素材なので気持ちがいいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Hat 1]]></name>
+            <detail><![CDATA[Hat 1.]]></detail>
+        </strings>
+        <level>1</level>
+        <price>5000</price>
+        <not_sale>1</not_sale>
+    </accessory>
+        <accessory>
+        <id>2</id>
+        <strings lang="ja">
+            <name><![CDATA[PANDUC'sチェア]]></name>
+            <detail><![CDATA[背中部分は低反発素材なので気持ちがいいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Hat 2]]></name>
+            <detail><![CDATA[Hat 2.]]></detail>
+        </strings>
+        <level>3</level>
+        <price>5000</price>
+        <not_sale>1</not_sale>
+    </accessory>
+        <accessory>
+        <id>3</id>
+        <strings lang="ja">
+            <name><![CDATA[PANDUC'sチェア]]></name>
+            <detail><![CDATA[背中部分は低反発素材なので気持ちがいいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Hat 3]]></name>
+            <detail><![CDATA[Hat 3.]]></detail>
+        </strings>
+        <level>1</level>
+        <price>5000</price>
+        <not_sale>1</not_sale>
+    </accessory>
+                <accessory>
+        <id>4</id>
+        <strings lang="ja">
+            <name><![CDATA[PANDUC'sチェア]]></name>
+            <detail><![CDATA[背中部分は低反発素材なので気持ちがいいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Hat 3]]></name>
+            <detail><![CDATA[Hat 3.]]></detail>
+        </strings>
+        <level>1</level>
+        <price>5000</price>
+        <not_sale>1</not_sale>
+    </accessory>
+            <accessory>
+        <id>5</id>
+        <strings lang="ja">
+            <name><![CDATA[PANDUC'sチェア]]></name>
+            <detail><![CDATA[背中部分は低反発素材なので気持ちがいいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Hat 3]]></name>
+            <detail><![CDATA[Hat 3.]]></detail>
+        </strings>
+        <level>1</level>
+        <price>5000</price>
+        <not_sale>1</not_sale>
+    </accessory>
+            <accessory>
+        <id>6</id>
+        <strings lang="ja">
+            <name><![CDATA[PANDUC'sチェア]]></name>
+            <detail><![CDATA[背中部分は低反発素材なので気持ちがいいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Hat 3]]></name>
+            <detail><![CDATA[Hat 3.]]></detail>
+        </strings>
+        <level>1</level>
+        <price>5000</price>
+        <not_sale>1</not_sale>
+    </accessory>
+            <accessory>
+        <id>7</id>
+        <strings lang="ja">
+            <name><![CDATA[PANDUC'sチェア]]></name>
+            <detail><![CDATA[背中部分は低反発素材なので気持ちがいいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Hat 3]]></name>
+            <detail><![CDATA[Hat 3.]]></detail>
+        </strings>
+        <level>1</level>
+        <price>5000</price>
+        <not_sale>1</not_sale>
+    </accessory>
+            <accessory>
+        <id>8</id>
+        <strings lang="ja">
+            <name><![CDATA[PANDUC'sチェア]]></name>
+            <detail><![CDATA[背中部分は低反発素材なので気持ちがいいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Hat 3]]></name>
+            <detail><![CDATA[Hat 3.]]></detail>
+        </strings>
+        <level>1</level>
+        <price>5000</price>
+        <not_sale>1</not_sale>
+    </accessory>
+            <accessory>
+        <id>9</id>
+        <strings lang="ja">
+            <name><![CDATA[PANDUC'sチェア]]></name>
+            <detail><![CDATA[背中部分は低反発素材なので気持ちがいいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Hat 3]]></name>
+            <detail><![CDATA[Hat 3.]]></detail>
+        </strings>
+        <level>1</level>
+        <price>5000</price>
+        <not_sale>1</not_sale>
+    </accessory>
+</application>

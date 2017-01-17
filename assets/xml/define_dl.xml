@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+	<define>
+		<!-- レベルマックス -->
+		<LEVEL_MAX>350</LEVEL_MAX>
+		<!-- スコアリミット -->
+        <SCORE_MAX>50000.0</SCORE_MAX>
+		<!-- 部屋点リミット -->
+        <SCORE_HOUSE_MAX>10000.0</SCORE_HOUSE_MAX>
+		<!-- 家具点リミット -->
+        <SCORE_FURNITURE_MAX>30000.0</SCORE_FURNITURE_MAX>
+        
+		<!-- リワード解禁レベル -->
+		<AdRewardEnabledLevel>3</AdRewardEnabledLevel>
+		<!-- お風呂解禁レベル -->
+		<UNLOCK_BATH>4</UNLOCK_BATH>
+		<!-- ツイッター解禁レベル -->
+		<TWEET_LEVEL>8</TWEET_LEVEL>
+        
+		<!-- レベルアップで友人を招待する -->
+		<MEMBER_INVITE_LEVEL>13</MEMBER_INVITE_LEVEL>
+		<!-- レベルアップでアプリをおすすめする -->
+		<TWITTER_RECOMMEND_LEVEL>15</TWITTER_RECOMMEND_LEVEL>
+        
+		<!-- 検索で取得する最大数 -->
+		<SEARCH_LIMIT>100</SEARCH_LIMIT>
+        
+		<!-- トレードに使用するエリクサーの数(サーバ側と一致させる事) -->
+		<USE_TRADE_ELIXIR>5</USE_TRADE_ELIXIR>
+        
+		<!-- 空腹通知までの時間 60*60*12 [petname]はおなかが空いているようです -->
+		<HUNGRY_NORTIFICATION_INTERVAL_01>43200</HUNGRY_NORTIFICATION_INTERVAL_01>
+		<!-- 空腹通知までの時間 60*60*24 [petname]がかなり腹ぺこです -->
+		<HUNGRY_NORTIFICATION_INTERVAL_02>86400</HUNGRY_NORTIFICATION_INTERVAL_02>
+		<!-- 空腹通知までの時間 60*60*36 [petname]は痩せてきたようです -->
+		<HUNGRY_NORTIFICATION_INTERVAL_03>129600</HUNGRY_NORTIFICATION_INTERVAL_03>
+		<!-- 空腹通知までの時間 60*60*48 [petname]の元気がありません -->
+		<HUNGRY_NORTIFICATION_INTERVAL_04>172800</HUNGRY_NORTIFICATION_INTERVAL_04>
+        
+		<!-- AnalyticsAPI機能の切り替え、YESにすると分析情報を送信する -->
+		<ANALYTICS_MODE>YES</ANALYTICS_MODE>
+		<!-- AnalyticsAPI(event)を送信するタイミング（n件溜まったら送信する） -->
+		<ANALYTICS_SEND_EVENT_TIMING>100</ANALYTICS_SEND_EVENT_TIMING>
+        
+		<!-- イベントTweet -->
+        <event_tweet>
+            <strings lang="ja">
+                <confirm>MEGUの2周年を記念して特別なツイートができるよ!!&#xA;どちらの画像でツイートしますか？</confirm>
+                <none>しない</none>
+            </strings>
+            <strings lang="en">
+                <confirm>To celebrate the 2nd anniversary,You can tweet the special!!&#xA;Which picture do you want to tweet?</confirm>
+                <none>Cancel</none>
+            </strings>
+            <tweet>
+                <id>1</id>
+                <strings lang="ja">
+                    <name>これでツイート！</name>
+                    <message>[username]にかわって[petname]がツイート。『MEGUが発見されて2年なんだって。おめでた。2年目のおまつり中。わっしょい。』無料DL: http://goo.gl/Tiwm4 #MEGU_GAME</message>
+                </strings>
+                <strings lang="en">
+                    <name>Tweet it!!</name>
+                    <message>On behalf of [username], [petname] tweets: GROOVY! Join MEGU's 2nd festa! DL: http://goo.gl/Tiwm4 #MEGU_GAME</message>
+                </strings>
+                <type>room</type>
+                <image>
+                    <overlay>Event/AnniversaryOverlay</overlay>
+                </image>
+            </tweet>
+            <tweet>
+                <id>2</id>
+                <strings lang="ja">
+                    <name>これでツイート！</name>
+                    <message>[username]にかわって[petname]がツイート。『MEGUが発見されて2年なんだって。おめでた。2年目のおまつり中。わっしょい。』無料DL: http://goo.gl/Tiwm4 #MEGU_GAME</message>
+                </strings>
+                <strings lang="en">
+                    <name>Tweet it!!</name>
+                    <message>On behalf of [username], [petname] tweets: GROOVY! Join MEGU's 2nd festa! DL: http://goo.gl/Tiwm4 #MEGU_GAME</message>
+                </strings>
+                <type>custom</type>
+                <image>
+                    <background>Event/AnniversaryBackground</background>
+                    <overlay>Event/AnniversaryOverlay</overlay>
+                </image>
+            </tweet>
+        </event_tweet>
+	</define>
+</application>

@@ -1,0 +1,1758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+	<levelup_bonus>
+		<level>1</level>
+		<gold>100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>2</level>
+		<gold>200</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>3</level>
+		<gold>300</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>4</level>
+		<gold>400</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>5</level>
+		<gold>500</gold>
+		<elixir>1</elixir>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>6</level>
+		<gold>600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>7</level>
+		<gold>700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>8</level>
+		<gold>800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>9</level>
+		<gold>900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>10</level>
+		<gold>1000</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>11</level>
+		<gold>1100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>12</level>
+		<gold>1200</gold>
+		<elixir>1</elixir>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>13</level>
+		<gold>1300</gold>
+		<devodrug>1</devodrug>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>14</level>
+		<gold>1400</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>15</level>
+		<gold>1500</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>16</level>
+		<gold>1600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>17</level>
+		<gold>1700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>18</level>
+		<gold>1800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>19</level>
+		<gold>1900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>20</level>
+		<gold>2000</gold>
+		<devodrug>1</devodrug>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>21</level>
+		<gold>2100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>22</level>
+		<gold>2200</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>23</level>
+		<gold>2300</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>24</level>
+		<gold>2400</gold>
+		<elixir>1</elixir>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>25</level>
+		<gold>2500</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>26</level>
+		<gold>2600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>27</level>
+		<gold>2700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>28</level>
+		<gold>2800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>29</level>
+		<gold>2900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>30</level>
+		<gold>3000</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>31</level>
+		<gold>3100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>32</level>
+		<gold>3200</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>33</level>
+		<gold>3300</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>34</level>
+		<gold>3400</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>35</level>
+		<gold>3500</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>36</level>
+		<gold>3600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>37</level>
+		<gold>3700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>38</level>
+		<gold>3800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>39</level>
+		<gold>3900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>40</level>
+		<gold>4000</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>41</level>
+		<gold>4100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>42</level>
+		<gold>4200</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>43</level>
+		<gold>4300</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>44</level>
+		<gold>4400</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>45</level>
+		<gold>4500</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>46</level>
+		<gold>4600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>47</level>
+		<gold>4700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>48</level>
+		<gold>4800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>49</level>
+		<gold>4900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>50</level>
+		<gold>5000</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>51</level>
+		<gold>5100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>52</level>
+		<gold>5200</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>53</level>
+		<gold>5300</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>54</level>
+		<gold>5400</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>55</level>
+		<gold>5500</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>56</level>
+		<gold>5600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>57</level>
+		<gold>5700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>58</level>
+		<gold>5800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>59</level>
+		<gold>5900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>60</level>
+		<gold>6000</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>61</level>
+		<gold>6100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>62</level>
+		<gold>6200</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>63</level>
+		<gold>6300</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>64</level>
+		<gold>6400</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>65</level>
+		<gold>6500</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>66</level>
+		<gold>6600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>67</level>
+		<gold>6700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>68</level>
+		<gold>6800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>69</level>
+		<gold>6900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>70</level>
+		<gold>7000</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>71</level>
+		<gold>7100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>72</level>
+		<gold>7200</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>73</level>
+		<gold>7300</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>74</level>
+		<gold>7400</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>75</level>
+		<gold>7500</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>76</level>
+		<gold>7600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>77</level>
+		<gold>7700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>78</level>
+		<gold>7800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>79</level>
+		<gold>7900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>80</level>
+		<gold>8000</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>81</level>
+		<gold>8100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>82</level>
+		<gold>8200</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>83</level>
+		<gold>8300</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>84</level>
+		<gold>8400</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>85</level>
+		<gold>8500</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>86</level>
+		<gold>8600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>87</level>
+		<gold>8700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>88</level>
+		<gold>8800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>89</level>
+		<gold>8900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>90</level>
+		<gold>9000</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>91</level>
+		<gold>9100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>92</level>
+		<gold>9200</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>93</level>
+		<gold>9300</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>94</level>
+		<gold>9400</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>95</level>
+		<gold>9500</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>96</level>
+		<gold>9600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>97</level>
+		<gold>9700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>98</level>
+		<gold>9800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>99</level>
+		<gold>9900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>100</level>
+		<gold>10000</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>101</level>
+		<gold>10100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>102</level>
+		<gold>10200</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>103</level>
+		<gold>10300</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>104</level>
+		<gold>10400</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>105</level>
+		<gold>10500</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>106</level>
+		<gold>10600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>107</level>
+		<gold>10700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>108</level>
+		<gold>10800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>109</level>
+		<gold>10900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>110</level>
+		<gold>11000</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>111</level>
+		<gold>11100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>112</level>
+		<gold>11200</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>113</level>
+		<gold>11300</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>114</level>
+		<gold>11400</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>115</level>
+		<gold>11500</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>116</level>
+		<gold>11600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>117</level>
+		<gold>11700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>118</level>
+		<gold>11800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>119</level>
+		<gold>11900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>120</level>
+		<gold>12000</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>121</level>
+		<gold>12100</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>122</level>
+		<gold>12200</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>123</level>
+		<gold>12300</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>124</level>
+		<gold>12400</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>125</level>
+		<gold>12500</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>126</level>
+		<gold>12600</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>127</level>
+		<gold>12700</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>128</level>
+		<gold>12800</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>129</level>
+		<gold>12900</gold>
+	</levelup_bonus>
+    
+	<levelup_bonus>
+		<level>130</level>
+		<gold>13000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>131</level>
+		<gold>13100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>132</level>
+		<gold>13200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>133</level>
+		<gold>13300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>134</level>
+		<gold>13400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>135</level>
+		<gold>13500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>136</level>
+		<gold>13600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>137</level>
+		<gold>13700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>138</level>
+		<gold>13800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>139</level>
+		<gold>13900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>140</level>
+		<gold>14000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>141</level>
+		<gold>14100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>142</level>
+		<gold>14200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>143</level>
+		<gold>14300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>144</level>
+		<gold>14400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>145</level>
+		<gold>14500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>146</level>
+		<gold>14600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>147</level>
+		<gold>14700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>148</level>
+		<gold>14800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>149</level>
+		<gold>14900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>150</level>
+		<gold>15000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>151</level>
+		<gold>15100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>152</level>
+		<gold>15200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>153</level>
+		<gold>15300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>154</level>
+		<gold>15400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>155</level>
+		<gold>15500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>156</level>
+		<gold>15600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>157</level>
+		<gold>15700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>158</level>
+		<gold>15800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>159</level>
+		<gold>15900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>160</level>
+		<gold>16000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>161</level>
+		<gold>16100</gold>
+        <elixir>1</elixir>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>162</level>
+		<gold>16200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>163</level>
+		<gold>16300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>164</level>
+		<gold>16400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>165</level>
+		<gold>16500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>166</level>
+		<gold>16600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>167</level>
+		<gold>16700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>168</level>
+		<gold>16800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>169</level>
+		<gold>16900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>170</level>
+		<gold>17000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>171</level>
+		<gold>17100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>172</level>
+		<gold>17200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>173</level>
+		<gold>17300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>174</level>
+		<gold>17400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>175</level>
+		<gold>17500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>176</level>
+		<gold>17600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>177</level>
+		<gold>17700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>178</level>
+		<gold>17800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>179</level>
+		<gold>17900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>180</level>
+		<gold>18000</gold>
+	</levelup_bonus>
+    <levelup_bonus>
+		<level>181</level>
+		<gold>18100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>182</level>
+		<gold>18200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>183</level>
+		<gold>18300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>184</level>
+		<gold>18400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>185</level>
+		<gold>18500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>186</level>
+		<gold>18600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>187</level>
+		<gold>18700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>188</level>
+		<gold>18800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>189</level>
+		<gold>18900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>190</level>
+		<gold>19000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>191</level>
+		<gold>19100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>192</level>
+		<gold>19200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>193</level>
+		<gold>19300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>194</level>
+		<gold>19400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>195</level>
+		<gold>19500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>196</level>
+		<gold>19600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>197</level>
+		<gold>19700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>198</level>
+		<gold>19800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>199</level>
+		<gold>19900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>200</level>
+		<gold>20000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>201</level>
+		<gold>20100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>202</level>
+		<gold>20200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>203</level>
+		<gold>20300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>204</level>
+		<gold>20400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>205</level>
+		<gold>20500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>206</level>
+		<gold>20600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>207</level>
+		<gold>20700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>208</level>
+		<gold>20800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>209</level>
+		<gold>20900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>210</level>
+		<gold>21000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>211</level>
+		<gold>21100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>212</level>
+		<gold>21200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>213</level>
+		<gold>21300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>214</level>
+		<gold>21400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>215</level>
+		<gold>21500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>216</level>
+		<gold>21600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>217</level>
+		<gold>21700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>218</level>
+		<gold>21800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>219</level>
+		<gold>21900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>220</level>
+		<gold>22000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>221</level>
+		<gold>22100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>222</level>
+		<gold>22200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>223</level>
+		<gold>22300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>224</level>
+		<gold>22400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>225</level>
+		<gold>22500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>226</level>
+		<gold>22600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>227</level>
+		<gold>22700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>228</level>
+		<gold>22800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>229</level>
+		<gold>22900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>230</level>
+		<gold>23000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>231</level>
+		<gold>23100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>232</level>
+		<gold>23200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>233</level>
+		<gold>23300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>234</level>
+		<gold>23400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>235</level>
+		<gold>23500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>236</level>
+		<gold>23600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>237</level>
+		<gold>23700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>238</level>
+		<gold>23800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>239</level>
+		<gold>23900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>240</level>
+		<gold>24000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>241</level>
+		<gold>24100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>242</level>
+		<gold>24200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>243</level>
+		<gold>24300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>244</level>
+		<gold>24400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>245</level>
+		<gold>24500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>246</level>
+		<gold>24600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>247</level>
+		<gold>24700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>248</level>
+		<gold>24800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>249</level>
+		<gold>24900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>250</level>
+		<gold>25000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>251</level>
+		<gold>25100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>252</level>
+		<gold>25200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>253</level>
+		<gold>25300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>254</level>
+		<gold>25400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>255</level>
+		<gold>25500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>256</level>
+		<gold>25600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>257</level>
+		<gold>25700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>258</level>
+		<gold>25800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>259</level>
+		<gold>25900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>260</level>
+		<gold>26000</gold>
+	</levelup_bonus>
+    
+	    <levelup_bonus>
+		<level>261</level>
+		<gold>26100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>262</level>
+		<gold>26200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>263</level>
+		<gold>26300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>264</level>
+		<gold>26400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>265</level>
+		<gold>26500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>266</level>
+		<gold>26600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>267</level>
+		<gold>26700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>268</level>
+		<gold>26800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>269</level>
+		<gold>26900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>270</level>
+		<gold>27000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>271</level>
+		<gold>27100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>272</level>
+		<gold>27200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>273</level>
+		<gold>27300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>274</level>
+		<gold>27400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>275</level>
+		<gold>27500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>276</level>
+		<gold>27600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>277</level>
+		<gold>27700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>278</level>
+		<gold>27800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>279</level>
+		<gold>27900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>280</level>
+		<gold>28000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>281</level>
+		<gold>28100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>282</level>
+		<gold>28200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>283</level>
+		<gold>28300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>284</level>
+		<gold>28400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>285</level>
+		<gold>28500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>286</level>
+		<gold>28600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>287</level>
+		<gold>28700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>288</level>
+		<gold>28800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>289</level>
+		<gold>28900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>290</level>
+		<gold>29000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>291</level>
+		<gold>29100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>292</level>
+		<gold>29200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>293</level>
+		<gold>29300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>294</level>
+		<gold>29400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>295</level>
+		<gold>29500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>296</level>
+		<gold>29600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>297</level>
+		<gold>29700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>298</level>
+		<gold>29800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>299</level>
+		<gold>29900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>300</level>
+		<gold>30000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>301</level>
+		<gold>30100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>302</level>
+		<gold>30200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>303</level>
+		<gold>30300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>304</level>
+		<gold>30400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>305</level>
+		<gold>30500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>306</level>
+		<gold>30600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>307</level>
+		<gold>30700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>308</level>
+		<gold>30800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>309</level>
+		<gold>30900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>310</level>
+		<gold>31000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>311</level>
+		<gold>31100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>312</level>
+		<gold>31200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>313</level>
+		<gold>31300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>314</level>
+		<gold>31400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>315</level>
+		<gold>31500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>316</level>
+		<gold>31600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>317</level>
+		<gold>31700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>318</level>
+		<gold>31800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>319</level>
+		<gold>31900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>320</level>
+		<gold>32000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>321</level>
+		<gold>32100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>322</level>
+		<gold>32200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>323</level>
+		<gold>32300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>324</level>
+		<gold>32400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>325</level>
+		<gold>32500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>326</level>
+		<gold>32600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>327</level>
+		<gold>32700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>328</level>
+		<gold>32800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>329</level>
+		<gold>32900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>330</level>
+		<gold>33000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>331</level>
+		<gold>33100</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>332</level>
+		<gold>33200</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>333</level>
+		<gold>33300</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>334</level>
+		<gold>33400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>335</level>
+		<gold>33500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>336</level>
+		<gold>33600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>337</level>
+		<gold>33700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>338</level>
+		<gold>33800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>339</level>
+		<gold>33900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>340</level>
+		<gold>34000</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>341</level>
+		<gold>34100</gold>
+	</levelup_bonus>
+	
+    <levelup_bonus>
+		<level>342</level>
+		<gold>34200</gold>
+	</levelup_bonus>
+	
+    <levelup_bonus>
+		<level>343</level>
+		<gold>34300</gold>
+	</levelup_bonus>
+	
+    <levelup_bonus>
+		<level>344</level>
+		<gold>34400</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>345</level>
+		<gold>34500</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>346</level>
+		<gold>34600</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>347</level>
+		<gold>34700</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>348</level>
+		<gold>34800</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>349</level>
+		<gold>34900</gold>
+	</levelup_bonus>
+    
+    <levelup_bonus>
+		<level>350</level>
+		<gold>35000</gold>
+	</levelup_bonus>
+	
+</application>

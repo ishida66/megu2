@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <adventure>
+        <id>28</id>
+        <strings lang="ja">
+            <name>バタフライガーデン</name>
+            <detail>MEGUと一緒に飛び立ってみよう！（提供割合は全アイテム同一です）</detail>
+            <sale_comment></sale_comment>
+        </strings>
+        <strings lang="en">
+            <name>Butterfly Garden</name>
+            <detail>Go on a joyful flight with your MEGU.&#xA;(Chances are the same for all items)</detail>
+            <sale_comment></sale_comment>
+        </strings>
+        <use_elixir>3</use_elixir>
+        <use_elixir_first>1</use_elixir_first>
+        <start_date>2013/03/29T10:00:00+09:00</start_date>
+        <end_date>2013/04/26T10:00:00+09:00</end_date>
+        <start_time></start_time>
+        <end_time></end_time>
+        <image>
+            <bunner>AD_BNR028</bunner>
+            <background_rw_frt>AD_RW_FRT</background_rw_frt>
+            <background_rw_bhd>AD_RW_BHD</background_rw_bhd>
+            <background_rw_sa>AD_RW_SA</background_rw_sa>
+            <background_rw_01>AD_RW_01</background_rw_01>
+            <background_wd_wd>AD_WD_WD</background_wd_wd>
+            <background_wd_cld01>AD_WD_CLD01</background_wd_cld01>
+            <background_wd_cld02>AD_WD_CLD02</background_wd_cld02>
+            <background_wd_cld03>AD_WD_CLD03</background_wd_cld03>
+            <background_wd_01>AD_WD_01</background_wd_01>
+            <background_crs_fog>AD_CRS_NONE</background_crs_fog>
+            <background_crs_frt>AD_CRS028_FRT</background_crs_frt>
+            <background_crs_bhd>AD_CRS028_BHD</background_crs_bhd>
+            <background_crs_01>AD_CRS028_01</background_crs_01>
+            <background_crs_02>AD_CRS028_02</background_crs_02>
+        </image>
+        <layout>
+            <furniture>889</furniture>
+            <furniture>890</furniture>
+            <furniture>891</furniture>
+            <furniture>892</furniture>
+            <furniture>893</furniture>
+        </layout>
+        <complete></complete>
+    </adventure>
+    <adventure>
+        <id>29</id>
+        <strings lang="ja">
+            <name>海賊MEGU団</name>
+            <detail>MEGUと一緒に探検してみよう！（提供割合は全アイテム同一です）</detail>
+            <sale_comment></sale_comment>
+        </strings>
+        <strings lang="en">
+            <name>Pirate Stray MEGU</name>
+            <detail>Search for fabulous treasure with your swashbuckling MEGU.&#xA;(Chances are the same for all items)</detail>
+            <sale_comment></sale_comment>
+        </strings>
+        <use_elixir>3</use_elixir>
+        <use_elixir_first>1</use_elixir_first>
+        <start_date>2013/04/26T10:00:00+09:00</start_date>
+        <end_date>2013/05/31T10:00:00+09:00</end_date>
+        <start_time></start_time>
+        <end_time></end_time>
+        <image>
+            <bunner>AD_BNR029</bunner>
+            <background_rw_frt>AD_RW_FRT</background_rw_frt>
+            <background_rw_bhd>AD_RW_BHD</background_rw_bhd>
+            <background_rw_sa>AD_RW_SA</background_rw_sa>
+            <background_rw_01>AD_RW_01</background_rw_01>
+            <background_wd_wd>AD_WD_WD</background_wd_wd>
+            <background_wd_cld01>AD_WD_CLD01</background_wd_cld01>
+            <background_wd_cld02>AD_WD_CLD02</background_wd_cld02>
+            <background_wd_cld03>AD_WD_CLD03</background_wd_cld03>
+            <background_wd_01>AD_WD_01</background_wd_01>
+            <background_crs_fog>AD_CRS_NONE</background_crs_fog>
+            <background_crs_frt>AD_CRS029_FRT</background_crs_frt>
+            <background_crs_bhd>AD_CRS029_BHD</background_crs_bhd>
+            <background_crs_01>AD_CRS029_01</background_crs_01>
+            <background_crs_02>AD_CRS029_02</background_crs_02>
+        </image>
+        <layout>
+            <furniture>894</furniture>
+            <furniture>895</furniture>
+            <furniture>896</furniture>
+            <furniture>897</furniture>
+            <furniture>898</furniture>
+        </layout>
+        <complete></complete>
+    </adventure>
+    <adventure>
+        <id>99</id>
+        <strings lang="ja">
+            <name>小さな無人島</name>
+            <detail>MEGUと一緒に小さな無人島に来てみると...(提供割合は全アイテム同一です)</detail>
+            <sale_comment></sale_comment>
+        </strings>
+        <strings lang="en">
+            <name>Lost</name>
+            <detail>Visit this tiny, uninhabited island with your MEGU.&#xA;(Chances are the same for all items)</detail>
+            <sale_comment></sale_comment>
+        </strings>
+        <use_elixir>3</use_elixir>
+        <use_elixir_first>0</use_elixir_first>
+        <start_date>2013/05/31T10:00:00+09:00</start_date>
+        <end_date>2013/08/30T10:00:00+09:00</end_date>
+        <start_time></start_time>
+        <end_time></end_time>
+        <image>
+            <bunner>AD_BNR099</bunner>
+            <background_rw_frt>AD_RW_FRT</background_rw_frt>
+            <background_rw_bhd>AD_RW_BHD</background_rw_bhd>
+            <background_rw_sa>AD_RW_SA</background_rw_sa>
+            <background_rw_01>AD_RW_01</background_rw_01>
+            <background_wd_wd>AD_WD_WD</background_wd_wd>
+            <background_wd_cld01>AD_WD_CLD01</background_wd_cld01>
+            <background_wd_cld02>AD_WD_CLD02</background_wd_cld02>
+            <background_wd_cld03>AD_WD_CLD03</background_wd_cld03>
+            <background_wd_01>AD_WD_01</background_wd_01>
+            <background_crs_fog>AD_CRS_NONE</background_crs_fog>
+            <background_crs_frt>AD_CRS099_FRT</background_crs_frt>
+            <background_crs_bhd>AD_CRS099_BHD</background_crs_bhd>
+            <background_crs_01>AD_CRS099_01</background_crs_01>
+            <background_crs_02>AD_CRS099_02</background_crs_02>
+        </image>
+        <layout>
+            <furniture>656</furniture>
+            <furniture>657</furniture>
+            <furniture>658</furniture>
+            <furniture>659</furniture>
+            <furniture>660</furniture>
+        </layout>
+        <complete></complete>
+    </adventure>
+</application>

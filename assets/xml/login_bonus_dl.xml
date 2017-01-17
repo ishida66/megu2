@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+	
+	<login_bonus>
+		<level>1</level>
+		<gold>100</gold>
+		<food>3</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>2</level>
+		<gold>200</gold>
+		<food>4</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>3</level>
+		<gold>300</gold>
+		<food>5</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>4</level>
+		<gold>400</gold>
+		<food>7</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>5</level>
+		<gold>500</gold>
+		<food>9</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>6</level>
+		<gold>600</gold>
+		<food>11</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>7</level>
+		<gold>700</gold>
+		<food>12</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>8</level>
+		<gold>800</gold>
+		<food>13</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>9</level>
+		<gold>900</gold>
+		<food>14</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>10</level>
+		<gold>1000</gold>
+		<food>15</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>11</level>
+		<gold>1100</gold>
+		<food>16</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>12</level>
+		<gold>1200</gold>
+		<food>17</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>13</level>
+		<gold>1300</gold>
+		<food>18</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>14</level>
+		<gold>1400</gold>
+		<food>19</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>15</level>
+		<gold>1500</gold>
+		<food>20</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>16</level>
+		<gold>1600</gold>
+		<food>21</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>17</level>
+		<gold>1700</gold>
+		<food>22</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>18</level>
+		<gold>1800</gold>
+		<food>23</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>19</level>
+		<gold>1900</gold>
+		<food>24</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>20</level>
+		<gold>2000</gold>
+		<food>25</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>21</level>
+		<gold>2100</gold>
+		<food>26</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>22</level>
+		<gold>2200</gold>
+		<food>27</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>23</level>
+		<gold>2300</gold>
+		<food>27</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>24</level>
+		<gold>2400</gold>
+		<food>28</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>25</level>
+		<gold>2500</gold>
+		<food>28</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>26</level>
+		<gold>2600</gold>
+		<food>29</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>27</level>
+		<gold>2700</gold>
+		<food>29</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>28</level>
+		<gold>2800</gold>
+		<food>29</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>29</level>
+		<gold>2900</gold>
+		<food>30</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>30</level>
+		<gold>3000</gold>
+		<food>30</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>31</level>
+		<gold>3100</gold>
+		<food>30</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>32</level>
+		<gold>3200</gold>
+		<food>31</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>33</level>
+		<gold>3300</gold>
+		<food>31</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>34</level>
+		<gold>3400</gold>
+		<food>31</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>35</level>
+		<gold>3500</gold>
+		<food>32</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>36</level>
+		<gold>3600</gold>
+		<food>32</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>37</level>
+		<gold>3700</gold>
+		<food>33</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>38</level>
+		<gold>3800</gold>
+		<food>33</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>39</level>
+		<gold>3900</gold>
+		<food>33</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>40</level>
+		<gold>4000</gold>
+		<food>34</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>41</level>
+		<gold>4100</gold>
+		<food>34</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>42</level>
+		<gold>4200</gold>
+		<food>34</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>43</level>
+		<gold>4300</gold>
+		<food>35</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>44</level>
+		<gold>4400</gold>
+		<food>35</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>45</level>
+		<gold>4500</gold>
+		<food>35</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>46</level>
+		<gold>4600</gold>
+		<food>36</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>47</level>
+		<gold>4700</gold>
+		<food>36</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>48</level>
+		<gold>4800</gold>
+		<food>36</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>49</level>
+		<gold>4900</gold>
+		<food>37</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>50</level>
+		<gold>5000</gold>
+		<food>37</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>51</level>
+		<gold>5100</gold>
+		<food>37</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>52</level>
+		<gold>5200</gold>
+		<food>37</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>53</level>
+		<gold>5300</gold>
+		<food>39</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>54</level>
+		<gold>5400</gold>
+		<food>39</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>55</level>
+		<gold>5500</gold>
+		<food>39</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>56</level>
+		<gold>5600</gold>
+		<food>39</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>57</level>
+		<gold>5700</gold>
+		<food>40</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>58</level>
+		<gold>5800</gold>
+		<food>40</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>59</level>
+		<gold>5900</gold>
+		<food>40</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>60</level>
+		<gold>6000</gold>
+		<food>42</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>61</level>
+		<gold>6100</gold>
+		<food>42</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>62</level>
+		<gold>6200</gold>
+		<food>43</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>63</level>
+		<gold>6300</gold>
+		<food>43</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>64</level>
+		<gold>6400</gold>
+		<food>44</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>65</level>
+		<gold>6500</gold>
+		<food>44</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>66</level>
+		<gold>6600</gold>
+		<food>45</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>67</level>
+		<gold>6700</gold>
+		<food>45</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>68</level>
+		<gold>6800</gold>
+		<food>46</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>69</level>
+		<gold>6900</gold>
+		<food>46</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>70</level>
+		<gold>7000</gold>
+		<food>47</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>71</level>
+		<gold>7100</gold>
+		<food>47</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>72</level>
+		<gold>7200</gold>
+		<food>48</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>73</level>
+		<gold>7300</gold>
+		<food>48</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>74</level>
+		<gold>7400</gold>
+		<food>49</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>75</level>
+		<gold>7500</gold>
+		<food>49</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>76</level>
+		<gold>7600</gold>
+		<food>50</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>77</level>
+		<gold>7700</gold>
+		<food>50</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>78</level>
+		<gold>7800</gold>
+		<food>51</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>79</level>
+		<gold>7900</gold>
+		<food>51</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>80</level>
+		<gold>8000</gold>
+		<food>52</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>81</level>
+		<gold>8100</gold>
+		<food>51</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>82</level>
+		<gold>8200</gold>
+		<food>52</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>83</level>
+		<gold>8300</gold>
+		<food>53</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>84</level>
+		<gold>8400</gold>
+		<food>52</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>85</level>
+		<gold>8500</gold>
+		<food>53</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>86</level>
+		<gold>8600</gold>
+		<food>52</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>87</level>
+		<gold>8700</gold>
+		<food>54</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>88</level>
+		<gold>8800</gold>
+		<food>53</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>89</level>
+		<gold>8900</gold>
+		<food>54</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>90</level>
+		<gold>9000</gold>
+		<food>53</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>91</level>
+		<gold>9100</gold>
+		<food>55</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>92</level>
+		<gold>9200</gold>
+		<food>54</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>93</level>
+		<gold>9300</gold>
+		<food>55</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>94</level>
+		<gold>9400</gold>
+		<food>54</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>95</level>
+		<gold>9500</gold>
+		<food>56</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>96</level>
+		<gold>9600</gold>
+		<food>55</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>97</level>
+		<gold>9700</gold>
+		<food>56</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>98</level>
+		<gold>9800</gold>
+		<food>55</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>99</level>
+		<gold>9900</gold>
+		<food>57</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>100</level>
+		<gold>10000</gold>
+		<food>56</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>101</level>
+		<gold>10100</gold>
+		<food>57</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>102</level>
+		<gold>10200</gold>
+		<food>56</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>103</level>
+		<gold>10300</gold>
+		<food>58</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>104</level>
+		<gold>10400</gold>
+		<food>57</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>105</level>
+		<gold>10500</gold>
+		<food>58</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>106</level>
+		<gold>10600</gold>
+		<food>57</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>107</level>
+		<gold>10700</gold>
+		<food>59</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>108</level>
+		<gold>10800</gold>
+		<food>58</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>109</level>
+		<gold>10900</gold>
+		<food>59</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>110</level>
+		<gold>11000</gold>
+		<food>58</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>111</level>
+		<gold>11100</gold>
+		<food>59</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>112</level>
+		<gold>11200</gold>
+		<food>60</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>113</level>
+		<gold>11300</gold>
+		<food>59</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>114</level>
+		<gold>11400</gold>
+		<food>60</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>115</level>
+		<gold>11500</gold>
+		<food>61</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>116</level>
+		<gold>11600</gold>
+		<food>60</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>117</level>
+		<gold>11700</gold>
+		<food>61</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>118</level>
+		<gold>11800</gold>
+		<food>62</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>119</level>
+		<gold>11900</gold>
+		<food>61</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>120</level>
+		<gold>12000</gold>
+		<food>62</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>121</level>
+		<gold>12100</gold>
+		<food>63</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>122</level>
+		<gold>12200</gold>
+		<food>62</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>123</level>
+		<gold>12300</gold>
+		<food>64</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>124</level>
+		<gold>12400</gold>
+		<food>63</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>125</level>
+		<gold>12500</gold>
+		<food>65</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>126</level>
+		<gold>12600</gold>
+		<food>64</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>127</level>
+		<gold>12700</gold>
+		<food>66</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>128</level>
+		<gold>12800</gold>
+		<food>65</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>129</level>
+		<gold>12900</gold>
+		<food>67</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>130</level>
+		<gold>13000</gold>
+		<food>68</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>131</level>
+		<gold>13100</gold>
+		<food>70</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>132</level>
+		<gold>13200</gold>
+		<food>71</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>133</level>
+		<gold>13300</gold>
+		<food>70</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>134</level>
+		<gold>13400</gold>
+		<food>72</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>135</level>
+		<gold>13500</gold>
+		<food>71</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>136</level>
+		<gold>13600</gold>
+		<food>72</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>137</level>
+		<gold>13700</gold>
+		<food>74</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>138</level>
+		<gold>13800</gold>
+		<food>72</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>139</level>
+		<gold>13900</gold>
+		<food>74</food>
+	</login_bonus>
+    
+	<login_bonus>
+		<level>140</level>
+		<gold>14000</gold>
+		<food>74</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>141</level>
+		<gold>14100</gold>
+		<food>85</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>142</level>
+		<gold>14200</gold>
+		<food>86</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>143</level>
+		<gold>14300</gold>
+		<food>88</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>144</level>
+		<gold>14400</gold>
+		<food>89</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>145</level>
+		<gold>14500</gold>
+		<food>90</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>146</level>
+		<gold>14600</gold>
+		<food>93</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>147</level>
+		<gold>14700</gold>
+		<food>94</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>148</level>
+		<gold>14800</gold>
+		<food>96</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>149</level>
+		<gold>14900</gold>
+		<food>97</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>150</level>
+		<gold>15000</gold>
+		<food>98</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>151</level>
+		<gold>15100</gold>
+		<food>101</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>152</level>
+		<gold>15200</gold>
+		<food>102</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>153</level>
+		<gold>15300</gold>
+		<food>103</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>154</level>
+		<gold>15400</gold>
+		<food>104</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>155</level>
+		<gold>15500</gold>
+		<food>105</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>156</level>
+		<gold>15600</gold>
+		<food>106</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>157</level>
+		<gold>15700</gold>
+		<food>107</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>158</level>
+		<gold>15800</gold>
+		<food>108</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>159</level>
+		<gold>15900</gold>
+		<food>109</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>160</level>
+		<gold>16000</gold>
+		<food>110</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>161</level>
+		<gold>16100</gold>
+		<food>110</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>162</level>
+		<gold>16200</gold>
+		<food>111</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>163</level>
+		<gold>16300</gold>
+		<food>111</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>164</level>
+		<gold>16400</gold>
+		<food>112</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>165</level>
+		<gold>16500</gold>
+		<food>112</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>166</level>
+		<gold>16600</gold>
+		<food>113</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>167</level>
+		<gold>16700</gold>
+		<food>113</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>168</level>
+		<gold>16800</gold>
+		<food>114</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>169</level>
+		<gold>16900</gold>
+		<food>114</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>170</level>
+		<gold>17000</gold>
+		<food>115</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>171</level>
+		<gold>17100</gold>
+		<food>116</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>172</level>
+		<gold>17200</gold>
+		<food>117</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>173</level>
+		<gold>17300</gold>
+		<food>118</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>174</level>
+		<gold>17400</gold>
+		<food>119</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>175</level>
+		<gold>17500</gold>
+		<food>120</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>176</level>
+		<gold>17600</gold>
+		<food>121</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>177</level>
+		<gold>17700</gold>
+		<food>122</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>178</level>
+		<gold>17800</gold>
+		<food>123</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>179</level>
+		<gold>17900</gold>
+		<food>124</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>180</level>
+		<gold>18000</gold>
+		<food>125</food>
+	</login_bonus>
+    <login_bonus>
+		<level>181</level>
+		<gold>18100</gold>
+		<food>126</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>182</level>
+		<gold>18200</gold>
+		<food>126</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>183</level>
+		<gold>18300</gold>
+		<food>127</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>184</level>
+		<gold>18400</gold>
+		<food>127</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>185</level>
+		<gold>18500</gold>
+		<food>128</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>186</level>
+		<gold>18600</gold>
+		<food>128</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>187</level>
+		<gold>18700</gold>
+		<food>129</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>188</level>
+		<gold>18800</gold>
+		<food>129</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>189</level>
+		<gold>18900</gold>
+		<food>130</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>190</level>
+		<gold>19000</gold>
+		<food>131</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>191</level>
+		<gold>19100</gold>
+		<food>132</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>192</level>
+		<gold>19200</gold>
+		<food>133</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>193</level>
+		<gold>19300</gold>
+		<food>134</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>194</level>
+		<gold>19400</gold>
+		<food>135</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>195</level>
+		<gold>19500</gold>
+		<food>136</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>196</level>
+		<gold>19600</gold>
+		<food>137</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>197</level>
+		<gold>19700</gold>
+		<food>138</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>198</level>
+		<gold>19800</gold>
+		<food>140</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>199</level>
+		<gold>19900</gold>
+		<food>141</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>200</level>
+		<gold>20000</gold>
+		<food>142</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>201</level>
+		<gold>20100</gold>
+		<food>143</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>202</level>
+		<gold>20200</gold>
+		<food>144</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>203</level>
+		<gold>20300</gold>
+		<food>145</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>204</level>
+		<gold>20400</gold>
+		<food>146</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>205</level>
+		<gold>20500</gold>
+		<food>147</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>206</level>
+		<gold>20600</gold>
+		<food>148</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>207</level>
+		<gold>20700</gold>
+		<food>149</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>208</level>
+		<gold>20800</gold>
+		<food>150</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>209</level>
+		<gold>20900</gold>
+		<food>151</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>210</level>
+		<gold>21000</gold>
+		<food>152</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>211</level>
+		<gold>21100</gold>
+		<food>153</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>212</level>
+		<gold>21200</gold>
+		<food>154</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>213</level>
+		<gold>21300</gold>
+		<food>155</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>214</level>
+		<gold>21400</gold>
+		<food>156</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>215</level>
+		<gold>21500</gold>
+		<food>157</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>216</level>
+		<gold>21600</gold>
+		<food>158</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>217</level>
+		<gold>21700</gold>
+		<food>159</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>218</level>
+		<gold>21800</gold>
+		<food>160</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>219</level>
+		<gold>21900</gold>
+		<food>161</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>220</level>
+		<gold>22000</gold>
+		<food>162</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>221</level>
+		<gold>22100</gold>
+		<food>163</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>222</level>
+		<gold>22200</gold>
+		<food>164</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>223</level>
+		<gold>22300</gold>
+		<food>165</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>224</level>
+		<gold>22400</gold>
+		<food>166</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>225</level>
+		<gold>22500</gold>
+		<food>167</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>226</level>
+		<gold>22600</gold>
+		<food>168</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>227</level>
+		<gold>22700</gold>
+		<food>169</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>228</level>
+		<gold>22800</gold>
+		<food>170</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>229</level>
+		<gold>22900</gold>
+		<food>171</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>230</level>
+		<gold>23000</gold>
+		<food>172</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>231</level>
+		<gold>23100</gold>
+		<food>173</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>232</level>
+		<gold>23200</gold>
+		<food>174</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>233</level>
+		<gold>23300</gold>
+		<food>175</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>234</level>
+		<gold>23400</gold>
+		<food>176</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>235</level>
+		<gold>23500</gold>
+		<food>177</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>236</level>
+		<gold>23600</gold>
+		<food>178</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>237</level>
+		<gold>23700</gold>
+		<food>179</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>238</level>
+		<gold>23800</gold>
+		<food>180</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>239</level>
+		<gold>23900</gold>
+		<food>181</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>240</level>
+		<gold>24000</gold>
+		<food>182</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>241</level>
+		<gold>24100</gold>
+		<food>183</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>242</level>
+		<gold>24200</gold>
+		<food>184</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>243</level>
+		<gold>24300</gold>
+		<food>185</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>244</level>
+		<gold>24400</gold>
+		<food>186</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>245</level>
+		<gold>24500</gold>
+		<food>187</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>246</level>
+		<gold>24600</gold>
+		<food>188</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>247</level>
+		<gold>24700</gold>
+		<food>189</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>248</level>
+		<gold>24800</gold>
+		<food>190</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>249</level>
+		<gold>24900</gold>
+		<food>191</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>250</level>
+		<gold>25000</gold>
+		<food>192</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>251</level>
+		<gold>25100</gold>
+		<food>193</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>252</level>
+		<gold>25200</gold>
+		<food>194</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>253</level>
+		<gold>25300</gold>
+		<food>195</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>254</level>
+		<gold>25400</gold>
+		<food>196</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>255</level>
+		<gold>25500</gold>
+		<food>197</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>256</level>
+		<gold>25600</gold>
+		<food>198</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>257</level>
+		<gold>25700</gold>
+		<food>199</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>258</level>
+		<gold>25800</gold>
+		<food>200</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>259</level>
+		<gold>25900</gold>
+		<food>201</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>260</level>
+		<gold>26000</gold>
+		<food>202</food>
+	</login_bonus>
+
+    <login_bonus>
+		<level>261</level>
+		<gold>26100</gold>
+		<food>203</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>262</level>
+		<gold>26200</gold>
+		<food>204</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>263</level>
+		<gold>26300</gold>
+		<food>205</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>264</level>
+		<gold>26400</gold>
+		<food>206</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>265</level>
+		<gold>26500</gold>
+		<food>207</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>266</level>
+		<gold>26600</gold>
+		<food>208</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>267</level>
+		<gold>26700</gold>
+		<food>209</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>268</level>
+		<gold>26800</gold>
+		<food>210</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>269</level>
+		<gold>26900</gold>
+		<food>211</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>270</level>
+		<gold>27000</gold>
+		<food>212</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>271</level>
+		<gold>27100</gold>
+		<food>213</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>272</level>
+		<gold>27200</gold>
+		<food>214</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>273</level>
+		<gold>27300</gold>
+		<food>215</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>274</level>
+		<gold>27400</gold>
+		<food>216</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>275</level>
+		<gold>27500</gold>
+		<food>217</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>276</level>
+		<gold>27600</gold>
+		<food>218</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>277</level>
+		<gold>27700</gold>
+		<food>219</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>278</level>
+		<gold>27800</gold>
+		<food>220</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>279</level>
+		<gold>27900</gold>
+		<food>221</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>280</level>
+		<gold>28000</gold>
+		<food>222</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>281</level>
+		<gold>28100</gold>
+		<food>223</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>282</level>
+		<gold>28200</gold>
+		<food>224</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>283</level>
+		<gold>28300</gold>
+		<food>225</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>284</level>
+		<gold>28400</gold>
+		<food>226</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>285</level>
+		<gold>28500</gold>
+		<food>227</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>286</level>
+		<gold>28600</gold>
+		<food>228</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>287</level>
+		<gold>28700</gold>
+		<food>229</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>288</level>
+		<gold>28800</gold>
+		<food>230</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>289</level>
+		<gold>28900</gold>
+		<food>231</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>290</level>
+		<gold>29000</gold>
+		<food>232</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>291</level>
+		<gold>29100</gold>
+		<food>233</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>292</level>
+		<gold>29200</gold>
+		<food>234</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>293</level>
+		<gold>29300</gold>
+		<food>235</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>294</level>
+		<gold>29400</gold>
+		<food>236</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>295</level>
+		<gold>29500</gold>
+		<food>237</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>296</level>
+		<gold>29600</gold>
+		<food>238</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>297</level>
+		<gold>29700</gold>
+		<food>239</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>298</level>
+		<gold>29800</gold>
+		<food>240</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>299</level>
+		<gold>29900</gold>
+		<food>241</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>300</level>
+		<gold>30000</gold>
+		<food>242</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>301</level>
+		<gold>30100</gold>
+		<food>243</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>302</level>
+		<gold>30200</gold>
+		<food>244</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>303</level>
+		<gold>30300</gold>
+		<food>245</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>304</level>
+		<gold>30400</gold>
+		<food>246</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>305</level>
+		<gold>30500</gold>
+		<food>247</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>306</level>
+		<gold>30600</gold>
+		<food>248</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>307</level>
+		<gold>30700</gold>
+		<food>249</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>308</level>
+		<gold>30800</gold>
+		<food>250</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>309</level>
+		<gold>30900</gold>
+		<food>251</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>310</level>
+		<gold>31000</gold>
+		<food>252</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>311</level>
+		<gold>31100</gold>
+		<food>253</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>312</level>
+		<gold>31200</gold>
+		<food>254</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>313</level>
+		<gold>31300</gold>
+		<food>255</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>314</level>
+		<gold>31400</gold>
+		<food>256</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>315</level>
+		<gold>31500</gold>
+		<food>257</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>316</level>
+		<gold>31600</gold>
+		<food>258</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>317</level>
+		<gold>31700</gold>
+		<food>259</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>318</level>
+		<gold>31800</gold>
+		<food>260</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>319</level>
+		<gold>31900</gold>
+		<food>261</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>320</level>
+		<gold>32000</gold>
+		<food>262</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>321</level>
+		<gold>32100</gold>
+		<food>263</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>322</level>
+		<gold>32200</gold>
+		<food>264</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>323</level>
+		<gold>32300</gold>
+		<food>265</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>324</level>
+		<gold>32400</gold>
+		<food>266</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>325</level>
+		<gold>32500</gold>
+		<food>267</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>326</level>
+		<gold>32600</gold>
+		<food>268</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>327</level>
+		<gold>32700</gold>
+		<food>269</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>328</level>
+		<gold>32800</gold>
+		<food>270</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>329</level>
+		<gold>32900</gold>
+		<food>271</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>330</level>
+		<gold>33000</gold>
+		<food>272</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>331</level>
+		<gold>33100</gold>
+		<food>273</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>332</level>
+		<gold>33200</gold>
+		<food>274</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>333</level>
+		<gold>33300</gold>
+		<food>275</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>334</level>
+		<gold>33400</gold>
+		<food>276</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>335</level>
+		<gold>33500</gold>
+		<food>277</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>336</level>
+		<gold>33600</gold>
+		<food>278</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>337</level>
+		<gold>33700</gold>
+		<food>279</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>338</level>
+		<gold>33800</gold>
+		<food>280</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>339</level>
+		<gold>33900</gold>
+		<food>281</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>340</level>
+		<gold>34000</gold>
+		<food>283</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>341</level>
+		<gold>34100</gold>
+		<food>284</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>342</level>
+		<gold>34200</gold>
+		<food>285</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>343</level>
+		<gold>34300</gold>
+		<food>286</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>344</level>
+		<gold>34400</gold>
+		<food>287</food>
+	</login_bonus>
+	
+    <login_bonus>
+		<level>345</level>
+		<gold>34500</gold>
+		<food>288</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>346</level>
+		<gold>34600</gold>
+		<food>289</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>347</level>
+		<gold>34700</gold>
+		<food>290</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>348</level>
+		<gold>34800</gold>
+		<food>291</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>349</level>
+		<gold>34900</gold>
+		<food>292</food>
+	</login_bonus>
+    
+    <login_bonus>
+		<level>350</level>
+		<gold>35000</gold>
+		<food>293</food>
+	</login_bonus>
+	
+</application>

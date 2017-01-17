@@ -1,0 +1,5559 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    
+	<megu>
+		<id>1</id>
+		<strings lang="ja">
+			<name>MEGU</name>
+			<detail>渋谷の温泉掘削現場でみつかったタマゴから生まれた。飼育が容易でペットとして最適と思われていた。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MEGU</name>
+			<detail>MEGU was born from the egg found at the hot springs excavating site in Shibuya, Japan.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<change>2</change>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>2</id>
+		<strings lang="ja">
+			<name>MEGU-MI</name>
+			<detail>MEGUが少し成長。恥ずかしがりやな性格が若い世代を中心に人気。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MEGU-MI</name>
+			<detail>MEGU-MI's shy character is popular among young generations.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<change>3</change>
+		<degeneration>1</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>3</id>
+		<strings lang="ja">
+			<name>MEGU-LA</name>
+			<detail>ゴキゲンかと思えばちょっとしたことで すぐにゴキゲンななめに。でも信頼が下がりすぎると…。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MEGU-LA</name>
+			<detail>Don't hit MEGU-LA. Otherwise...</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<change>4</change>
+		<degeneration>2</degeneration>
+		<special>
+			<special_change>27</special_change>
+			<trust_less>20</trust_less>
+		</special>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>4</id>
+		<strings lang="ja">
+			<name>MOGU</name>
+			<detail>芸を教えると驚くほど早く上達するが トイレの場所や飼い主の顔は驚くほどすぐ忘れてしまう。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MOGU</name>
+			<detail>MOGU is forgetful although MOGU is a versatile entertainer.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>5</change>
+		<degeneration>3</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>5</id>
+		<strings lang="ja">
+			<name>KITTAL</name>
+			<detail>カワイイ外見に似合わず 強くどうもうに成長をする可能性も秘めている。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KITTAL</name>
+			<detail>Looks cute, but mind is…</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>6</change>
+		<degeneration>4</degeneration>
+		<special>
+			<special_change>11</special_change>
+			<weight_more>5.5</weight_more>
+			<stress_more>50</stress_more>
+		</special>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>6</id>
+		<strings lang="ja">
+			<name>KITTAL-MI</name>
+			<detail>「身長はスイカ３個分なの！」がもちネタだが いまいちウケはよくない。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KITTAL-MI</name>
+			<detail>As tall as exactly three watermelons.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>7</change>
+		<degeneration>5</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>7</id>
+		<strings lang="ja">
+			<name>KITTAL-LA</name>
+			<detail>実はネズミが大嫌いだが 某ネコ型ロボットと被るので ひた隠しに生きる毎日。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KITTAL-LA</name>
+			<detail>Looks like a cat, but KITTAL-LA hate mice very much.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>3</hungry>
+		<change>9</change>
+		<degeneration>6</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>8</id>
+		<strings lang="ja">
+			<name>KIRI-LA</name>
+			<detail>なわばり意識が強く よそ者に対しては勇敢に挑むが その縄張りが極端にせまく 争う姿を見たものは少ない。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>KIRI-LA</name>
+			<detail>Doesn't like fighting, loves peace.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>13</change>
+		<degeneration>10</degeneration>
+		<special>
+			<special_change>34</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>8</elixir_more>
+			<weight_less>3.0</weight_less>
+			<stress_less>10</stress_less>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>9</id>
+		<strings lang="ja">
+			<name>CATTAL</name>
+			<detail>しっかり者に見えて実はおっちょこちょい。人間でいうとO型タイプだが 本人はA型と主張している。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>CATTAL</name>
+			<detail>CATTAL seems to reliable person. But in fact, CATTAL is a scatterbrain.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>10</change>
+		<degeneration>7</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>12.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>10</id>
+		<strings lang="ja">
+			<name>CATTAL-LA</name>
+			<detail>神々しい外見と凛としたまなざしには 誰もが一目を置く存在。そんな風に言われる日を夢みている。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>CATTAL-LA</name>
+			<detail>Bigger than a cat, smaller than a dog.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>8</change>
+		<degeneration>9</degeneration>
+		<special>
+			<special_change>31</special_change>
+			<elixir_more>5</elixir_more>
+		</special>
+		<min_weight>6.0</min_weight>
+		<max_weight>12.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>11</id>
+		<strings lang="ja">
+			<name>KOAL</name>
+			<detail>過剰なストレスによる防衛本能により進化した姿。もういぢめないでね。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>KOAL</name>
+			<detail>The figure which evolved by the excessive stress. Please Don't pick on KOAL.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>12</change>
+		<degeneration>5</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>12</id>
+		<strings lang="ja">
+			<name>KOAL-MI</name>
+			<detail>暴れん坊に見られがちだが 実際にはいつもアクビをしているお寝坊さん。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>KOAL-MI</name>
+			<detail>KOAL-MI is late riser who is always yawning.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>3</hungry>
+		<change>19</change>
+		<degeneration>11</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>12.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>13</id>
+		<strings lang="ja">
+			<name>GIRAFA</name>
+			<detail>「なんかキリンっぽーい！」と言われ残念な気持ちになる。実はウシの仲間なのだ。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>GIRAFA</name>
+			<detail>Looks like giraffe? But GIRAFA is a family of cow.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>5</hungry>
+		<change>34</change>
+		<degeneration>8</degeneration>
+		<special>
+			<special_change>21</special_change>
+			<trust_less>20</trust_less>
+			<weight_more>15.0</weight_more>
+		</special>
+		<min_weight>10.0</min_weight>
+		<max_weight>15.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>14</id>
+		<strings lang="ja">
+			<name>DOMON</name>
+			<detail>「低俗なバラエティ番組なんてダイキライ」という 意外とマジメな一面もみせる。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>DOMON</name>
+			<detail>Doesn't like comedey show. DOMON is surprisingly earnest.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>15</change>
+		<degeneration>28</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>12.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>15</id>
+		<strings lang="ja">
+			<name>TANON</name>
+			<detail>眼力の弱さに定評があり「癒されるぅ」と「嫌すぎるぅ」のふたつに人気がわかれる。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>TANON</name>
+			<detail>Walking noisy, eating noisy, sleeping silently.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>23</change>
+		<degeneration>14</degeneration>
+		<min_weight>7.0</min_weight>
+		<max_weight>14.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>16</id>
+		<strings lang="ja">
+			<name>EGGO</name>
+			<detail>なんにも考えていないようにみえるが 常に夕食の献立と巨人戦の試合結果を考えている。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>EGGO</name>
+			<detail>Thinking about food anytime.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>29</change>
+		<degeneration>23</degeneration>
+		<special>
+			<special_change>102</special_change>
+			<trust_more>80</trust_more>
+			<elixir_more>3</elixir_more>
+			<weight_more>10.0</weight_more>
+		</special>
+		<min_weight>7.0</min_weight>
+		<max_weight>14.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>17</id>
+		<strings lang="ja">
+			<name>BEEFF</name>
+			<detail>極端に短足と思われがちだが足を体内に折りたたんでいる。いざという時に立ち上がる事もある。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BEEFF</name>
+			<detail>BEEFF's legs seem to be very short but BEEFF is folding up the legs inside of the body.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>18</change>
+		<degeneration>19</degeneration>
+		<special>
+			<special_change>21</special_change>
+			<weight_more>14.0</weight_more>
+			<stress_more>80</stress_more>
+		</special>
+		<min_weight>7.0</min_weight>
+		<max_weight>14.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>18</id>
+		<strings lang="ja">
+			<name>BEEFM</name>
+			<detail>相手を威嚇する自慢の角…にみえるが じつは耳。さわるとプニプニして気持ちいい。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BEEFM</name>
+			<detail>The ears which seem to horns are very soft.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>20</change>
+		<degeneration>17</degeneration>
+		<min_weight>7.0</min_weight>
+		<max_weight>14.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>19</id>
+		<strings lang="ja">
+			<name>BALY</name>
+			<detail>危険を感じると身を丸くし ゴロゴロと転がって逃げる…と考え できるだけ坂道を歩くようにしている。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>BALY</name>
+			<detail>Walking like a rolling stone.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>7</hungry>
+		<change>17</change>
+		<degeneration>12</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>12.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>20</id>
+		<strings lang="ja">
+			<name>FISHA</name>
+			<detail>太古の魚類の姿と言われているらしいが 誰が言っていたのかは不明。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>FISHA</name>
+			<detail>Someone said FISHA is the figure of ancient fishes.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>8</hungry>
+		<change>32</change>
+		<degeneration>18</degeneration>
+		<special>
+			<special_change>14</special_change>
+			<trust_more>80</trust_more>
+			<elixir_more>3</elixir_more>
+			<weight_less>8.0</weight_less>
+		</special>
+		<min_weight>6.0</min_weight>
+		<max_weight>15.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>21</id>
+		<strings lang="ja">
+			<name>SAULA</name>
+			<detail>極端な大食漢で 兄弟や仲間のゴハンまで取り合うワンパクぶり。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>SAULA</name>
+			<detail>Eat like a horse.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>10</hungry>
+		<change>22</change>
+		<degeneration>17</degeneration>
+		<min_weight>13.0</min_weight>
+		<max_weight>20.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>22</id>
+		<strings lang="ja">
+			<name>DINO</name>
+			<detail>凶暴な外見からは想像ができないほど温和でやさしい性格。と言われている。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>DINO</name>
+			<detail>Live alone in the Mars.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>10</hungry>
+		<change>21</change>
+		<degeneration>21</degeneration>
+		<special>
+			<special_change>32</special_change>
+			<trust_more>99</trust_more>
+			<elixir_more>6</elixir_more>
+			<weight_less>16.0</weight_less>
+		</special>
+		<min_weight>15.0</min_weight>
+		<max_weight>25.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>23</id>
+		<strings lang="ja">
+			<name>SUNF</name>
+			<detail>知性が著しく高いが それを気づかれないよう常にアホっぽく振舞っているので その知性に気づくものがいない。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SUNF</name>
+			<detail>Pretending an idiot.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>3</hungry>
+		<change>24</change>
+		<degeneration>15</degeneration>
+		<special>
+			<special_change>16</special_change>
+			<elixir_more>8</elixir_more>
+		</special>
+		<min_weight>7.0</min_weight>
+		<max_weight>16.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>24</id>
+		<strings lang="ja">
+			<name>MUSH</name>
+			<detail>DNAに傷がついたことで変異した種。人が見ているときは二本足で歩くが 一人でいると四つんばいになって歩く。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MUSH</name>
+			<detail>New variety of MEGU. When MUSH is alone, MUSH walks on all fours.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>25</change>
+		<degeneration>23</degeneration>
+		<min_weight>1.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>25</id>
+		<strings lang="ja">
+			<name>MUSH-MI</name>
+			<detail>大きく成長したMUSH。体だけではなく MEGUとしても大きく成長している。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MUSH-MI</name>
+			<detail>Large variety of MUSH.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>26</change>
+		<degeneration>24</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>20.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>26</id>
+		<strings lang="ja">
+			<name>KINOKOL</name>
+			<detail>ゴハンをあげればあげるほど太り続けるのがちょっと不気味。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KINOKOL</name>
+			<detail>Loves eating and doesn't matter getting fat.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>33</change>
+		<degeneration>25</degeneration>
+		<special>
+			<special_change>3</special_change>
+			<weight_less>8.0</weight_less>
+			<stress_less>10</stress_less>
+		</special>
+		<min_weight>7.0</min_weight>
+		<max_weight>15.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>27</id>
+		<strings lang="ja">
+			<name>BOT</name>
+			<detail>頭の先の部分は鼻。鼻に見える部分は目。目に見える部分が口である。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BOT</name>
+			<detail>Always mistaken for a crock.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<change>28</change>
+		<degeneration>3</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>28</id>
+		<strings lang="ja">
+			<name>BOT-MI</name>
+			<detail>BOTが成長し進化した姿。首から上は相変わらずのカオスっぷり。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BOT-MI</name>
+			<detail>New variety of BOT.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>14</change>
+		<degeneration>27</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>15.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>29</id>
+		<strings lang="ja">
+			<name>FREK</name>
+			<detail>読書が趣味だが「読みたい！」という欲求を煩悩と考え 読むのを我慢している。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>FREK</name>
+			<detail>Loves reading horror novels.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>1</hungry>
+		<change>30</change>
+		<degeneration>16</degeneration>
+		<special>
+			<special_change>35</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>10</elixir_more>
+			<weight_less>6.0</weight_less>
+			<stress_less>10</stress_less>
+		</special>
+		<min_weight>5.0</min_weight>
+		<max_weight>25.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>30</id>
+		<strings lang="ja">
+			<name>FREK-LA</name>
+			<detail>書を開き 心を開き 悟りを開き 煩悩を閉ざした究極の姿と言われている。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>FREK-LA</name>
+			<detail>Open-hearted super MEGU.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>1</hungry>
+		<change>35</change>
+		<degeneration>29</degeneration>
+		<special>
+			<special_change>1</special_change>
+			<trust_more>90</trust_more>
+			<weight_less>2.0</weight_less>
+		</special>
+		<min_weight>1.0</min_weight>
+		<max_weight>25.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>31</id>
+		<strings lang="ja">
+			<name>KAWAI</name>
+			<detail>キュートな姿が人気だが すっぴんはもっとカワイイと評判。大変レアで高値で闇取引されている。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KAWAI</name>
+			<detail>So cute but so fierce.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>34</change>
+		<degeneration>10</degeneration>
+		<special>
+			<special_change>5</special_change>
+			<weight_less>4.0</weight_less>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>32</id>
+		<strings lang="ja">
+			<name>MOO-MI</name>
+			<detail>モコモコの体毛は驚くほど手触りがいいが 夏は驚くほど暑苦しく 秋は驚くほど部屋中が抜け毛だらけになる。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>MOO-MI</name>
+			<detail>The hair is fluffy and soft,but in the fall MOO-MI shed their fur everywhere.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>36</change>
+		<degeneration>20</degeneration>
+		<special>
+			<special_change>35</special_change>
+			<weight_less>13.0</weight_less>
+		</special>
+		<min_weight>12.0</min_weight>
+		<max_weight>20.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>33</id>
+		<strings lang="ja">
+			<name>EXA-MI</name>
+			<detail>のんきでのんびり屋さんの性格。二桁の掛け算が大得意だが割り算はからっきしダメ。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>EXA-MI</name>
+			<detail>Easygoing,footloose and fancy-free MEGU.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>37</change>
+		<degeneration>26</degeneration>
+		<special>
+			<special_change>34</special_change>
+			<trust_more>90</trust_more>
+			<weight_more>14.0</weight_more>
+		</special>
+		<min_weight>8.0</min_weight>
+		<max_weight>15.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>34</id>
+		<strings lang="ja">
+			<name>CHIHUA-MI</name>
+			<detail>飼い主に忠実で愛嬌たっぷり。とにかく甘えん坊だが イザというときは勇敢な一面を持つ。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>CHIHUA-MI</name>
+			<detail>One of the most reliable MEGU.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>36</change>
+		<degeneration>8</degeneration>
+		<special>
+			<special_change>32</special_change>
+			<trust_more>90</trust_more>
+			<weight_less>11.0</weight_less>
+			<stress_less>10</stress_less>
+		</special>
+		<min_weight>1.0</min_weight>
+		<max_weight>18.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>35</id>
+		<strings lang="ja">
+			<name>PARAKI-LA</name>
+			<detail>伝説のMEGUと言われている進化形態。強靭な肉体と精神力が宿っている。</detail>
+			<family>系統不明</family>
+		</strings>
+		<strings lang="en">
+			<name>PARAKI-LA</name>
+			<detail>As strong as a lion,as kind as elephant.</detail>
+			<family>Type:Unknown</family>
+		</strings>
+		<size>3</size>
+		<hungry>9</hungry>
+		<change>37</change>
+		<degeneration>30</degeneration>
+		<special>
+			<special_change>33</special_change>
+			<trust_less>10</trust_less>
+			<weight_less>5.0</weight_less>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>4.0</min_weight>
+		<max_weight>28.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>36</id>
+		<strings lang="ja">
+			<name>RABBIRE</name>
+			<detail>おっとりとして人なつっこい。たまにウサギに間違えられる。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>RABBIRE</name>
+			<detail>Looks like a rabbit.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>38</change>
+		<degeneration>34</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>37</id>
+		<strings lang="ja">
+			<name>PIGEOY</name>
+			<detail>その昔 前足は翼として使っていた。青い色は空にとけ込む為の保護色。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>PIGEOY</name>
+			<detail>Wings are not for fly.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>39</change>
+		<degeneration>35</degeneration>
+		<min_weight>10.0</min_weight>
+		<max_weight>22.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>38</id>
+		<strings lang="ja">
+			<name>NORBON</name>
+			<detail>体のわりに すぐお腹が減る食いしん坊。好き嫌いがないので手がかからない子。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>NORBON</name>
+			<detail>Natural big eater.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>8</hungry>
+		<change>40</change>
+		<degeneration>36</degeneration>
+		<min_weight>10.0</min_weight>
+		<max_weight>22.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>39</id>
+		<strings lang="ja">
+			<name>TREEM</name>
+			<detail>木の葉のように見える部分は すべすべで 触ると少しひんやりする。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>TREEM</name>
+			<detail>The green part is little cool and smooth skin.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>41</change>
+		<degeneration>37</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>40</id>
+		<strings lang="ja">
+			<name>CABBAZY</name>
+			<detail>見た目以上にずっしり重いが 身のこなしは軽やか。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>CABBAZY</name>
+			<detail>Looks weighty but walk with quick movements.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>42</change>
+		<degeneration>38</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>41</id>
+		<strings lang="ja">
+			<name>COTON</name>
+			<detail>体のほとんどがフワッフワ素材。洗うと思いのほか体が小さい。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>COTON</name>
+			<detail>Walk like a candy floss.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>44</change>
+		<degeneration>39</degeneration>
+		<special>
+			<special_change>43</special_change>
+			<weight_more>4.0</weight_more>
+			<stress_more>80</stress_more>
+		</special>
+		<min_weight>1.0</min_weight>
+		<max_weight>4.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>42</id>
+		<strings lang="ja">
+			<name>SATURNA</name>
+			<detail>土星の輪に見える部分はマフラー。ちょっぴりおしゃれさん。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SATURNA</name>
+			<detail>The thing looks like outer ring of Saturn is a muffler.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>45</change>
+		<degeneration>40</degeneration>
+		<special>
+			<special_change>46</special_change>
+			<weight_more>7.0</weight_more>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>43</id>
+		<strings lang="ja">
+			<name>MOUSEON</name>
+			<detail>見た目はネズミ 頭脳もネズミ。ネズミーランドで働くのが夢。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>MOUSEON</name>
+			<detail>Dreaming of working at “Tokyo Mousy Land”.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>47</change>
+		<degeneration>41</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>4.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>44</id>
+		<strings lang="ja">
+			<name>PIGOS</name>
+			<detail>ふわふわの毛がお気に入りで いつも鼻をふくらませて自慢している。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>PIGOS</name>
+			<detail>Bearly able to hear sounds with little ears.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>48</change>
+		<degeneration>41</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>45</id>
+		<strings lang="ja">
+			<name>MESHE</name>
+			<detail>SATURNAの寝起きの姿に見えるけど ぜんぜん そんなことはない。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MESHE</name>
+			<detail>Love to eat fruits and nuts.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>49</change>
+		<degeneration>42</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>4.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>46</id>
+		<strings lang="ja">
+			<name>CEEDA</name>
+			<detail>頭上を回転させて飛んでいる姿が目撃されたとか されていないとか。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>CEEDA</name>
+			<detail>Look like a monster of mop or tree.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>50</change>
+		<degeneration>42</degeneration>
+		<min_weight>7.0</min_weight>
+		<max_weight>12.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>47</id>
+		<strings lang="ja">
+			<name>STROOP</name>
+			<detail>「横シマ模様は太く見える」は迷信だと信じていたが 最近は自信がない。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>STROOP</name>
+			<detail>Appear deceptively easy.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>51</change>
+		<degeneration>43</degeneration>
+		<min_weight>8.0</min_weight>
+		<max_weight>14.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>48</id>
+		<strings lang="ja">
+			<name>PERSOM</name>
+			<detail>自慢のぼうしは 自分に合ったものを見つけて拾ってきているらしい。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>PERSOM</name>
+			<detail>Beautiful beret is from the garbage.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>52</change>
+		<degeneration>44</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>49</id>
+		<strings lang="ja">
+			<name>BATOS</name>
+			<detail>とても耳が良いが 時計の針の音が気になるのがたまにキズ。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>BATOS</name>
+			<detail>Eavesdropping people's stomach rumbling.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>53</change>
+		<degeneration>45</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>50</id>
+		<strings lang="ja">
+			<name>CHESY</name>
+			<detail>頭のトサカは 転倒時に頭を守るためのとさかと考えられている。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>CHESY</name>
+			<detail>Plates on the head are for heat control.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>54</change>
+		<degeneration>46</degeneration>
+		<min_weight>7.0</min_weight>
+		<max_weight>11.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>51</id>
+		<strings lang="ja">
+			<name>GLOOS</name>
+			<detail>どんなに乾燥した日でも 潤いが失われないのが自慢。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>GLOOS</name>
+			<detail>Loves all insects but earthworms.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>56</change>
+		<degeneration>47</degeneration>
+		<special>
+			<special_change>17</special_change>
+			<elixir_more>5</elixir_more>
+			<weight_more>5.0</weight_more>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>52</id>
+		<strings lang="ja">
+			<name>SQUIRE</name>
+			<detail>頭のとげが長いほど 人気が高く 高値で取引されているらしい。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SQUIRE</name>
+			<detail>Higher spine, higher the trading price.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<change>56</change>
+		<degeneration>48</degeneration>
+		<special>
+			<special_change>24</special_change>
+			<elixir_more>4</elixir_more>
+			<weight_less>2.0</weight_less>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>53</id>
+		<strings lang="ja">
+			<name>SAWAT</name>
+			<detail>とげとげした見た目と違い 平穏を求める優しい性格をしている。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SAWAT</name>
+			<detail>Mane around the neck rotate clockwise.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>55</change>
+		<degeneration>49</degeneration>
+		<special>
+			<special_change>38</special_change>
+			<elixir_more>4</elixir_more>
+			<weight_less>9.0</weight_less>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>9.0</min_weight>
+		<max_weight>15.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>54</id>
+		<strings lang="ja">
+			<name>LIGHNT</name>
+			<detail>額のマークが光る時 何かが起こるのでは？ と考えて気にしている。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>LIGHNT</name>
+			<detail>Scar on the forehead is covered with hairs.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>57</change>
+		<degeneration>50</degeneration>
+		<special>
+			<special_change>19</special_change>
+			<elixir_more>5</elixir_more>
+			<weight_less>8.0</weight_less>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>8.0</min_weight>
+		<max_weight>16.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>55</id>
+		<strings lang="ja">
+			<name>CATASS</name>
+			<detail>現代でいうところの ネコに近い 遺伝子をもつといわれている。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>CATASS</name>
+			<detail>Nose and ears are very sensitive.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>60</change>
+		<degeneration>53</degeneration>
+		<min_weight>8.0</min_weight>
+		<max_weight>16.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>56</id>
+		<strings lang="ja">
+			<name>UNICON</name>
+			<detail>額のツノは愛情表現に使い 決して他人を傷つけたりはしない。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>UNICON</name>
+			<detail>Wings are for decoration only.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>59</change>
+		<degeneration>52</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>57</id>
+		<strings lang="ja">
+			<name>TURTLET</name>
+			<detail>とっても穏やかで優しい心を持ったMEGU。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>TURTLET</name>
+			<detail>Good-natured and kindhearted MEGU.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>2</hungry>
+		<change>58</change>
+		<degeneration>54</degeneration>
+		<min_weight>8.0</min_weight>
+		<max_weight>16.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>58</id>
+		<strings lang="ja">
+			<name>PENTAM</name>
+			<detail>お肌が すべすべ ツヤツヤで 気持ちがいい。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>PENTAM</name>
+			<detail>Tail is for scratch its head.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>62</change>
+		<degeneration>57</degeneration>
+		<special>
+			<special_change>61</special_change>
+			<elixir_more>3</elixir_more>
+			<weight_less>5.0</weight_less>
+			<stress_more>50</stress_more>
+		</special>
+		<min_weight>5.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>59</id>
+		<strings lang="ja">
+			<name>RABBIEL</name>
+			<detail>元気がないと 耳がタレるので 体調がわかりやすい。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>RABBIEL</name>
+			<detail>Its ears droop when its energy is low.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>64</change>
+		<degeneration>56</degeneration>
+		<special>
+			<special_change>63</special_change>
+			<elixir_more>3</elixir_more>
+			<weight_less>3.0</weight_less>
+			<stress_more>50</stress_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>60</id>
+		<strings lang="ja">
+			<name>WINGY</name>
+			<detail>天使のような見た目が特徴だが本人は小悪魔系のつもりらしい。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>WINGY</name>
+			<detail>Floats slightly when it walks.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>61</change>
+		<degeneration>55</degeneration>
+		<special>
+			<special_change>104</special_change>
+			<elixir_more>5</elixir_more>
+			<weight_less>3.0</weight_less>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>61</id>
+		<strings lang="ja">
+			<name>MARSHMAL</name>
+			<detail>ふわふわで プニプニな体は ほんのり甘い香りがする。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MARSHMAL</name>
+			<detail>Fluffy round body bounce like a ball.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>65</change>
+		<degeneration>60</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>62</id>
+		<strings lang="ja">
+			<name>TOEGEM</name>
+			<detail>三本足のめずらしいMEGU。80年代ヒップホップが好き。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>TOEGEM</name>
+			<detail>Three little legs with suckers soles.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>6</hungry>
+		<change>66</change>
+		<degeneration>58</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>11.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>63</id>
+		<strings lang="ja">
+			<name>BATWING</name>
+			<detail>コウモリのような羽をもったMEGU。でも飛べない。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BATWING</name>
+			<detail>Cute MEGU with wings like a bat.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>67</change>
+		<degeneration>59</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>64</id>
+		<strings lang="ja">
+			<name>PAPPY</name>
+			<detail>子犬のような性格で なつきやすい 人気が高いMEGU。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>PAPPY</name>
+			<detail>Faithfull MEGU like a doggy.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>68</change>
+		<degeneration>59</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>65</id>
+		<strings lang="ja">
+			<name>RARCON</name>
+			<detail>シマシマの数が多いほど 気が強いといわれている。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>RARCON</name>
+			<detail>More lines more strength.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>69</change>
+		<degeneration>61</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>66</id>
+		<strings lang="ja">
+			<name>TEDDY</name>
+			<detail>とぼけた表情が愛らしいが 実はとってもかしこい。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>TEDDY</name>
+			<detail>Always looks like innocent face.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>70</change>
+		<degeneration>62</degeneration>
+		<min_weight>4.5</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>67</id>
+		<strings lang="ja">
+			<name>BUNNY</name>
+			<detail>ひとりでいると 病気になりそうなくらい さみしがりや。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BUNNY</name>
+			<detail>Getting sick when all alone.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>73</change>
+		<degeneration>63</degeneration>
+		<special>
+			<special_change>33</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>10</elixir_more>
+			<weight_more>5.0</weight_more>
+		</special>
+		<min_weight>2.8</min_weight>
+		<max_weight>5.4</max_weight>
+	</megu>
+    
+	<megu>
+		<id>68</id>
+		<strings lang="ja">
+			<name>ICKLEY</name>
+			<detail>誰からも愛される外見は みんなからの憧れの存在。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ICKLEY</name>
+			<detail>Nobody ignore ICKLEY.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>73</change>
+		<degeneration>64</degeneration>
+		<special>
+			<special_change>2</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>10</elixir_more>
+			<weight_less>3.0</weight_less>
+		</special>
+		<min_weight>2.5</min_weight>
+		<max_weight>5.4</max_weight>
+	</megu>
+    
+	<megu>
+		<id>69</id>
+		<strings lang="ja">
+			<name>FERRELL</name>
+			<detail>ぽってりとしているが イタチのように しなやかに走る。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>FERRELL</name>
+			<detail>Looks chubby but runs fast.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>71</change>
+		<degeneration>65</degeneration>
+		<special>
+			<special_change>52</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>5</elixir_more>
+			<weight_less>3.0</weight_less>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>70</id>
+		<strings lang="ja">
+			<name>PLUSHIS</name>
+			<detail>厚いモコモコで覆われているが 体は意外とスリム。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>PLUSHIS</name>
+			<detail>MEGU like wearing thick short curly hair coat.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>72</change>
+		<degeneration>66</degeneration>
+		<special>
+			<special_change>32</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>10</elixir_more>
+			<weight_more>8.0</weight_more>
+		</special>
+		<min_weight>5.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>71</id>
+		<strings lang="ja">
+			<name>COLOON</name>
+			<detail>胸の花はとっても甘い香りがするとうわさされているが においを嗅ごうとするとすぐに逃げてしまう。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>COLOON</name>
+			<detail>The breast flower which will have a very sweet scent.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>75</change>
+		<degeneration>69</degeneration>
+		<special>
+			<special_change>74</special_change>
+			<trust_more>90</trust_more>
+			<weight_less>3.0</weight_less>
+			<stress_less>10</stress_less>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>72</id>
+		<strings lang="ja">
+			<name>CALFFL</name>
+			<detail>首の模様がよだれかけの様に見えるのが悩みの種。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>CALFFL</name>
+			<detail>A source of a trouble the pattern of a head is like a bib.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>76</change>
+		<degeneration>70</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>73</id>
+		<strings lang="ja">
+			<name>STAWBELL</name>
+			<detail>趣味はイチゴ狩というアウトドア派。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>STAWBELL</name>
+			<detail>An outdoor MEGU whose hobby is strawberry picking.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>78</change>
+		<degeneration>68</degeneration>
+		<special>
+			<special_change>77</special_change>
+			<trust_more>90</trust_more>
+			<weight_more>7.0</weight_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>74</id>
+		<strings lang="ja">
+			<name>MERMET</name>
+			<detail>水中でも飼える珍しいMEGU。歌うのが大好き。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MERMET</name>
+			<detail>New MEGU which can be kept also underwater and loves singing.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>81</change>
+		<degeneration>71</degeneration>
+		<special>
+			<special_change>80</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>5</elixir_more>
+			<weight_less>3.0</weight_less>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>75</id>
+		<strings lang="ja">
+			<name>COWBY</name>
+			<detail>正義感あふれるカウボーイきどりのMEGU。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>COWBY</name>
+			<detail>MEGU of the cowboy affectation which is full of a sense of justice.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>81</change>
+		<degeneration>71</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>76</id>
+		<strings lang="ja">
+			<name>SHEPL</name>
+			<detail>寂しがりやで飼い主にどこまでもついていくことがある。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>SHEPL</name>
+			<detail>Lonely MEGU and you are followed to everywhere.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>82</change>
+		<degeneration>72</degeneration>
+		<special>
+			<special_change>13</special_change>
+			<elixir_more>10</elixir_more>
+			<weight_more>8.0</weight_more>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>77</id>
+		<strings lang="ja">
+			<name>OWLEEN</name>
+			<detail>首は270度回転させることができるのが自慢。でもどこが首なのかはわからない。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>OWLEEN</name>
+			<detail>OWLEEN can rotate a head 270 degrees.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>79</change>
+		<degeneration>73</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>78</id>
+		<strings lang="ja">
+			<name>ALOWY</name>
+			<detail>このMEGUが触れると小さなキズはたちまち治る。とっても優しいMEGU。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ALOWY</name>
+			<detail>If this MEGU touches, a slight injury will be cured instantly.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>80</change>
+		<degeneration>73</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>79</id>
+		<strings lang="ja">
+			<name>KIGON</name>
+			<detail>MEGUの王様を目指しているが半人前。形から入るタイプなので王冠をつけている。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KIGON</name>
+			<detail>Although aim at the king of MEGU, half a MEGU's share.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>83</change>
+		<degeneration>77</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>80</id>
+		<strings lang="ja">
+			<name>LEEFA</name>
+			<detail>近くにいるだけで癒しや安らぎの効果があるといわれている。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>LEEFA</name>
+			<detail>There may be an effect of healing and peacefulness only by being close.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>84</change>
+		<degeneration>78</degeneration>
+		<special>
+			<special_change>39</special_change>
+			<elixir_more>8</elixir_more>
+			<weight_more>6.0</weight_more>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>81</id>
+		<strings lang="ja">
+			<name>GOGGOT</name>
+			<detail>目を保護するためではなく おしゃれのためにゴーグルを付けている。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>GOGGOT</name>
+			<detail>GOGGOT wears goggles for fashion, not for protecting the eyes.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>85</change>
+		<degeneration>75</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>82</id>
+		<strings lang="ja">
+			<name>BEADEN</name>
+			<detail>あたまの飾りは意外に固く つぼを刺激するのに最適です。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BEADEN</name>
+			<detail>The decorations of the head are hard, and are most suitable to stimulate your pressure points.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>87</change>
+		<degeneration>76</degeneration>
+		<special>
+			<special_change>86</special_change>
+			<elixir_more>4</elixir_more>
+			<weight_less>3.0</weight_less>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>83</id>
+		<strings lang="ja">
+			<name>GLOVEL</name>
+			<detail>マントをはためかせて空を飛んでいる夢を見るたびに びっくりして飛び起きます。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>GLOVEL</name>
+			<detail>Whenever GLOVEL sees the dream which is flying in the sky, GLOVEL jumps out of bed.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>88</change>
+		<degeneration>79</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>84</id>
+		<strings lang="ja">
+			<name>NURSY</name>
+			<detail>しっかりもので面倒見の良いMEGU。悪MEGUをしかっている姿がたびたび目撃されている。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>NURSY</name>
+			<detail>NURSY is very considerate and caring.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>89</change>
+		<degeneration>80</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>85</id>
+		<strings lang="ja">
+			<name>DACHSHED</name>
+			<detail>寝る事が大好きなMEGU。二度寝はもっと好き。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>DACHSHED</name>
+			<detail>DACHSHED loves going back to sleep.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>91</change>
+		<degeneration>81</degeneration>
+		<special>
+			<special_change>64</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>8</elixir_more>
+			<weight_less>3.0</weight_less>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>86</id>
+		<strings lang="ja">
+			<name>PATLIM</name>
+			<detail>頭のランプは乗っけているだけなので 落とさない様に常にバランスを取っている。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>PATLIM</name>
+			<detail>PATLIM always keeps the balance not to drop the lamp of the head.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<change>90</change>
+		<degeneration>82</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>4.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>87</id>
+		<strings lang="ja">
+			<name>PANDUC</name>
+			<detail>外見はカワイらしいですが とっても食欲旺盛です。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>PANDUC</name>
+			<detail>PANDUC looks so cute, but is very voracious MEGU.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>8</hungry>
+		<change>92</change>
+		<degeneration>82</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>11.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>88</id>
+		<strings lang="ja">
+			<name>HAMSTOL</name>
+			<detail>夜になるとすばしっこく動き回る。キレイ好きで毛はいつもサラサラ。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>HAMSTOL</name>
+			<detail>HAMSTOL is tidy, and HAMSTOL's hair is always silky.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>93</change>
+		<degeneration>83</degeneration>
+		<special>
+			<special_change>87</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>3</elixir_more>
+			<weight_more>8.0</weight_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>89</id>
+		<strings lang="ja">
+			<name>PALFLY</name>
+			<detail>暑い場所を好むMEGUで 海にプカプカと浮いて旅をすると言われている。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>PALFLY</name>
+			<detail>It is said that PALFLY travels by floating on the sea.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>94</change>
+		<degeneration>84</degeneration>
+		<special>
+			<special_change>108</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>5</elixir_more>
+			<weight_more>5.0</weight_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>90</id>
+		<strings lang="ja">
+			<name>MEELDA</name>
+			<detail>飼い主にほめられるたびに 胸のメダルの輝きが増す という噂。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MEELDA</name>
+			<detail>There is a rumor that brightness of the breast medal increases whenever MEELDA is praised by you.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>96</change>
+		<degeneration>86</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>91</id>
+		<strings lang="ja">
+			<name>SALALU</name>
+			<detail>めがねをはずすと 目が3_3になるのではないか と考えられている。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SALALU</name>
+			<detail>The looks change very much without glasses.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>95</change>
+		<degeneration>85</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>92</id>
+		<strings lang="ja">
+			<name>CHIPMY</name>
+			<detail>寒くなると冬眠のふりをすることで知られているが 自分では まだふりだとばれていない と思っている。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>CHIPMY</name>
+			<detail>CHIPMY is known to pretend hibernating.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>97</change>
+		<degeneration>87</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>93</id>
+		<strings lang="ja">
+			<name>LIONAL</name>
+			<detail>たてがみは 普段はチクチクですが 水にぬれると しっとりサラサラになります。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>LIONAL</name>
+			<detail>The mane is usually spiky, but is moistened when LIONAL get wet.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>6</hungry>
+		<change>98</change>
+		<degeneration>88</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>94</id>
+		<strings lang="ja">
+			<name>CLOW-NI</name>
+			<detail>飼い主がへこんでいると なんとか笑わせようと がんばります。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>CLOW-NI</name>
+			<detail>When you are depressed, CLOW-NI try to make you smile somehow.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>99</change>
+		<degeneration>89</degeneration>
+		<special>
+			<special_change>100</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>5</elixir_more>
+			<weight_more>5.0</weight_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>95</id>
+		<strings lang="ja">
+			<name>ASTROMOT</name>
+			<detail>生まれつき謎のスーツを着ている。誰も中を見たことが無い不思議なMEGU。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ASTROMOT</name>
+			<detail>ASTROMOT wear a suit by nature. Nobody looked at the inside of the suit.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>109</change>
+		<degeneration>91</degeneration>
+		<special>
+			<special_change>59</special_change>
+			<elixir_more>7</elixir_more>
+			<weight_less>4.0</weight_less>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>4.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>96</id>
+		<strings lang="ja">
+			<name>HAPSY</name>
+			<detail>海を泳いでいる姿をよく見かけますが たまに空を飛んでいる姿も目撃されます。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>HAPSY</name>
+			<detail>HAPSY is good at swimming, but can also fly sometimes.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>110</change>
+		<degeneration>90</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>97</id>
+		<strings lang="ja">
+			<name>KANGUL</name>
+			<detail>おなかの袋は 別の世界への入り口になっている といろいろ妄想する日々を過ごしています。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KANGUL</name>
+			<detail>There is a rumor that the pouch of belly is an entrance to another world.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>118</change>
+		<degeneration>92</degeneration>
+		<special>
+			<special_change>67</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>4</elixir_more>
+			<weight_less>6.0</weight_less>
+		</special>
+		<min_weight>6.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>98</id>
+		<strings lang="ja">
+			<name>TAGUAS</name>
+			<detail>グライダーのように滑空すると思われがちだが 実は回転しながら飛びます。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>TAGUAS</name>
+			<detail>TAGUAS flies while rotating, not gliding like a glider.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>106</change>
+		<degeneration>93</degeneration>
+		<special>
+			<special_change>69</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>6</elixir_more>
+			<weight_more>5.0</weight_more>
+		</special>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>99</id>
+		<strings lang="ja">
+			<name>ROOLLET</name>
+			<detail>寝グセがひどい とうわさされているが 誰も寝グセの姿を見たことがありません。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ROOLLET</name>
+			<detail>ROOLLET cannot miss the hair setting of the every morning.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>101</change>
+		<degeneration>94</degeneration>
+		<special>
+			<special_change>91</special_change>
+			<elixir_more>2</elixir_more>
+			<weight_more>4.0</weight_more>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>100</id>
+		<strings lang="ja">
+			<name>ALPACU</name>
+			<detail>のんびりとした性格とふんわりとした毛が大人気のMEGUです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ALPACU</name>
+			<detail>ALPACU is very popular with calm character and the fluffy hair.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>3</size>
+		<hungry>5</hungry>
+		<change>105</change>
+		<degeneration>94</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>11.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>101</id>
+		<strings lang="ja">
+			<name>ANGERIC</name>
+			<detail>好奇心旺盛でどこへでも行きたがる。困った人を見ると 優しく寄り添います。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ANGERIC</name>
+			<detail>ANGERIC is brimming with curiosity and wants to go anywhere.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>103</change>
+		<degeneration>99</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>102</id>
+		<strings lang="ja">
+			<name>TETOLAN</name>
+			<detail>パンツ一枚は気にしていませんが オヘソが出ているところはちょっと気にしています。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>TETOLAN</name>
+			<detail>TETOLAN doesn't care about wearing only underpants.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>5</hungry>
+		<change>38</change>
+		<degeneration>16</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>103</id>
+		<strings lang="ja">
+			<name>GURUFIN</name>
+			<detail>マイペースで我が道を行きます。やんちゃなところもあって 中2ごころをくすぐるのが得意です。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>GURUFIN</name>
+			<detail>GURUFIN do things at his own pace and GURUFIN's behavior is infantile one.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>107</change>
+		<degeneration>101</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>104</id>
+		<strings lang="ja">
+			<name>MINYON</name>
+			<detail>フワフワと夢心地でいることが多いのでぼんやりしているように見えますが しっかり者の一面もあります。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MINYON</name>
+			<detail>MINYON have a good head on your shoulders unexpectedly.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>117</change>
+		<degeneration>60</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>105</id>
+		<strings lang="ja">
+			<name>MOCOPOO</name>
+			<detail>モコモコした耳が トレードマーク。人懐っこくて 寂しがり屋さんです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MOCOPOO</name>
+			<detail>MOCOPOO's most attractive feature is thick and soft ear.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>124</change>
+		<degeneration>100</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>106</id>
+		<strings lang="ja">
+			<name>COOKIE</name>
+			<detail>趣味は料理でチャレンジ精神旺盛ですが 豪華な料理に挑戦して3回に1回は失敗してしまいます。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>COOOKIE</name>
+			<detail>COOOKIE's hobby is cooking and she has a lot of spirits to challenge.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>7</hungry>
+		<change>103</change>
+		<degeneration>98</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>107</id>
+		<strings lang="ja">
+			<name>DEMONON</name>
+			<detail>内気で恥ずかしがり屋ですが いざという時は力を発揮する頼りになる やればできる子です。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>DEMONON</name>
+			<detail>DEMONON is shy,but reliable in case of emergency.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>115</change>
+		<degeneration>103</degeneration>
+		<special>
+			<special_change>73</special_change>
+			<trust_more>80</trust_more>
+			<elixir_more>5</elixir_more>
+			<weight_less>7.0</weight_less>
+		</special>
+		<min_weight>1.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>108</id>
+		<strings lang="ja">
+			<name>SAKURUN</name>
+			<detail>お姫様気質の甘えん坊。桜の咲く季節は浮かれ気味です。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SAKURUN</name>
+			<detail>SAKURUN looks like a princess. In the season of cherry blossoms,she looks happy.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>125</change>
+		<degeneration>89</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>109</id>
+		<strings lang="ja">
+			<name>BOMKO</name>
+			<detail>努力家でマメなタイプです。情熱を内に秘めた野心家ですが ちょっぴりぬけたところもあります。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BOMKO</name>
+			<detail>BOMKO is a hard worker, but is also terrible scatterbrain.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>116</change>
+		<degeneration>95</degeneration>
+		<special>
+			<special_change>86</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>5</elixir_more>
+			<weight_more>3.0</weight_more>
+		</special>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>110</id>
+		<strings lang="ja">
+			<name>EGGPLIN</name>
+			<detail>野菜を育てる事と晴れた日が大好きです。大抵の事では怒らない器の大きさをもっています。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>EGGPLIN</name>
+			<detail>EGGPLIN likes growing vegetables and has a MEGU of big capacity.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>119</change>
+		<degeneration>96</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>15.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>111</id>
+		<strings lang="ja">
+			<name>OGREET</name>
+			<detail>意外に すぐにほっぺを赤くする 恥ずかしがり屋さんです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>OGREET</name>
+			<detail>OGREET is unexpectedly very shy MEGU.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>130</change>
+		<degeneration>115</degeneration>
+		<special>
+			<special_change>129</special_change>
+			<trust_less>40</trust_less>
+			<elixir_more>3</elixir_more>
+			<weight_less>5.0</weight_less>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>112</id>
+		<strings lang="ja">
+			<name>CROSOM</name>
+			<detail>頭の葉っぱは 大きく成長する可能性がある という人もいます。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>CROSOM</name>
+			<detail>It's said that leaves on the head grow up.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>7</hungry>
+		<change>119</change>
+		<degeneration>117</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>113</id>
+		<strings lang="ja">
+			<name>COMBUN</name>
+			<detail>頭に皿があるように見えるので かっぱのモデルではないかと言われています。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>COMBUN</name>
+			<detail>It's said that COMBUN may be friend of a water imp.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>126</change>
+		<degeneration>116</degeneration>
+		<special>
+			<special_change>92</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>5</elixir_more>
+			<weight_more>6.0</weight_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>114</id>
+		<strings lang="ja">
+			<name>BOXUMO</name>
+			<detail>なぜ こんなに四角い顔をしているのか 聞いても答えてくれません。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>BOXUMO</name>
+			<detail>It is a mystery why BOXUMO's face is such a square.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>123</change>
+		<degeneration>119</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>115</id>
+		<strings lang="ja">
+			<name>BROWOS</name>
+			<detail>発見当初は まゆ毛のあるネコだ と思われていました。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>BROWOS</name>
+			<detail>BROWOS is mistaken for a cat with eyebrows.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>111</change>
+		<degeneration>107</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>116</id>
+		<strings lang="ja">
+			<name>BULLDO</name>
+			<detail>マスクを被っているのでは と思われるが 本人は否定しています。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BULLDO</name>
+			<detail>BULLDO is never being covered with the mask.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>113</change>
+		<degeneration>109</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>117</id>
+		<strings lang="ja">
+			<name>FEATHOL</name>
+			<detail>はばたく姿を よく目撃されますが 飛ぶことはできないようです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>FEATHOL</name>
+			<detail>FEATHOL cannot fly, although FEATHOL have wings.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>3</hungry>
+		<change>112</change>
+		<degeneration>104</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>4.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>118</id>
+		<strings lang="ja">
+			<name>EARLUS</name>
+			<detail>大きな耳を使って 器用に物を持つことができます。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>EARLUS</name>
+			<detail>EARLUS can have a thing with ears.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>120</change>
+		<degeneration>97</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>119</id>
+		<strings lang="ja">
+			<name>HEERMIL</name>
+			<detail>とても物静かですが いつもゴハンのことを考えています。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>HEERMIL</name>
+			<detail>HEERMIL always think of foods.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>1</hungry>
+		<change>114</change>
+		<degeneration>110</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>120</id>
+		<strings lang="ja">
+			<name>PALASULA</name>
+			<detail>このMEGUを見て 傘が作られたのでは といううわさがあります。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>PALASULA</name>
+			<detail>PALASULA is pioneer of a parasol.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>128</change>
+		<degeneration>118</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>121</id>
+		<strings lang="ja">
+			<name>BUCACH</name>
+			<detail>顔の周りにあるもので 首をバッチリ守っています。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BUCACH</name>
+			<detail>The head is protected by the things beside the face.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<change>132</change>
+		<degeneration>128</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>122</id>
+		<strings lang="ja">
+			<name>CETOONE</name>
+			<detail>毎朝時間をかけて 毛並みをお団子の形に整えています。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>CETOONE</name>
+			<detail>CETOONE wake up early morning and set the hair.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>140</change>
+		<degeneration>123</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>123</id>
+		<strings lang="ja">
+			<name>CAMONEL</name>
+			<detail>足は短いですが バタバタさせて 意外に速く走ります。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>CAMONEL</name>
+			<detail>CAMONEL is fast although a leg is short.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>122</change>
+		<degeneration>114</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>124</id>
+		<strings lang="ja">
+			<name>BAANPE</name>
+			<detail>耳に栓をしているように見えますが これが耳です。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BAANPE</name>
+			<detail>BAANPE's ears are like earplugs.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>125</change>
+		<degeneration>105</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>125</id>
+		<strings lang="ja">
+			<name>BALLTY</name>
+			<detail>頭に触ると その日はとっても 良い事があるそうです。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>BALLTY</name>
+			<detail>When you touch BALLTY's head, you will be happy.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>131</change>
+		<degeneration>124</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>126</id>
+		<strings lang="ja">
+			<name>SEATLA</name>
+			<detail>ぼっこりお腹で下が見えにくいですが こけてもケガしません。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>SEATLA</name>
+			<detail>SEATLA is not injured thanks to the belly.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>7</hungry>
+		<change>127</change>
+		<degeneration>113</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>127</id>
+		<strings lang="ja">
+			<name>PODOLIM</name>
+			<detail>落ちている物を何でも口に入れてしまうので 注意しましょう。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>PODOLIM</name>
+			<detail>PODOLIM can eat anything.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>131</change>
+		<degeneration>126</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>128</id>
+		<strings lang="ja">
+			<name>POLKAD</name>
+			<detail>「てるてる坊主」に親近感を覚えます。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>POLKAD</name>
+			<detail>POLKAD is a friend of Japanese sunshine doll.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>121</change>
+		<degeneration>120</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>129</id>
+		<strings lang="ja">
+			<name>LIZALUM</name>
+			<detail>雨にぬれると 自慢のとさかが倒れてしまいます。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>LIZALUM</name>
+			<detail>LIZALUM's crest is very stylish.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>134</change>
+		<degeneration>111</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>130</id>
+		<strings lang="ja">
+			<name>RAUOS</name>
+			<detail>手作りのカブトがお気に入りです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>RAUOS</name>
+			<detail>RAUOS's favorite is the handmade helmet.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>8</hungry>
+		<change>135</change>
+		<degeneration>111</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>131</id>
+		<strings lang="ja">
+			<name>HODOM</name>
+			<detail>お使いを頼むと素直に行ってくれる 道草はしません。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>HODOM</name>
+			<detail>HODOM likes to go on an errand.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>136</change>
+		<degeneration>127</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>132</id>
+		<strings lang="ja">
+			<name>JACROT</name>
+			<detail>自称 垂直跳び 世界一です。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>JACROT</name>
+			<detail>Stars on ears light the way at night.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>137</change>
+		<degeneration>121</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>133</id>
+		<strings lang="ja">
+			<name>WONBARD</name>
+			<detail>空を飛ぶのも得意だが 走るのも得意です。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>WONBARD</name>
+			<detail>WONBARD's wingstroke blows up a storm.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>146</change>
+		<degeneration>140</degeneration>
+		<special>
+			<special_change>35</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>3</elixir_more>
+			<weight_more>9.0</weight_more>
+		</special>
+		<min_weight>7.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>134</id>
+		<strings lang="ja">
+			<name>ELEPOON</name>
+			<detail>大きな耳で ふわふわと空を飛ぶのが夢です。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>ELEPOON</name>
+			<detail>A hair is to see which way the wind blows.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>138</change>
+		<degeneration>129</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>135</id>
+		<strings lang="ja">
+			<name>GUIPEL</name>
+			<detail>我慢強く 耐え忍ぶのも人生 と考えている。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>GUIPEL</name>
+			<detail>GUIPEL's eyes are slightly opened.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>2</hungry>
+		<change>139</change>
+		<degeneration>130</degeneration>
+		<min_weight>7.0</min_weight>
+		<max_weight>11.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>136</id>
+		<strings lang="ja">
+			<name>KAUMONDO</name>
+			<detail>自慢の毛並みは すぐにからまるので お手入れが欠かせないです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KAUMONDO</name>
+			<detail>KAUMONDO changes itself into a mop.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>141</change>
+		<degeneration>131</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>137</id>
+		<strings lang="ja">
+			<name>TAILAMU</name>
+			<detail>長ーいしっぽを使って 感情を表します。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>TAILAMU</name>
+			<detail>TAILAMU has a flabby body.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>143</change>
+		<degeneration>132</degeneration>
+		<special>
+			<special_change>26</special_change>
+			<trust_more>90</trust_more>
+			<weight_more>7.0</weight_more>
+		</special>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>138</id>
+		<strings lang="ja">
+			<name>SEAROS</name>
+			<detail>頭のてっぺんにある葉っぱのように見えるものは耳 その下にあるのは葉っぱです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SEAROS</name>
+			<detail>Some leaves are ears, others are not.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>144</change>
+		<degeneration>134</degeneration>
+		<special>
+			<special_change>50</special_change>
+			<weight_less>5.0</weight_less>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>4.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>139</id>
+		<strings lang="ja">
+			<name>SULFUN</name>
+			<detail>常にしかめっ面をしているのは それがかっこいいと思っているから という噂です。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SULFUN</name>
+			<detail>A flower in the pocket never dies.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>142</change>
+		<degeneration>135</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>12.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>140</id>
+		<strings lang="ja">
+			<name>ALBERLU</name>
+			<detail>長時間飛んでいると 首がこってしまいます。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ALBERLU</name>
+			<detail>ALBERLU feels a strong kinship with giraffes.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>133</change>
+		<degeneration>122</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>141</id>
+		<strings lang="ja">
+			<name>SPANIEE</name>
+			<detail>顔が青白いので 体調不良に気づかれないのが悩みです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SPANIEE</name>
+			<detail>The pale face doesn't mean SPANIEE is not fine.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>150</change>
+		<degeneration>136</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>142</id>
+		<strings lang="ja">
+			<name>FOOPERU</name>
+			<detail>リングで体のバランスを保っていて 日焼けにはめっぽう強いです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>FOOPERU</name>
+			<detail>Bodily's balance is maintained in a ring.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>7</hungry>
+		<change>148</change>
+		<degeneration>139</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>143</id>
+		<strings lang="ja">
+			<name>NIQU</name>
+			<detail>あたまの被り物にはこだわりがあり プライドがかなり高いです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>NIQU</name>
+			<detail>NIQU has a strong attachment to a headpiece.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>149</change>
+		<degeneration>137</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>144</id>
+		<strings lang="ja">
+			<name>JUMARUS</name>
+			<detail>ゆーっくり 少しずつ前に進む姿は 人々の心を駆り立ててくれます。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>JUMARUS</name>
+			<detail>JUMARUS walks slowly and step by step.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>147</change>
+		<degeneration>138</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>145</id>
+		<strings lang="ja">
+			<name>KARURUC</name>
+			<detail>不満気な顔をしているようにみえますが 実は人一倍人情に厚いです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KARURUC</name>
+			<detail>KARURUC has a deep sense of loyalty and is compassionate.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>9</hungry>
+		<change>152</change>
+		<degeneration>146</degeneration>
+		<min_weight>7.0</min_weight>
+		<max_weight>11.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>146</id>
+		<strings lang="ja">
+			<name>POPPILU</name>
+			<detail>おなかのメモリが 振り切れる事がある という噂です。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>POPPILU</name>
+			<detail>The scale of the belly may swing past the maximum. </detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>7</hungry>
+		<change>145</change>
+		<degeneration>133</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>147</id>
+		<strings lang="ja">
+			<name>SEORITTO</name>
+			<detail>ヘアスプレーを 1度に3本使ってしまう 超こだわり派です。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SEORITTO</name>
+			<detail>SEORITTO needs 3 hair spray at once.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>151</change>
+		<degeneration>144</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>148</id>
+		<strings lang="ja">
+			<name>KOUMORA</name>
+			<detail>大きな耳と羽で 風をよむことができます。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>KOUMORA</name>
+			<detail>KOUMORA feels the wind on ears and wings.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>8</hungry>
+		<change>151</change>
+		<degeneration>142</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>149</id>
+		<strings lang="ja">
+			<name>HANABEE</name>
+			<detail>おしゃれは一日にしてならず と常に言い聞かせる おしゃれさんです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>HANABEE</name>
+			<detail>One of the most fashionable MEGU.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>158</change>
+		<degeneration>143</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>150</id>
+		<strings lang="ja">
+			<name>MAROUNI</name>
+			<detail>丸っこい見た目は癒し系ですが 実は腹黒い一面もあります。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>MAROUNI</name>
+			<detail>Stubby body of MAROUNI is very cute.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>6</hungry>
+		<change>152</change>
+		<degeneration>141</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>151</id>
+		<strings lang="ja">
+			<name>GLADIS</name>
+			<detail>いつも優しく母のような眼差しで みんなを見守っています。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>GLADIS</name>
+			<detail>Looks out for everyone else with her warm, motherly gaze.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>153</change>
+		<degeneration>147</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>152</id>
+		<strings lang="ja">
+			<name>LEMONEE</name>
+			<detail>薄すぎず、濃すぎずという黄色に対するこだわりは人一倍です。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>LEMONEE</name>
+			<detail>This young Megu has a strong predilection for all things yellow.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>9</hungry>
+		<change>155</change>
+		<degeneration>150</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>153</id>
+		<strings lang="ja">
+			<name>KURLYN</name>
+			<detail>一度も声を荒げたことがないかなり穏やかな性格です。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KURLYN</name>
+			<detail>As happy-go-lucky as they come, KURLYN has never even raised her voice.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>8</hungry>
+		<change>160</change>
+		<degeneration>151</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>154</id>
+		<strings lang="ja">
+			<name>PUFFYWINK</name>
+			<detail>いつも感謝の言葉を忘れない 気くばり上手さんです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>PUFFYWINK</name>
+			<detail>An unfailingly polite Megu who never forgets to say “please” and “thank you”.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>6</hungry>
+		<change>156</change>
+		<degeneration>170</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>155</id>
+		<strings lang="ja">
+			<name>WHIRLYWHORL</name>
+			<detail>らせん状の部分の長さで 年齢がわかるそうです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>WHIRLYWHORL</name>
+			<detail>The spirally tip of Whirlwhorl's head is said to grow longer with age.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>3</hungry>
+		<change>157</change>
+		<degeneration>152</degeneration>
+		<min_weight>7.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>156</id>
+		<strings lang="ja">
+			<name>DOROTHEEN</name>
+			<detail>ぽわんとした外見とは裏腹に計算高い一面もあります。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>DOROTHEEN</name>
+			<detail>She may look naive, but Dorotheen can be calculating when she needs to be.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>172</change>
+		<degeneration>154</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>157</id>
+		<strings lang="ja">
+			<name>HARREL</name>
+			<detail>何でもそこそこはこなしますが器用貧乏な面も。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>HARREL</name>
+			<detail>Gets the job done, but never to the highest of standards.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>159</change>
+		<degeneration>155</degeneration>
+		<special>
+			<special_change>168</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>1</elixir_more>
+		</special>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>158</id>
+		<strings lang="ja">
+			<name>FLUFFILDA</name>
+			<detail>趣味はウォーキングらしいですが、歩いている姿をみかけません。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>FLUFFILDA</name>
+			<detail>For a Megu who says she likes going on walks, Fluffilda sure does lie around a lot.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>3</hungry>
+		<change>168</change>
+		<degeneration>149</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>159</id>
+		<strings lang="ja">
+			<name>MELANKITTY</name>
+			<detail>体調が悪いふりをして 心配をさせちゃう さみしがり屋さんです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MELANKITTY</name>
+			<detail>Craves attention so much he pretends to be under the weather for sympathy.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>163</change>
+		<degeneration>157</degeneration>
+		<special>
+			<special_change>170</special_change>
+			<weight_less>4.0</weight_less>
+			<stress_more>80</stress_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>160</id>
+		<strings lang="ja">
+			<name>SCARFIE</name>
+			<detail>寒がりさんなので いつか常夏のハワイに行ってみたいようです。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>SCARFIE</name>
+			<detail>Sensitive to the cold, Scarfie is saving up for a long trip to Hawaii.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>164</change>
+		<degeneration>153</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>161</id>
+		<strings lang="ja">
+			<name>ELMY</name>
+			<detail>大きなお耳としっかりとした脚は象を思わせますが 誰も乗せたがりません。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ELMY</name>
+			<detail>Alfie's big ears and stocky legs are a bit like an elephant's, but he's only little.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>3</size>
+		<hungry>10</hungry>
+		<change>173</change>
+		<degeneration>167</degeneration>
+		<special>
+			<special_change>154</special_change>
+			<elixir_more>2</elixir_more>
+			<weight_more>9.0</weight_more>
+		</special>
+		<min_weight>7.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>162</id>
+		<strings lang="ja">
+			<name>OSTRILLA</name>
+			<detail>ダチョウに近い種類とされていますが 本人は霊長類だとおもっているようです。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>OSTRILLA</name>
+			<detail>Looks like an ostrich to everyone else, but Ostrilla is convinced he's a primate.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>179</change>
+		<degeneration>164</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>163</id>
+		<strings lang="ja">
+			<name>HATZ</name>
+			<detail>なぜかお昼のリーダーに 憧れています。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>HATZ</name>
+			<detail>Always on the look out for adventure, Skipper fancies himself as a daring leader.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>167</change>
+		<degeneration>159</degeneration>
+		<special>
+			<special_change>166</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>1</elixir_more>
+		</special>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>164</id>
+		<strings lang="ja">
+			<name>MEERIS</name>
+			<detail>驚くほどの跳躍力を持っていますが、よく着地時に足をひねってしまいます。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MEERIS</name>
+			<detail>A skilled jumper, Perdita nevertheless often sprains her ankles upon landing.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>162</change>
+		<degeneration>160</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>165</id>
+		<strings lang="ja">
+			<name>MOO-KEW</name>
+			<detail>体液の90％はミルクできています。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>MOO-KEW</name>
+			<detail>A curious character whose body fluid consists of 90% milk.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>166</change>
+		<degeneration>168</degeneration>
+		<special>
+			<special_change>153</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>3</elixir_more>
+			<weight_more>5.0</weight_more>
+		</special>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>166</id>
+		<strings lang="ja">
+			<name>DASHUN</name>
+			<detail>優れた嗅覚をもっていますが 鼻はありません。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>DASHUN</name>
+			<detail>Blessed with a highly astute sense of smell, but unfortunately lacks a nose.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>2</hungry>
+		<change>169</change>
+		<degeneration>165</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>167</id>
+		<strings lang="ja">
+			<name>BELLATONE</name>
+			<detail>長い脚が 胴に隠れているので 9頭身は あるといわれています。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BELLATONE</name>
+			<detail>Bellatone tucks her legs up inside her body, so she's a lot taller than she looks.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>8</hungry>
+		<change>161</change>
+		<degeneration>163</degeneration>
+		<min_weight>7.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>168</id>
+		<strings lang="ja">
+			<name>ROSALINE</name>
+			<detail>大のおしゃべり好きですが リボンをとると 急ににおとなしくなります。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>ROSALINE</name>
+			<detail>A real chatterbox, Rosaline falls utterly silent when you take away her ribbon.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>6</hungry>
+		<change>165</change>
+		<degeneration>158</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>169</id>
+		<strings lang="ja">
+			<name>CHIMPER</name>
+			<detail>見かけは猿ですが 中身も猿っぽいところも。カシューナッツが大好き。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>CHIMPER</name>
+			<detail>Monkey by appearance, cheeky little monkey by nature. He loves cashew nuts.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>170</change>
+		<degeneration>166</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>170</id>
+		<strings lang="ja">
+			<name>MUSTACHIO</name>
+			<detail>実は ちょっと大人ぶって つけヒゲをしている らしいです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MUSTACHIO</name>
+			<detail>Wears a fake mustache to appear older than he really is.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>154</change>
+		<degeneration>169</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>171</id>
+		<strings lang="ja">
+			<name>GRIMELL</name>
+			<detail>浮き輪にもテーブルにもなって便利ですが たまに取り外したい気分になるようです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>GRIMELL</name>
+			<detail>The swim ring is convenient and can be used as a table, but sometimes he wants to take it off.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>183</change>
+		<degeneration>174</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>172</id>
+		<strings lang="ja">
+			<name>FRIMOON</name>
+			<detail>からだの92%が水分で 植物から進化したといわれています。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>FRIMOON</name>
+			<detail>Supposedly a creature evolved from plants with a body made of 92% water.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>7</hungry>
+		<change>174</change>
+		<degeneration>156</degeneration>
+		<special>
+			<special_change>179</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>2</elixir_more>
+		</special>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>173</id>
+		<strings lang="ja">
+			<name>BUBRIN</name>
+			<detail>おっとりして穏やかな性格 大好物は梅干しです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>BUBRIN</name>
+			<detail>Has a gentle and quiet personality. Loves dried plums.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>9</hungry>
+		<change>180</change>
+		<degeneration>161</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>174</id>
+		<strings lang="ja">
+			<name>LEONI</name>
+			<detail>趣味は探偵ごっこだが 推理はかなり的外れ。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>LEONI</name>
+			<detail>Loves pretending to be a private investigator, but has horrible reasoning.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>171</change>
+		<degeneration>172</degeneration>
+		<min_weight>7.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>175</id>
+		<strings lang="ja">
+			<name>MOMRIN</name>
+			<detail>最近はもっぱらダイエットに励んでますが リバウンドばっかりしている。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>MOMRIN</name>
+			<detail>Has been trying hard to diet lately, but keeps rebounding.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>9</hungry>
+		<change>177</change>
+		<degeneration>179</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>176</id>
+		<strings lang="ja">
+			<name>COCO-LOON</name>
+			<detail>8時間も歌っていられるほどの大のカラオケ好き。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>COCO-LOON</name>
+			<detail>Loves karaoke so much. Can sing for over eight hours straight.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>186</change>
+		<degeneration>180</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>177</id>
+		<strings lang="ja">
+			<name>FEZEK</name>
+			<detail>名前の由来はトリニータ語で神話という意味だそうです。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>FEZEK</name>
+			<detail>Apparently the name means “god” in the language of Trinita.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>178</change>
+		<degeneration>175</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>178</id>
+		<strings lang="ja">
+			<name>LAMBCOLIN</name>
+			<detail>柔らかさ、きめ細かさを誇る体毛は高品質の衣類を作り出しています。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>LAMBCOLIN</name>
+			<detail>The soft fine wool that covers the body is used to make high-quality clothing.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>3</size>
+		<hungry>8</hungry>
+		<change>188</change>
+		<degeneration>177</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>179</id>
+		<strings lang="ja">
+			<name>JACKLEE</name>
+			<detail>なつくと 飼い主のモノマネを することがあるようです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>JACKLEE</name>
+			<detail>Imitates his owner once he becomes emotionally attached.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>175</change>
+		<degeneration>162</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>180</id>
+		<strings lang="ja">
+			<name>UBAL</name>
+			<detail>頭部のヒラヒラの色で健康状態がわかります。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>UBAL</name>
+			<detail>One can tell his health by checking the color of the fins on his head.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>8</hungry>
+		<change>176</change>
+		<degeneration>173</degeneration>
+		<special>
+			<special_change>171</special_change>
+			<elixir_more>2</elixir_more>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>4.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>181</id>
+		<strings lang="ja">
+			<name>TWISS</name>
+			<detail>頭が大きいので坂道を歩くときは気を付けているそうです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>TWISS</name>
+			<detail>Has to be careful when walking uphill because its head is huge.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>182</change>
+		<degeneration>183</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>182</id>
+		<strings lang="ja">
+			<name>MOHRI</name>
+			<detail>照れるとほっぺがさらに真っ赤になるかわいこちゃんです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MOHRI</name>
+			<detail>A cutsie whose face turns redder the shyer it grows.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>190</change>
+		<degeneration>181</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>183</id>
+		<strings lang="ja">
+			<name>DARLING</name>
+			<detail>遺伝子的にも そら豆とは なんら関連はありません。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>DARLING</name>
+			<detail>There is no genetic connection to fava beans.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>7</hungry>
+		<change>181</change>
+		<degeneration>171</degeneration>
+		<special>
+			<special_change>188</special_change>
+			<trust_more>90</trust_more>
+			<elixir_more>3</elixir_more>
+			<weight_more>8.0</weight_more>
+		</special>
+		<min_weight>7.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>184</id>
+		<strings lang="ja">
+			<name>TOSACAMB</name>
+			<detail>元気がないときはトサカがへたってしまいます。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>TOSACAMB</name>
+			<detail>Its comb only rises when it's full of energy.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>6</hungry>
+		<change>191</change>
+		<degeneration>187</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>185</id>
+		<strings lang="ja">
+			<name>MOHRICAT</name>
+			<detail>一家に一匹いると幸せが訪れると言われています。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MOHRICAT</name>
+			<detail>It’s said that happiness comes wherever one of these lives.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>8</hungry>
+		<change>189</change>
+		<degeneration>186</degeneration>
+		<special>
+			<special_change>181</special_change>
+			<elixir_more>1</elixir_more>
+			<weight_less>3.0</weight_less>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>186</id>
+		<strings lang="ja">
+			<name>SCOMSHE</name>
+			<detail>かぶりものが可愛いと褒められるのでいつもドヤ顔です。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SCOMSHE</name>
+			<detail>Often is complimented on how good its hats look, so always looks satisfied.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>9</hungry>
+		<change>185</change>
+		<degeneration>176</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>187</id>
+		<strings lang="ja">
+			<name>RISER</name>
+			<detail>類まれな イケメンMEGU。本人にリア充の自覚はありません。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>RISER</name>
+			<detail>A rare handsome MEGU,but has no real satisfaction in this fact.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>9</hungry>
+		<change>184</change>
+		<degeneration>188</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>188</id>
+		<strings lang="ja">
+			<name>PLANPLAN</name>
+			<detail>森の妖精になりたくて毎日森へ通う努力家です。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>PLANPLAN</name>
+			<detail>A hardworker who goes to the forest every day, hoping to become a fairy.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>9</hungry>
+		<change>187</change>
+		<degeneration>178</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>189</id>
+		<strings lang="ja">
+			<name>NANABAH</name>
+			<detail>見た目の通り大好物はモンキーバナナです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>NANABAH</name>
+			<detail>As you'd expect,loves monkeys and bananas.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>10</hungry>
+		<change>198</change>
+		<degeneration>185</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>190</id>
+		<strings lang="ja">
+			<name>LULUNA</name>
+			<detail>将来の夢はバレリーナだそうです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>LULUNA</name>
+			<detail>Dreams of becoming a ballerina someday.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>194</change>
+		<degeneration>182</degeneration>
+		<special>
+			<special_change>191</special_change>
+			<weight_less>7.0</weight_less>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>7.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>191</id>
+		<strings lang="ja">
+			<name>IZABELL</name>
+			<detail>寒そうにみえますが首回りはとても暖かいです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>IZABELL</name>
+			<detail>Looks very cold, but is actually really warm around the neck.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>197</change>
+		<degeneration>184</degeneration>
+		<min_weight>7.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>192</id>
+		<strings lang="ja">
+			<name>GRAMPER</name>
+			<detail>MEGU界で最年長 聡明な心の持ち主です。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>GRAMPER</name>
+			<detail>The owner of the oldest and wisest mind in the MEGU universe.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>9</hungry>
+		<change>196</change>
+		<degeneration>195</degeneration>
+		<special>
+			<special_change>199</special_change>
+			<trust_more>90</trust_more>
+			<weight_more>8.0</weight_more>
+		</special>
+		<min_weight>6.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>193</id>
+		<strings lang="ja">
+			<name>HALU</name>
+			<detail>機内ではネックウォーマーになりますが 重たいのが難点。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>HALU</name>
+			<detail>Becomes a neck warmer on planes and trains, but is too heavy to be practical.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>205</change>
+		<degeneration>198</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>194</id>
+		<strings lang="ja">
+			<name>IBELL</name>
+			<detail>寒色系の服は着ないの。が口癖のようです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>IBELL</name>
+			<detail>Tells everyone she doesn't look good in winter colors.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>10</hungry>
+		<change>199</change>
+		<degeneration>190</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>195</id>
+		<strings lang="ja">
+			<name>ADELBIRD</name>
+			<detail>蜂が受粉しようとするのが最近の悩みです。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>ADELBIRD</name>
+			<detail>Recently worried that bees will try to pollenate its head.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>9</hungry>
+		<change>192</change>
+		<degeneration>197</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>196</id>
+		<strings lang="ja">
+			<name>ADONESE</name>
+			<detail>夢は売れっ子マジシャンで もっか修行中です。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ADONESE</name>
+			<detail>Training to become a popular magician.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>200</change>
+		<degeneration>192</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>197</id>
+		<strings lang="ja">
+			<name>OKLAHOMER</name>
+			<detail>人手不足の時はお化け屋敷に駆り出されます。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>OKLAHOMER</name>
+			<detail>Since it doesn't have human hands, it was recruited to work at a haunted house.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>4</hungry>
+		<change>195</change>
+		<degeneration>191</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>198</id>
+		<strings lang="ja">
+			<name>ALF</name>
+			<detail>語尾にピッ とつけるのがクセのようです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ALF</name>
+			<detail>Likes to run around squealing all the time.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>193</change>
+		<degeneration>189</degeneration>
+		<special>
+			<special_change>194</special_change>
+			<trust_less>50</trust_less>
+			<elixir_more>5</elixir_more>
+		</special>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>199</id>
+		<strings lang="ja">
+			<name>MARONIEL</name>
+			<detail>少女マンガが趣味でいつも夢見心地です。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MARONIEL</name>
+			<detail>Loves shojo manga and day-dreams all the time.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>208</change>
+		<degeneration>194</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>200</id>
+		<strings lang="ja">
+			<name>ABRILL</name>
+			<detail>音楽大好き！夏フェス大好きなアウトドア派です。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ABRILL</name>
+			<detail>An outdoor type MEGU that loves music and summer festivals.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>8</hungry>
+		<change>207</change>
+		<degeneration>196</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>201</id>
+		<strings lang="ja">
+			<name>ABBY</name>
+			<detail>世界のトップモデルのブログをチェックするおしゃれさん</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ABBY</name>
+			<detail>Reads the blogs of the top models around the world.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>5</hungry>
+		<change>206</change>
+		<degeneration>202</degeneration>
+		<special>
+			<special_change>200</special_change>
+			<trust_more>90</trust_more>
+			<weight_more>5.0</weight_more>
+		</special>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>202</id>
+		<strings lang="ja">
+			<name>GABBY</name>
+			<detail>背中にしょっているのはみんなに配るためのお菓子です。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>GABBY</name>
+			<detail>Carries around a sack of goodies to share with everyone.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>201</change>
+		<degeneration>204</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>203</id>
+		<strings lang="ja">
+			<name>KIPPER</name>
+			<detail>鶏が先か卵が先かの問いに うんざりしています。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>KIPPER</name>
+			<detail>She is so tired of that whole chicken-or-the-egg thing.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>214</change>
+		<degeneration>209</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>4.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>204</id>
+		<strings lang="ja">
+			<name>DOUGHNA</name>
+			<detail>体の半分以上が コラーゲンでできています。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>DOUGHNA</name>
+			<detail>More than half of its body is made of collagen.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>9</hungry>
+		<change>202</change>
+		<degeneration>205</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>205</id>
+		<strings lang="ja">
+			<name>ALDA</name>
+			<detail>甘いものが大好きで いつもダイエットに失敗しています。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ALDA</name>
+			<detail>Loves sweets so much that she breaks every single diet.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>8</hungry>
+		<change>204</change>
+		<degeneration>193</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>206</id>
+		<strings lang="ja">
+			<name>RAANA</name>
+			<detail>目がくりっとしていて可愛いですが 怒ると怖いです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>RAANA</name>
+			<detail>Normally has sweet eyes, but is really scary when angry.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>211</change>
+		<degeneration>201</degeneration>
+		<special>
+			<special_change>215</special_change>
+			<weight_less>3.0</weight_less>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>207</id>
+		<strings lang="ja">
+			<name>DORORIN</name>
+			<detail>首元にあるきびだんごは イザという時の為にあります。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>DORORIN</name>
+			<detail>Keeps dumplings around her neck,just in case.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>210</change>
+		<degeneration>200</degeneration>
+		<special>
+			<special_change>208</special_change>
+			<weight_less>4.0</weight_less>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>4.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>208</id>
+		<strings lang="ja">
+			<name>ALFA</name>
+			<detail>顔色が悪いね とみんなから心配ばかりされています。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ALFA</name>
+			<detail>Is always told,"Are you sick?You look a little green".</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>209</change>
+		<degeneration>199</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>209</id>
+		<strings lang="ja">
+			<name>RETTY</name>
+			<detail>頭が小さいのが悩みで そのためにずきんをかぶっています。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>RETTY</name>
+			<detail>Embarrassed by her small head, she always wears a hood.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>203</change>
+		<degeneration>208</degeneration>
+		<special>
+			<special_change>205</special_change>
+			<trust_less>50</trust_less>
+			<elixir_more>3</elixir_more>
+		</special>
+		<min_weight>7.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>210</id>
+		<strings lang="ja">
+			<name>ALGIE</name>
+			<detail>演歌歌手になるのが夢で 髪はいつも短く切りそろえています。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>ALGIE</name>
+			<detail>Keeps his hair short and trim in case he gets scouted.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<change>218</change>
+		<degeneration>207</degeneration>
+		<min_weight>1.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>211</id>
+		<strings lang="ja">
+			<name>CORNENO</name>
+			<detail>頭のコロコロは水分でできています。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>CORNENO</name>
+			<detail>The round things on it's head produce water. That could be useful!</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>212</change>
+		<degeneration>206</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>212</id>
+		<strings lang="ja">
+			<name>ZEBRINO</name>
+			<detail>穏やかそうに見えますが おおむね肉食です。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>ZEBRINO</name>
+			<detail>Although this MEGU seems gentle, it is always craving steak.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>213</change>
+		<degeneration>211</degeneration>
+		<special>
+			<special_change>219</special_change>
+			<weight_more>8.0</weight_more>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>7.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>213</id>
+		<strings lang="ja">
+			<name>BAAFAA</name>
+			<detail>興奮すると つのが空に向かって突き出してきます。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>BAAFAA</name>
+			<detail>When excited, BAAFAA's horns shoot straight up into the sky.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>221</change>
+		<degeneration>212</degeneration>
+		<special>
+			<special_change>224</special_change>
+			<weight_more>5.0</weight_more>
+			<stress_more>80</stress_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>214</id>
+		<strings lang="ja">
+			<name>TOREEZ</name>
+			<detail>大切にしているのは気品です。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>TOREEZ</name>
+			<detail>This MEGU always maintains an elegant attitude.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>5</hungry>
+		<change>215</change>
+		<degeneration>203</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>215</id>
+		<strings lang="ja">
+			<name>PURPAA</name>
+			<detail>紫色をしたMEGUメンバーのリーダーである。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>PURPAA</name>
+			<detail>A true leader in the MEGU community. Purple is the color of power.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>216</change>
+		<degeneration>214</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>216</id>
+		<strings lang="ja">
+			<name>KURURINPO</name>
+			<detail>表面がつるつるしているので 突っ込まれてもすべるだけです。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>KURURINPO</name>
+			<detail>With that slippery skin, this MEGU is really hard to catch.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>217</change>
+		<degeneration>215</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>217</id>
+		<strings lang="ja">
+			<name>DANBINI</name>
+			<detail>もともとは海の仲間でしたが 今は全く泳げません。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>DANBINI</name>
+			<detail>DANBINI used to live in the ocean, but now can't swim at all.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>224</change>
+		<degeneration>216</degeneration>
+		<min_weight>7.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>218</id>
+		<strings lang="ja">
+			<name>ONIGIRINO</name>
+			<detail>開いた口がふさがらないのは 特段問題ないようです。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>ONIGIRINO</name>
+			<detail>Even though ONIGIRINO can't close its mouth it doesn't really seem to mind.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>219</change>
+		<degeneration>210</degeneration>
+		<min_weight>6.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>219</id>
+		<strings lang="ja">
+			<name>DEPPANO</name>
+			<detail>甘えん坊な一面もあるカワイイやつです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>DEPPANO</name>
+			<detail>Kind of spoiled, but is still pretty cute.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>220</change>
+		<degeneration>218</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>220</id>
+		<strings lang="ja">
+			<name>GREEPEE</name>
+			<detail>先祖は枝豆でもそら豆でもありません。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>GREEPEE</name>
+			<detail>Strangely enough, GREEPEE's ancestors were neither lima nor fava beans.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>227</change>
+		<degeneration>219</degeneration>
+		<special>
+			<special_change>215</special_change>
+			<elixir_more>3</elixir_more>
+			<weight_less>3.0</weight_less>
+			<stress_less>50</stress_less>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>221</id>
+		<strings lang="ja">
+			<name>DAHRIA</name>
+			<detail>春になると体中に満開の花を咲かせます。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>DAHRIA</name>
+			<detail>Every spring the flower in the middle of its body blossoms beautifully.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>222</change>
+		<degeneration>213</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>222</id>
+		<strings lang="ja">
+			<name>SARAYA</name>
+			<detail>好きな食べ物は 中華そば らしいです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SARAYA</name>
+			<detail>As you might already know, its favorite food is stir-fried noodles.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>223</change>
+		<degeneration>221</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>223</id>
+		<strings lang="ja">
+			<name>SHYNAR</name>
+			<detail>亀のように固い甲羅は しっかりと身をまもってくれます。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>SHYNAR</name>
+			<detail>Its hard shell protects its soft body from all kinds of damage.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>231</change>
+		<degeneration>222</degeneration>
+		<special>
+			<special_change>228</special_change>
+			<trust_less>50</trust_less>
+			<weight_less>5.0</weight_less>
+		</special>
+		<min_weight>5.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>224</id>
+		<strings lang="ja">
+			<name>IMOGEENA</name>
+			<detail>誰かの助けを借りられないと 起き上がれない時があります。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>IMOGEENA</name>
+			<detail>Sometimes it can't even get up without receiving a helping hand.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>225</change>
+		<degeneration>217</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>225</id>
+		<strings lang="ja">
+			<name>DULAA</name>
+			<detail>重石ではありません おでこです。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>DULAA</name>
+			<detail>No matter how it looks or what you think,it's not a paperweight, it's a forehead.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>226</change>
+		<degeneration>224</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>226</id>
+		<strings lang="ja">
+			<name>COLLEEN</name>
+			<detail>からだの92%が精製水で人を癒す力があります。 </detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>COLLEEN</name>
+			<detail>92% of its body is made of purified water,so it can really help out in a bind.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>3</size>
+		<hungry>5</hungry>
+		<change>234</change>
+		<degeneration>225</degeneration>
+		<special>
+			<special_change>221</special_change>
+			<trust_less>50</trust_less>
+			<elixir_more>3</elixir_more>
+		</special>
+		<min_weight>6.0</min_weight>
+		<max_weight>10.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>227</id>
+		<strings lang="ja">
+			<name>ELOOLOO</name>
+			<detail>未来の行く先を決めるのは いつもツノが示してくれます。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ELOOLOO</name>
+			<detail>The path to the future is shown by its very special horns.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>228</change>
+		<degeneration>220</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>228</id>
+		<strings lang="ja">
+			<name>TAIGERETTO</name>
+			<detail>正義感にあふれたMEGU 金棒は重くて持てないそうです。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>TAIGERETTO</name>
+			<detail>Has a strong sense of right and wrong.Dresses like Tarzan but isn't wild at all.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>229</change>
+		<degeneration>227</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>229</id>
+		<strings lang="ja">
+			<name>HELOOGALOO</name>
+			<detail>お気に入りのマントは有名デザイナーの一級品だそうです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>HELOOGALOO</name>
+			<detail>It loves its cape, which was incidentally designed by a famous cape designer.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>230</change>
+		<degeneration>228</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>230</id>
+		<strings lang="ja">
+			<name>LUCEELOO</name>
+			<detail>歩くときに手と足がバラバラになるのが悩みです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>LUCEELOO</name>
+			<detail>Whenever it walks, it always confuses its hands with its feet.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>237</change>
+		<degeneration>229</degeneration>
+		<special>
+			<special_change>225</special_change>
+			<elixir_more>3</elixir_more>
+			<weight_more>6.0</weight_more>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>9.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>231</id>
+		<strings lang="ja">
+			<name>ELENORA</name>
+			<detail>好きな食べ物は 半熟ゆでたまごだそうです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ELENORA</name>
+			<detail>Its most favorite dish is a soft-boiled egg or two.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>232</change>
+		<degeneration>223</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>4.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>232</id>
+		<strings lang="ja">
+			<name>KOMAO</name>
+			<detail>独楽に間違われて たまに回されそうになるのが悩みです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KOMAO</name>
+			<detail>Sometimes gets mistaken for a top ,which can be a little depressing.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>233</change>
+		<degeneration>231</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>3.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>233</id>
+		<strings lang="ja">
+			<name>LIONEE</name>
+			<detail>湿度の高い日はたてがみがへたってしまいます。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>LIONEE</name>
+			<detail>On really humid days its mane starts to sag way down to the ground.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>241</change>
+		<degeneration>232</degeneration>
+		<special>
+			<special_change>238</special_change>
+			<weight_more>5.0</weight_more>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>3.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>234</id>
+		<strings lang="ja">
+			<name>DOANA</name>
+			<detail>下腹ぽっこりだけど一向に気にしない かわいいMEGU</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>DOANA</name>
+			<detail>It has a little pooch but is so cute otherwise it doesn't really care.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>235</change>
+		<degeneration>226</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>235</id>
+		<strings lang="ja">
+			<name>ANIORO</name>
+			<detail>重たい体でのそのそ歩きだけど 気が優しい 指にみえるのは翼</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>ANIORO</name>
+			<detail>Its very heavy body makes walking a little problematic, but it always smiles.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>236</change>
+		<degeneration>234</degeneration>
+		<special>
+			<special_change>231</special_change>
+			<weight_less>5.0</weight_less>
+			<stress_less>50</stress_less>
+		</special>
+		<min_weight>5.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>236</id>
+		<strings lang="ja">
+			<name>TAREMIINO</name>
+			<detail>耳の長いMEGUとして ひそかに世界一を狙っている。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>TAREMIINO</name>
+			<detail>Works everyday on becoming the best long-eared MEGU in the whole wide world.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>245</change>
+		<degeneration>235</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>237</id>
+		<strings lang="ja">
+			<name>GRINOLA</name>
+			<detail>長い耳をたまにふんづけて悲鳴をあげている。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>GRINOLA</name>
+			<detail>Sometime it steps on its own ears and then lets out a terrible whine.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>238</change>
+		<degeneration>230</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>238</id>
+		<strings lang="ja">
+			<name>ANTONIO</name>
+			<detail>生まれ変わったらキノコになるんだ が口癖です。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ANTONIO</name>
+			<detail>Often says that if it could be reborn as anything it would come back as a mushroom.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>9</hungry>
+		<change>239</change>
+		<degeneration>237</degeneration>
+		<min_weight>5.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>239</id>
+		<strings lang="ja">
+			<name>ALOEIJI</name>
+			<detail>好きな食べ物は紫イモ といいつつ本当はジャガイモが好き</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ALOEIJI</name>
+			<detail>It says it loves yams but in actuality really, really loves potatoes.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>240</change>
+		<degeneration>238</degeneration>
+		<special>
+			<special_change>234</special_change>
+			<trust_less>90</trust_less>
+			<elixir_more>3</elixir_more>
+		</special>
+		<min_weight>4.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>240</id>
+		<strings lang="ja">
+			<name>KUMAO</name>
+			<detail>古典的なお笑いが好き 先祖はカエルらしいです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KUMAO</name>
+			<detail>Really likes old-timey comedy shows. Descends from a long line of mystic frogs.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+		<change>248</change>
+		<degeneration>239</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>3.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>241</id>
+		<strings lang="ja">
+			<name>NEKOMAN</name>
+			<detail>いつもお腹を空かせている 食いしん坊なMEGU。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>NEKOMAN</name>
+			<detail>This MEGU is always hungry all the time and constantly wants to eat everything.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>242</change>
+		<degeneration>233</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>242</id>
+		<strings lang="ja">
+			<name>MERUDA</name>
+			<detail>飼い主に可愛がられると 耳が長くなると言われています。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MERUDA</name>
+			<detail>The more it is loved by its owner, the longer its ears get.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>243</change>
+		<degeneration>241</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>243</id>
+		<strings lang="ja">
+			<name>JUZUU</name>
+			<detail>凛とした佇まいは 上品ですが 実はハッタリという噂も。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>JUZUU</name>
+			<detail>Very regal and aloof but rumors say it is all just for show.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>244</change>
+		<degeneration>242</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>244</id>
+		<strings lang="ja">
+			<name>MUFFLESKI</name>
+			<detail>ふわふわのおくるみで毎日 気持ちよさそうです。 </detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MUFFLESKI</name>
+			<detail>All bundled up and cute every single day. What a cute life!</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<change>251</change>
+		<degeneration>243</degeneration>
+		<special>
+			<special_change>249</special_change>
+			<weight_less>2.0</weight_less>
+			<stress_more>90</stress_more>
+		</special>
+		<min_weight>2.0</min_weight>
+		<max_weight>4.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>245</id>
+		<strings lang="ja">
+			<name>TUNODATE</name>
+			<detail>電波を受信したりできるので みんなに重宝がられます。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>TUNODATE</name>
+			<detail>Can receive electronic signals so is well loved by everyone.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>3</size>
+		<hungry>7</hungry>
+		<change>246</change>
+		<degeneration>236</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>246</id>
+		<strings lang="ja">
+			<name>TUNOKORE</name>
+			<detail>愛らしいくりくりの目が 人々の心を癒してくれます。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>TUNOKORE</name>
+			<detail>Makes all humans feel endless love. People love its big, cute eyes.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<change>247</change>
+		<degeneration>245</degeneration>
+		<special>
+			<special_change>241</special_change>
+			<trust_less>20</trust_less>
+			<weight_more>3.0</weight_more>
+		</special>
+		<min_weight>2.0</min_weight>
+		<max_weight>3.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>247</id>
+		<strings lang="ja">
+			<name>HAKAMADA</name>
+			<detail>人の話を聞かないので みんなからあきれられている。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>HAKAMADA</name>
+			<detail>Never listens to anything anyone says.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>2</hungry>
+		<change>252</change>
+		<degeneration>246</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>248</id>
+		<strings lang="ja">
+			<name>HAPPASKI</name>
+			<detail>おさんぽ中に雨が降っても 傘いらずです。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>HAPPASKI</name>
+			<detail>Doesn't need an umbrella, even if it rains on your walk.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>3</size>
+		<hungry>8</hungry>
+		<change>249</change>
+		<degeneration>240</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>249</id>
+		<strings lang="ja">
+			<name>MIMIWAGE</name>
+			<detail>体重は 綿より軽く たまに風にもっていかれそうになります。</detail>
+			<family>キモ系</family>
+		</strings>
+		<strings lang="en">
+			<name>MIMIWAGE</name>
+			<detail>Weighs less than a bundle of cotton. Is sometimes carried away by strong winds.</detail>
+			<family>Type:Bizarre</family>
+		</strings>
+		<size>2</size>
+		<hungry>3</hungry>
+		<change>250</change>
+		<degeneration>248</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>4.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>250</id>
+		<strings lang="ja">
+			<name>EGSWIN</name>
+			<detail>表面は むきたまごのように つるつるしていて綺麗です。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>EGSWIN</name>
+			<detail>Has soft white skin, just like a freshly peeled egg.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>6</hungry>
+		<change>253</change>
+		<degeneration>249</degeneration>
+		<special>
+			<special_change>245</special_change>
+			<trust_more>90</trust_more>
+			<weight_less>6.0</weight_less>
+		</special>
+		<min_weight>6.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>251</id>
+		<strings lang="ja">
+			<name>OKINON</name>
+			<detail>飼い主を 災いから守ってくれる という噂です。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>OKINON</name>
+			<detail>They say this MEGU will protect its owner from danger.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>2</size>
+		<hungry>5</hungry>
+		<change>254</change>
+		<degeneration>244</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>6.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>252</id>
+		<strings lang="ja">
+			<name>HODEPU</name>
+			<detail>恥ずかしがり屋なので 目元を隠しています。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>HODEPU</name>
+			<detail>Super shy at all times, so it keeps its eyes covered up.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>1</size>
+		<hungry>4</hungry>
+		<change>255</change>
+		<degeneration>247</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>4.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>253</id>
+		<strings lang="ja">
+			<name>KYHOLU</name>
+			<detail>誰もが気になる おなかとしっぽですが 本人は気にしていません。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>KYHOLU</name>
+			<detail>Wears a tie to draw attention away from its curly tail.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+		<change>256</change>
+		<degeneration>250</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>254</id>
+		<strings lang="ja">
+			<name>ORUSO</name>
+			<detail>暑い日でもスカーフを巻くのはモテたいからだそうです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>ORUSO</name>
+			<detail>Thinks its cool to leave on the scarf, even on hot days.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>3</size>
+		<hungry>6</hungry>
+		<change>1</change>
+		<degeneration>251</degeneration>
+		<min_weight>4.0</min_weight>
+		<max_weight>8.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>255</id>
+		<strings lang="ja">
+			<name>FIORE</name>
+			<detail>ハチが頭に寄ってくるのが悩みだそうです。</detail>
+			<family>カワイイ系</family>
+		</strings>
+		<strings lang="en">
+			<name>FIORE</name>
+			<detail>Can't keep the bees away from its head.</detail>
+			<family>Type:Cute</family>
+		</strings>
+		<size>1</size>
+		<hungry>3</hungry>
+				<change>1</change>
+		<degeneration>252</degeneration>
+		<min_weight>2.0</min_weight>
+		<max_weight>5.0</max_weight>
+	</megu>
+    
+	<megu>
+		<id>256</id>
+		<strings lang="ja">
+			<name>TOGERUN</name>
+			<detail>悪MEGU団からたまにスカウトがくるそうです。</detail>
+			<family>けだもの系</family>
+		</strings>
+		<strings lang="en">
+			<name>TOGERUN</name>
+			<detail>Sometimes gets headhunted by the Stray MEGUs.</detail>
+			<family>Type:Beast</family>
+		</strings>
+		<size>2</size>
+		<hungry>4</hungry>
+				<change>1</change>
+		<degeneration>253</degeneration>
+		<min_weight>3.0</min_weight>
+		<max_weight>7.0</max_weight>
+	</megu>
+</application>

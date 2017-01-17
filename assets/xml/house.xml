@@ -1,0 +1,2583 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <house>
+        <id>159</id>
+        <strings lang="ja">
+            <name><![CDATA[星座の見えるオウチ]]></name>
+            <detail><![CDATA[ 輝く星座が きらめいています。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Star-gazing House]]></name>
+            <detail><![CDATA[All the stars are twinkling for your and your MEGU.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>1</level>
+        <comfort>70</comfort>
+        <price>7000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>1</id>
+        <strings lang="ja">
+            <name><![CDATA[公園で野ざらし]]></name>
+            <detail><![CDATA[公園で放し飼いにします。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Park]]></name>
+            <detail><![CDATA[Small park in a town.]]></detail>
+        </strings>
+        <size>-150</size>
+        <level>0</level>
+        <comfort>-150</comfort>
+        <price>0</price>
+    </house>
+    <house>
+        <id>2</id>
+        <strings lang="ja">
+            <name><![CDATA[公園でダンボール]]></name>
+            <detail><![CDATA[ふびんなので せめて段ボールを用意してあげます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Cardboard box]]></name>
+            <detail><![CDATA[Cardboard box as a house in a park.]]></detail>
+        </strings>
+        <size>-100</size>
+        <level>3</level>
+        <comfort>-130</comfort>
+        <price>500</price>
+    </house>
+    <house>
+        <id>3</id>
+        <strings lang="ja">
+            <name><![CDATA[軒先で放し飼い]]></name>
+            <detail><![CDATA[自宅に連れてかえり お庭で放し飼いにします。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Garden]]></name>
+            <detail><![CDATA[Keep him in a house garden.]]></detail>
+        </strings>
+        <size>-50</size>
+        <level>6</level>
+        <comfort>-100</comfort>
+        <price>1000</price>
+    </house>
+    <house>
+        <id>4</id>
+        <strings lang="ja">
+            <name><![CDATA[ボロい犬小屋]]></name>
+            <detail><![CDATA[雨風をしのげる犬小屋を用意してあげます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Dog house]]></name>
+            <detail><![CDATA[Dog house in a garden.]]></detail>
+        </strings>
+        <size>-10</size>
+        <level>9</level>
+        <comfort>-80</comfort>
+        <price>2000</price>
+    </house>
+    <house>
+        <id>5</id>
+        <strings lang="ja">
+            <name><![CDATA[素敵な犬小屋]]></name>
+            <detail><![CDATA[ちょっと他では見ない イカした犬小屋です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Nice dog house]]></name>
+            <detail><![CDATA[Beautiful dog house.]]></detail>
+        </strings>
+        <size>50</size>
+        <level>13</level>
+        <comfort>-60</comfort>
+        <price>5000</price>
+    </house>
+    <house>
+        <id>6</id>
+        <strings lang="ja">
+            <name><![CDATA[ボロいアパート]]></name>
+            <detail><![CDATA[年期が入ったアパートです。トラックが通ると少し揺れます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Apartment]]></name>
+            <detail><![CDATA[Old apartment.]]></detail>
+        </strings>
+        <size>150</size>
+        <level>16</level>
+        <comfort>-40</comfort>
+        <price>8000</price>
+    </house>
+    <house>
+        <id>7</id>
+        <strings lang="ja">
+            <name><![CDATA[素敵なアパート]]></name>
+            <detail><![CDATA[アパートとはいえ、なかなかのものです。駐車場も完備。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Nice apartment]]></name>
+            <detail><![CDATA[Better apartment than the old one.]]></detail>
+        </strings>
+        <size>200</size>
+        <level>22</level>
+        <comfort>-20</comfort>
+        <price>15000</price>
+    </house>
+    <house>
+        <id>8</id>
+        <strings lang="ja">
+            <name><![CDATA[ボロいマンション]]></name>
+            <detail><![CDATA[RC構造でわりと頑丈です。エレベータが便利。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Beautiful apartment]]></name>
+            <detail><![CDATA[Clean and beautiful apartment.]]></detail>
+        </strings>
+        <size>250</size>
+        <level>30</level>
+        <comfort>0</comfort>
+        <price>20000</price>
+        <elixir_cost>1</elixir_cost>
+    </house>
+    <house>
+        <id>9</id>
+        <strings lang="ja">
+            <name><![CDATA[素敵なマンション]]></name>
+            <detail><![CDATA[楽器演奏可のナイスなマンションです。オートロック付。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Frabjous apartment]]></name>
+            <detail><![CDATA[Frabjous apartment with security camera around.]]></detail>
+        </strings>
+        <size>300</size>
+        <level>40</level>
+        <comfort>20</comfort>
+        <price>50000</price>
+        <elixir_cost>2</elixir_cost>
+    </house>
+    <house>
+        <id>10</id>
+        <strings lang="ja">
+            <name><![CDATA[ボロい一軒屋]]></name>
+            <detail><![CDATA[築22年でちょっと古いけど、夢のマイホームです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[House]]></name>
+            <detail><![CDATA[Isolated house.]]></detail>
+        </strings>
+        <size>350</size>
+        <level>53</level>
+        <comfort>40</comfort>
+        <price>70000</price>
+        <elixir_cost>3</elixir_cost>
+    </house>
+    <house>
+        <id>11</id>
+        <strings lang="ja">
+            <name><![CDATA[素敵な一軒屋]]></name>
+            <detail><![CDATA[駅やスーパーが近くて便利。ご近所さんも優しいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Nice house]]></name>
+            <detail><![CDATA[Nice house near the supermarket.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>55</level>
+        <comfort>60</comfort>
+        <price>80000</price>
+        <elixir_cost>4</elixir_cost>
+    </house>
+    <house>
+        <id>12</id>
+        <strings lang="ja">
+            <name><![CDATA[新築のアパート]]></name>
+            <detail><![CDATA[まっさらな新築です。自由にコーディネイトしましょう。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Newly-built apartment]]></name>
+            <detail><![CDATA[Beautiful newly-built apartment.]]></detail>
+        </strings>
+        <size>350</size>
+        <level>70</level>
+        <comfort>80</comfort>
+        <price>200000</price>
+        <elixir_cost>5</elixir_cost>
+    </house>
+    <house>
+        <id>13</id>
+        <strings lang="ja">
+            <name><![CDATA[新築のマンション]]></name>
+            <detail><![CDATA[まっさらな新築です。自由にコーディネイトしましょう。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Newly-built apartment]]></name>
+            <detail><![CDATA[Frabjous newly-built apartment with security camera.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>76</level>
+        <comfort>100</comfort>
+        <price>300000</price>
+        <elixir_cost>8</elixir_cost>
+    </house>
+    <house>
+        <id>14</id>
+        <strings lang="ja">
+            <name><![CDATA[新築の一軒屋]]></name>
+            <detail><![CDATA[まっさらな新築です。自由にコーディネイトしましょう。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Newly-built house]]></name>
+            <detail><![CDATA[Newly-built house of yours.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>80</level>
+        <comfort>100</comfort>
+        <price>400000</price>
+        <elixir_cost>10</elixir_cost>
+    </house>
+    <house>
+        <id>15</id>
+        <strings lang="ja">
+            <name><![CDATA[おかしなデザイナーズマンション]]></name>
+            <detail><![CDATA[エキセントリックでアバンギャルドですが新築です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Eccentric apartment]]></name>
+            <detail><![CDATA[Eccentric and avant-gard apartment.]]></detail>
+        </strings>
+        <size>680</size>
+        <level>92</level>
+        <comfort>100</comfort>
+        <price>458000</price>
+        <elixir_cost>11</elixir_cost>
+    </house>
+    <house>
+        <id>16</id>
+        <strings lang="ja">
+            <name><![CDATA[素敵なデザイナーズマンション]]></name>
+            <detail><![CDATA[モダンながらも落ち着いた住み心地。新築です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Designer apartment]]></name>
+            <detail><![CDATA[Modern artistic apartment.]]></detail>
+        </strings>
+        <size>710</size>
+        <level>106</level>
+        <comfort>100</comfort>
+        <price>498000</price>
+        <elixir_cost>12</elixir_cost>
+    </house>
+    <house>
+        <id>17</id>
+        <strings lang="ja">
+            <name><![CDATA[ボロい豪邸]]></name>
+            <detail><![CDATA[やや古いですが、広大な敷地が魅力です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Dilapidated big house]]></name>
+            <detail><![CDATA[It's little old,but huge house.]]></detail>
+        </strings>
+        <size>800</size>
+        <level>123</level>
+        <comfort>100</comfort>
+        <price>558000</price>
+        <elixir_cost>13</elixir_cost>
+    </house>
+    <house>
+        <id>18</id>
+        <strings lang="ja">
+            <name><![CDATA[素敵な豪邸]]></name>
+            <detail><![CDATA[ほぼ未使用の豪邸です。広くて綺麗で素敵です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Frabjous big house]]></name>
+            <detail><![CDATA[Beautiful,clean and huge house.]]></detail>
+        </strings>
+        <size>800</size>
+        <level>128</level>
+        <comfort>100</comfort>
+        <price>598000</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>14</elixir_cost>
+    </house>
+    <house>
+        <id>19</id>
+        <strings lang="ja">
+            <name><![CDATA[洞窟]]></name>
+            <detail><![CDATA[MEGUと見つけた秘密の隠れ家です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Cave]]></name>
+            <detail><![CDATA[Found with MEGU.]]></detail>
+        </strings>
+        <size>580</size>
+        <level>129</level>
+        <comfort>100</comfort>
+        <price>598000</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>15</elixir_cost>
+        <bgm>ID19_Cave.mp3</bgm>
+    </house>
+    <house>
+        <id>20</id>
+        <strings lang="ja">
+            <name><![CDATA[お城]]></name>
+            <detail><![CDATA[和風のお城です。殿様気分が味わえます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Japanese castle]]></name>
+            <detail><![CDATA[Living here like a Shogun.]]></detail>
+        </strings>
+        <size>900</size>
+        <level>133</level>
+        <comfort>100</comfort>
+        <price>628000</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>15</elixir_cost>
+    </house>
+    <house>
+        <id>21</id>
+        <strings lang="ja">
+            <name><![CDATA[宮殿]]></name>
+            <detail><![CDATA[ギリシャ建築による神々しい宮殿です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Palace]]></name>
+            <detail><![CDATA[Ancient Greek architecture.]]></detail>
+        </strings>
+        <size>1000</size>
+        <level>136</level>
+        <comfort>100</comfort>
+        <price>658000</price>
+        <elixir_cost>15</elixir_cost>
+    </house>
+    <house>
+        <id>22</id>
+        <strings lang="ja">
+            <name><![CDATA[秘密基地]]></name>
+            <detail><![CDATA[シブヤの地下洞窟から繋がっていたようです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Secret base]]></name>
+            <detail><![CDATA[Connected from the Cave.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>139</level>
+        <comfort>100</comfort>
+        <price>678000</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>15</elixir_cost>
+    </house>
+    <house>
+        <id>23</id>
+        <strings lang="ja">
+            <name><![CDATA[石造りのオウチ]]></name>
+            <detail><![CDATA[アマチュア建築家 黒坂六郎による 素材感ある作品です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Stone house]]></name>
+            <detail><![CDATA[Wolf cannot huff, puff and blow your house in.]]></detail>
+        </strings>
+        <size>640</size>
+        <level>142</level>
+        <comfort>100</comfort>
+        <price>679000</price>
+    </house>
+    <house>
+        <id>24</id>
+        <strings lang="ja">
+            <name><![CDATA[アールヌーヴォーなオウチ]]></name>
+            <detail><![CDATA[有機的でかつ大胆な曲線がとっても美しいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Art nouveau house]]></name>
+            <detail><![CDATA[Art imitates Life far more than Life imitates Art.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>144</level>
+        <comfort>100</comfort>
+        <price>684000</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>18</elixir_cost>
+    </house>
+    <house>
+        <id>25</id>
+        <strings lang="ja">
+            <name><![CDATA[近代建築な家]]></name>
+            <detail><![CDATA[世界的建築家 安東忠男による打ち放しなオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Modern house]]></name>
+            <detail><![CDATA[Most walls are bare concrete.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>146</level>
+        <comfort>100</comfort>
+        <price>681000</price>
+    </house>
+    <house>
+        <id>26</id>
+        <strings lang="ja">
+            <name><![CDATA[サクラダファミリーのオウチ]]></name>
+            <detail><![CDATA[巨匠カバディによる桜田家 邸宅。未だ建築中です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Sakurada family's house]]></name>
+            <detail><![CDATA[Some of it are still under construction.]]></detail>
+        </strings>
+        <size>1100</size>
+        <level>148</level>
+        <comfort>100</comfort>
+        <price>689000</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>20</elixir_cost>
+    </house>
+    <house>
+        <id>27</id>
+        <strings lang="ja">
+            <name><![CDATA[アールデコなオウチ]]></name>
+            <detail><![CDATA[幾何学模様が特徴的なアールデコ風のオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Art deco house]]></name>
+            <detail><![CDATA[Many geometric pattern are used.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>152</level>
+        <comfort>100</comfort>
+        <price>682000</price>
+    </house>
+    <house>
+        <id>28</id>
+        <strings lang="ja">
+            <name><![CDATA[バロックなオウチ]]></name>
+            <detail><![CDATA[やや過剰な装飾が特徴のバロック風のオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Baroque house]]></name>
+            <detail><![CDATA[Little too much decoration.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>155</level>
+        <comfort>110</comfort>
+        <price>691000</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>22</elixir_cost>
+    </house>
+    <house>
+        <id>29</id>
+        <strings lang="ja">
+            <name><![CDATA[ロココなオウチ]]></name>
+            <detail><![CDATA[ピンクを貴重とした優雅でやわらかなオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Rococo house]]></name>
+            <detail><![CDATA[Pink fancy room decoration.]]></detail>
+        </strings>
+        <size>700</size>
+        <level>158</level>
+        <comfort>110</comfort>
+        <price>692000</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>25</elixir_cost>
+    </house>
+    <house>
+        <id>30</id>
+        <strings lang="ja">
+            <name><![CDATA[常夏ビーチ]]></name>
+            <detail><![CDATA[波の音に癒される 南国リゾートのビーチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Tropical beach]]></name>
+            <detail><![CDATA[Healed by sound of waves and big blue sky.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>158</level>
+        <comfort>90</comfort>
+        <price>693000</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>40</elixir_cost>
+        <bgm>ID30_beach.mp3</bgm>
+    </house>
+    <house>
+        <id>31</id>
+        <strings lang="ja">
+            <name><![CDATA[ゴシックなオウチ]]></name>
+            <detail><![CDATA[秩序ある柱と天井に向かう曲線が特徴です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Gothic house]]></name>
+            <detail><![CDATA[Vertical pillars and lancet arches portray beauty.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>162</level>
+        <comfort>90</comfort>
+        <price>693000</price>
+    </house>
+    <house>
+        <id>32</id>
+        <strings lang="ja">
+            <name><![CDATA[不気味なお庭]]></name>
+            <detail><![CDATA[ひっそりと 静まりかえった 寂しいお庭です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Spooky garden]]></name>
+            <detail><![CDATA[Secluded empty garden.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>164</level>
+        <comfort>70</comfort>
+        <price>693000</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>40</elixir_cost>
+        <bgm>nightgarden.mp3</bgm>
+    </house>
+    <house>
+        <id>33</id>
+        <strings lang="ja">
+            <name><![CDATA[木のオウチ]]></name>
+            <detail><![CDATA[森の木々と 小鳥のさえずりに かこまれています。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Wooden house]]></name>
+            <detail><![CDATA[Surrounded by trees and birdsongs.]]></detail>
+        </strings>
+        <size>280</size>
+        <level>166</level>
+        <comfort>80</comfort>
+        <price>689000</price>
+        <bgm>birdstweet.mp3</bgm>
+    </house>
+    <house>
+        <id>34</id>
+        <strings lang="ja">
+            <name><![CDATA[古びた洋館]]></name>
+            <detail><![CDATA[何かが潜んでいそうな 物々しい 雰囲気です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Ancient mansion]]></name>
+            <detail><![CDATA[The mansion is said to be haunted by ghosts.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>168</level>
+        <comfort>60</comfort>
+        <price>689000</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>40</elixir_cost>
+        <bgm>Hauntedhouse.mp3</bgm>
+    </house>
+    <house>
+        <id>35</id>
+        <strings lang="ja">
+            <name><![CDATA[海賊船]]></name>
+            <detail><![CDATA[MEGUとみつけた 海辺に座礁した 船です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Pirate ship]]></name>
+            <detail><![CDATA[MEGU found stranded pirate ship.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>170</level>
+        <comfort>70</comfort>
+        <price>689000</price>
+        <bgm>ID30_beach.mp3</bgm>
+    </house>
+    <house>
+        <id>36</id>
+        <strings lang="ja">
+            <name><![CDATA[ハイテクなオウチ]]></name>
+            <detail><![CDATA[ハイテク建築で近未来な気分を満喫できます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[High-tech house]]></name>
+            <detail><![CDATA[High-tech and a near future feeling can be fully enjoyed.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>171</level>
+        <comfort>110</comfort>
+        <price>691000</price>
+    </house>
+    <house>
+        <id>37</id>
+        <strings lang="ja">
+            <name><![CDATA[ルネサンスなオウチ]]></name>
+            <detail><![CDATA[古代ローマを思わせる フィレンツェ発祥の建築様式です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Renaissance house]]></name>
+            <detail><![CDATA[A style of building from Florence like ancient Rome.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>173</level>
+        <comfort>90</comfort>
+        <price>719900</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>40</elixir_cost>
+    </house>
+    <house>
+        <id>38</id>
+        <strings lang="ja">
+            <name><![CDATA[ゲル]]></name>
+            <detail><![CDATA[遊牧民のロマンを感じることができるオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Ger]]></name>
+            <detail><![CDATA[A nomad's spirit of romantic adventure can be felt.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>175</level>
+        <comfort>80</comfort>
+        <price>689000</price>
+    </house>
+    <house>
+        <id>39</id>
+        <strings lang="ja">
+            <name><![CDATA[スカイツリーの見える部屋]]></name>
+            <detail><![CDATA[昼間のながめもよいですが 夜景も最高です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[TOKYO SKY TREE view house]]></name>
+            <detail><![CDATA[The view is great.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>177</level>
+        <comfort>100</comfort>
+        <price>719800</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>40</elixir_cost>
+    </house>
+    <house>
+        <id>40</id>
+        <strings lang="ja">
+            <name><![CDATA[遺跡]]></name>
+            <detail><![CDATA[ジャングルの奥地で見つけた とっておきの隠れ家です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Ruins]]></name>
+            <detail><![CDATA[It's the treasured hiding place found in the jungle.]]></detail>
+        </strings>
+        <size>380</size>
+        <level>179</level>
+        <comfort>70</comfort>
+        <price>721000</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>40</elixir_cost>
+        <bgm>birdstweet.mp3</bgm>
+    </house>
+    <house>
+        <id>41</id>
+        <strings lang="ja">
+            <name><![CDATA[橋の下]]></name>
+            <detail><![CDATA[風通しは抜群で 雨宿りもし放題です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Under the bridge]]></name>
+            <detail><![CDATA[Fine ventilation and you can shelter from the rain.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>181</level>
+        <comfort>50</comfort>
+        <price>279000</price>
+    </house>
+    <house>
+        <id>42</id>
+        <strings lang="ja">
+            <name><![CDATA[海の見える家]]></name>
+            <detail><![CDATA[オーシャンビューを ひとりじめ できます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Ocean view house]]></name>
+            <detail><![CDATA[You can monopolize the ocean.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>183</level>
+        <comfort>110</comfort>
+        <price>726900</price>
+    </house>
+    <house>
+        <id>43</id>
+        <strings lang="ja">
+            <name><![CDATA[ログハウス]]></name>
+            <detail><![CDATA[木のぬくもりが感じられる 自然派なオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Log-house]]></name>
+            <detail><![CDATA[The warmth of the tree is felt.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>185</level>
+        <comfort>100</comfort>
+        <price>729900</price>
+    </house>
+    <house>
+        <id>44</id>
+        <strings lang="ja">
+            <name><![CDATA[竪穴式住居]]></name>
+            <detail><![CDATA[教科書でみたとおりの 石器時代のオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Pit-house]]></name>
+            <detail><![CDATA[Appears in school text books.]]></detail>
+        </strings>
+        <size>300</size>
+        <level>187</level>
+        <comfort>70</comfort>
+        <price>731800</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>40</elixir_cost>
+    </house>
+    <house>
+        <id>45</id>
+        <strings lang="ja">
+            <name><![CDATA[茶室]]></name>
+            <detail><![CDATA[日常を忘れ 心癒される空間です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Tea-ceremony room]]></name>
+            <detail><![CDATA[It take your mind off the worries of everyday life.]]></detail>
+        </strings>
+        <size>300</size>
+        <level>189</level>
+        <comfort>110</comfort>
+        <price>733900</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>40</elixir_cost>
+    </house>
+    <house>
+        <id>46</id>
+        <strings lang="ja">
+            <name><![CDATA[代々本公園]]></name>
+            <detail><![CDATA[野外フェスも 開催されるオシャレな 公園です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Yoyomoto park]]></name>
+            <detail><![CDATA[The stylish park where a rock festival is also held.]]></detail>
+        </strings>
+        <size>800</size>
+        <level>191</level>
+        <comfort>70</comfort>
+        <price>440100</price>
+    </house>
+    <house>
+        <id>47</id>
+        <strings lang="ja">
+            <name><![CDATA[蔵]]></name>
+            <detail><![CDATA[広々しており 湿度も一定に 保たれています。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Storehouse]]></name>
+            <detail><![CDATA[The humidity is kept constant.]]></detail>
+        </strings>
+        <size>700</size>
+        <level>193</level>
+        <comfort>70</comfort>
+        <price>734500</price>
+    </house>
+    <house>
+        <id>48</id>
+        <strings lang="ja">
+            <name><![CDATA[北欧なオウチ]]></name>
+            <detail><![CDATA[シンプルなインテリアの かわいらしい オウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Northern Europe house]]></name>
+            <detail><![CDATA[A pretty house of simple interior design.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>195</level>
+        <comfort>100</comfort>
+        <price>735900</price>
+    </house>
+    <house>
+        <id>49</id>
+        <strings lang="ja">
+            <name><![CDATA[匠の家]]></name>
+            <detail><![CDATA[「なんということでしょう」なオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Design house]]></name>
+            <detail><![CDATA[Designed by famous artisan.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>197</level>
+        <comfort>110</comfort>
+        <price>736500</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>45</elixir_cost>
+    </house>
+    <house>
+        <id>50</id>
+        <strings lang="ja">
+            <name><![CDATA[セーノ川沿いの宿]]></name>
+            <detail><![CDATA[セーノ川の流れを たのしめる 優雅な宿です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Hotel on the Seino]]></name>
+            <detail><![CDATA[You can enjoy the graceful flow of the Seino River.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>199</level>
+        <comfort>110</comfort>
+        <price>736700</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>45</elixir_cost>
+    </house>
+    <house>
+        <id>51</id>
+        <strings lang="ja">
+            <name><![CDATA[屋根裏部屋]]></name>
+            <detail><![CDATA[きれいに片付けられた 屋根裏です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Beautiful loft]]></name>
+            <detail><![CDATA[The room is the loft tidied up finely.]]></detail>
+        </strings>
+        <size>300</size>
+        <level>201</level>
+        <comfort>110</comfort>
+        <price>736900</price>
+    </house>
+    <house>
+        <id>52</id>
+        <strings lang="ja">
+            <name><![CDATA[星空の見えるオウチ]]></name>
+            <detail><![CDATA[星型の窓からは 満天の星空が見えます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Starry sky view house]]></name>
+            <detail><![CDATA[From a star type window, you can see the starlit sky.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>203</level>
+        <comfort>110</comfort>
+        <price>737100</price>
+    </house>
+    <house>
+        <id>53</id>
+        <strings lang="ja">
+            <name><![CDATA[オーロラの見えるオウチ]]></name>
+            <detail><![CDATA[オーロラのカーテンが 間近に見えます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Aurora view house]]></name>
+            <detail><![CDATA[You can look the curtain of aurora close.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>205</level>
+        <comfort>110</comfort>
+        <price>737300</price>
+    </house>
+    <house>
+        <id>54</id>
+        <strings lang="ja">
+            <name><![CDATA[桃源郷]]></name>
+            <detail><![CDATA[桃の花が 一面に咲き乱れて まるで夢のようです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Shangri-La house]]></name>
+            <detail><![CDATA[The peach flower blooms all over. Certainly dream house.]]></detail>
+        </strings>
+        <size>700</size>
+        <level>207</level>
+        <comfort>110</comfort>
+        <price>737500</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>50</elixir_cost>
+    </house>
+    <house>
+        <id>55</id>
+        <strings lang="ja">
+            <name><![CDATA[忍者屋敷]]></name>
+            <detail><![CDATA[どこかから 誰かの視線を感じます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Ninja house]]></name>
+            <detail><![CDATA[Someone's looks are felt from somewhere.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>209</level>
+        <comfort>110</comfort>
+        <price>737700</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>50</elixir_cost>
+    </house>
+    <house>
+        <id>56</id>
+        <strings lang="ja">
+            <name><![CDATA[TV局]]></name>
+            <detail><![CDATA[MEGU特集の 放送ができそうです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[TV stations]]></name>
+            <detail><![CDATA[The program of MEGU is broadcast.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>211</level>
+        <comfort>110</comfort>
+        <price>737900</price>
+    </house>
+    <house>
+        <id>57</id>
+        <strings lang="ja">
+            <name><![CDATA[コンサートホール]]></name>
+            <detail><![CDATA[盛大な拍手が欲しくなるオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Concert hall]]></name>
+            <detail><![CDATA[A standing ovation may be heard.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>213</level>
+        <comfort>110</comfort>
+        <price>738100</price>
+    </house>
+    <house>
+        <id>58</id>
+        <strings lang="ja">
+            <name><![CDATA[レトロポップなオウチ]]></name>
+            <detail><![CDATA[レトロかつポップなオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Retropop house]]></name>
+            <detail><![CDATA[This house is retro and pop.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>215</level>
+        <comfort>110</comfort>
+        <price>738300</price>
+    </house>
+    <house>
+        <id>59</id>
+        <strings lang="ja">
+            <name><![CDATA[英国庭園]]></name>
+            <detail><![CDATA[花と緑に囲まれた きれいな庭です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[English Garden]]></name>
+            <detail><![CDATA[The beautiful Garden surrounded by flowers.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>217</level>
+        <comfort>110</comfort>
+        <price>738500</price>
+    </house>
+    <house>
+        <id>60</id>
+        <strings lang="ja">
+            <name><![CDATA[西海岸なオウチ]]></name>
+            <detail><![CDATA[ビーチの見えるプール付きです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[West Coast house]]></name>
+            <detail><![CDATA[This house has the pool.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>219</level>
+        <comfort>110</comfort>
+        <price>738700</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>50</elixir_cost>
+    </house>
+    <house>
+        <id>61</id>
+        <strings lang="ja">
+            <name><![CDATA[メキシカンなオウチ]]></name>
+            <detail><![CDATA[広がる荒野にサボテンが似合います。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Mexican house]]></name>
+            <detail><![CDATA[Desert and cacti front house.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>221</level>
+        <comfort>100</comfort>
+        <price>738900</price>
+    </house>
+    <house>
+        <id>62</id>
+        <strings lang="ja">
+            <name><![CDATA[ストライプのオウチ]]></name>
+            <detail><![CDATA[目に優しくない 鮮やかなストライプのオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Striped house]]></name>
+            <detail><![CDATA[White and pink represent free and love.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>223</level>
+        <comfort>100</comfort>
+        <price>739100</price>
+    </house>
+    <house>
+        <id>63</id>
+        <strings lang="ja">
+            <name><![CDATA[ネオ・モダンなオウチ]]></name>
+            <detail><![CDATA[想像力を超えた新たな価値観を提案するオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Neo modern house]]></name>
+            <detail><![CDATA[If you wish, MEGU may bend a spoon in this house.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>225</level>
+        <comfort>90</comfort>
+        <price>739300</price>
+    </house>
+    <house>
+        <id>64</id>
+        <strings lang="ja">
+            <name><![CDATA[西部劇風のオウチ]]></name>
+            <detail><![CDATA[ウエスタンドアに挟まれないよう 気をつけましょう。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Western cowboy house]]></name>
+            <detail><![CDATA[There is no cow or boy in this house.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>227</level>
+        <comfort>90</comfort>
+        <price>739500</price>
+    </house>
+    <house>
+        <id>65</id>
+        <strings lang="ja">
+            <name><![CDATA[満月の丘のオウチ]]></name>
+            <detail><![CDATA[丘のむこうに きれいな満月が見えます うさぎは見えません。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Full moon house]]></name>
+            <detail><![CDATA[Let's blow a kiss to a full moon over the left shoulder.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>229</level>
+        <comfort>120</comfort>
+        <price>739700</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>50</elixir_cost>
+    </house>
+    <house>
+        <id>66</id>
+        <strings lang="ja">
+            <name><![CDATA[ガラス張りのオウチ]]></name>
+            <detail><![CDATA[全面ガラス張りで 開放的です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Glass-walled house]]></name>
+            <detail><![CDATA[It's a very open and bright house.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>231</level>
+        <comfort>85</comfort>
+        <price>739900</price>
+    </house>
+    <house>
+        <id>67</id>
+        <strings lang="ja">
+            <name><![CDATA[ペントハウス]]></name>
+            <detail><![CDATA[なめらかな木の板が 気持ちよさそうです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Penthouse]]></name>
+            <detail><![CDATA[The touch of a wooden floor is very good.]]></detail>
+        </strings>
+        <size>550</size>
+        <level>233</level>
+        <comfort>100</comfort>
+        <price>740100</price>
+    </house>
+    <house>
+        <id>68</id>
+        <strings lang="ja">
+            <name><![CDATA[水上コテージ]]></name>
+            <detail><![CDATA[どこまでも続く水平線に想いを馳せます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Overwater villa]]></name>
+            <detail><![CDATA[Endless horizon from the villa is very beautiful.]]></detail>
+        </strings>
+        <size>550</size>
+        <level>235</level>
+        <comfort>100</comfort>
+        <price>740300</price>
+    </house>
+    <house>
+        <id>69</id>
+        <strings lang="ja">
+            <name><![CDATA[大きな切り株のオウチ]]></name>
+            <detail><![CDATA[年輪まで再現して 本物そっくりです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Big stump house]]></name>
+            <detail><![CDATA[The big house just like a real stump.]]></detail>
+        </strings>
+        <size>650</size>
+        <level>237</level>
+        <comfort>90</comfort>
+        <price>740500</price>
+    </house>
+    <house>
+        <id>70</id>
+        <strings lang="ja">
+            <name><![CDATA[ラスベガスなオウチ]]></name>
+            <detail><![CDATA[このオウチでは なかなか眠れそうにありません。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Las Vegas house]]></name>
+            <detail><![CDATA[Nobody can sleep in this house.]]></detail>
+        </strings>
+        <size>700</size>
+        <level>239</level>
+        <comfort>80</comfort>
+        <price>740700</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>50</elixir_cost>
+    </house>
+    <house>
+        <id>71</id>
+        <strings lang="ja">
+            <name><![CDATA[ゆがんだお家]]></name>
+            <detail><![CDATA[なれないと 少し 酔ってしまいます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Tipsy-Turvy House]]></name>
+            <detail><![CDATA[You might feel a bit queasy until you get adjusted.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>241</level>
+        <comfort>80</comfort>
+        <price>740900</price>
+    </house>
+    <house>
+        <id>72</id>
+        <strings lang="ja">
+            <name><![CDATA[お祭り好きなお家]]></name>
+            <detail><![CDATA[粋な お祭り野郎が 大興奮です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Festival-Goer's Room]]></name>
+            <detail><![CDATA[Enjoy the festival right from the comfort of home!]]></detail>
+        </strings>
+        <size>480</size>
+        <level>243</level>
+        <comfort>90</comfort>
+        <price>741100</price>
+    </house>
+    <house>
+        <id>73</id>
+        <strings lang="ja">
+            <name><![CDATA[ハッカーなお家]]></name>
+            <detail><![CDATA[PCを触るのは 一日5時間までとしましょう。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[IT Control Room]]></name>
+            <detail><![CDATA[Be sure to take a regular break from the computer.]]></detail>
+        </strings>
+        <size>530</size>
+        <level>245</level>
+        <comfort>85</comfort>
+        <price>741300</price>
+    </house>
+    <house>
+        <id>74</id>
+        <strings lang="ja">
+            <name><![CDATA[ラグーンなお家]]></name>
+            <detail><![CDATA[南国のお魚さんたちが みられる 素敵なオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Lagoon Retreat]]></name>
+            <detail><![CDATA[Kick back and relax in this tropical themed paradise.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>247</level>
+        <comfort>100</comfort>
+        <price>741500</price>
+    </house>
+    <house>
+        <id>75</id>
+        <strings lang="ja">
+            <name><![CDATA[宇宙ステーションなお家]]></name>
+            <detail><![CDATA[シャトルの内装を再現していますが 快適とは言えません。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Space Station]]></name>
+            <detail><![CDATA[Great for the sci-fi lover, but not very comfortable.]]></detail>
+        </strings>
+        <size>450</size>
+        <level>249</level>
+        <comfort>70</comfort>
+        <price>741700</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>50</elixir_cost>
+    </house>
+    <house>
+        <id>76</id>
+        <strings lang="ja">
+            <name><![CDATA[シャイニーなオウチ]]></name>
+            <detail><![CDATA[いたるところに金箔が使われている贅沢なオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Sparkly House]]></name>
+            <detail><![CDATA[An extravagent house that uses gold leaf everywhere.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>999</level>
+        <comfort>90</comfort>
+        <price>741900</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>77</id>
+        <strings lang="ja">
+            <name><![CDATA[ロフトのあるオウチ]]></name>
+            <detail><![CDATA[若者に人気ですが 夏は暑くて 冬は寒いです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[House with a Loft]]></name>
+            <detail><![CDATA[Popular amongst the youth, but has horrible circulation.]]></detail>
+        </strings>
+        <size>350</size>
+        <level>251</level>
+        <comfort>60</comfort>
+        <price>742100</price>
+    </house>
+    <house>
+        <id>78</id>
+        <strings lang="ja">
+            <name><![CDATA[漁師のオウチ]]></name>
+            <detail><![CDATA[いつでも海が見えて素敵ですが 金属類が錆びやすいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Fisherman's House]]></name>
+            <detail><![CDATA[It's nice gazing at the sea, but metal rusts quickly.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>253</level>
+        <comfort>75</comfort>
+        <price>742300</price>
+    </house>
+    <house>
+        <id>79</id>
+        <strings lang="ja">
+            <name><![CDATA[温泉がみえるオウチ]]></name>
+            <detail><![CDATA[窓の外の温泉は借景なので 入ることはできません。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[House Near Hot Spring]]></name>
+            <detail><![CDATA[The hot spring is private, so no swimming!]]></detail>
+        </strings>
+        <size>450</size>
+        <level>255</level>
+        <comfort>100</comfort>
+        <price>742500</price>
+    </house>
+    <house>
+        <id>80</id>
+        <strings lang="ja">
+            <name><![CDATA[水族館なオウチ]]></name>
+            <detail><![CDATA[海の生き物たちを毎日眺められますが ちょっと生臭いです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Aquarium House]]></name>
+            <detail><![CDATA[You can watch sea creatures every day, but it's smelly.]]></detail>
+        </strings>
+        <size>550</size>
+        <level>257</level>
+        <comfort>90</comfort>
+        <price>742700</price>
+    </house>
+    <house>
+        <id>81</id>
+        <strings lang="ja">
+            <name><![CDATA[ボルダリングなオウチ]]></name>
+            <detail><![CDATA[いつでもクライミングできます。床はマットで安心です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Rock Climbing House]]></name>
+            <detail><![CDATA[The floor is a thick mat, so you can feel safe climbing.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>259</level>
+        <comfort>70</comfort>
+        <price>742900</price>
+        <elixir_only>1</elixir_only>
+        <elixir_cost>50</elixir_cost>
+    </house>
+    <house>
+        <id>82</id>
+        <strings lang="ja">
+            <name><![CDATA[虹のたもとのオウチ]]></name>
+            <detail><![CDATA[天気予報に関係なく 毎日虹がかかっています。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[House Near Rainbow]]></name>
+            <detail><![CDATA[There's a rainbow outside regardless of the weather.]]></detail>
+        </strings>
+        <size>450</size>
+        <level>999</level>
+        <comfort>80</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>83</id>
+        <strings lang="ja">
+            <name><![CDATA[中国宮廷風のオウチ]]></name>
+            <detail><![CDATA[皇帝の縁戚が住んでいたとされるオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Imperial House]]></name>
+            <detail><![CDATA[A house where the emperor's relatives used to live.]]></detail>
+        </strings>
+        <size>560</size>
+        <level>999</level>
+        <comfort>80</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>84</id>
+        <strings lang="ja">
+            <name><![CDATA[ハートなオウチ]]></name>
+            <detail><![CDATA[一面ハートで彩られたキュートなオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Heart-Filled House]]></name>
+            <detail><![CDATA[A cute house decorated with hearts from top to bottom.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>999</level>
+        <comfort>90</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>85</id>
+        <strings lang="ja">
+            <name><![CDATA[素敵な教会]]></name>
+            <detail><![CDATA[時を忘れるほどのどかな町にただずむ教会です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Fabulous Church]]></name>
+            <detail><![CDATA[A church so tranquil that one loses track of time.]]></detail>
+        </strings>
+        <size>620</size>
+        <level>999</level>
+        <comfort>75</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>86</id>
+        <strings lang="ja">
+            <name><![CDATA[積み木なオウチ]]></name>
+            <detail><![CDATA[強力接着剤で固定されているので 積み木としては遊べません。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Building Block House]]></name>
+            <detail><![CDATA[The building blocks are strongly glued together.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>999</level>
+        <comfort>60</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>87</id>
+        <strings lang="ja">
+            <name><![CDATA[ベネチアなオウチ]]></name>
+            <detail><![CDATA[世界一美しいとされる運河が見える 優雅なオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Venetian House]]></name>
+            <detail><![CDATA[A house near the grandest canals in the world.]]></detail>
+        </strings>
+        <size>380</size>
+        <level>999</level>
+        <comfort>90</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>88</id>
+        <strings lang="ja">
+            <name><![CDATA[アジアンリゾートホテル]]></name>
+            <detail><![CDATA[南国の木々と風がいつでも楽しめる 人気のオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Asian Resort]]></name>
+            <detail><![CDATA[A popular house with tropical trees and breeze.]]></detail>
+        </strings>
+        <size>450</size>
+        <level>999</level>
+        <comfort>85</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>89</id>
+        <strings lang="ja">
+            <name><![CDATA[ギャラリーなオウチ]]></name>
+            <detail><![CDATA[NYの有名画家の個展も開催された アートなオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Gallery House]]></name>
+            <detail><![CDATA[A house where a famous NY painter's art was displayed.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>999</level>
+        <comfort>65</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>90</id>
+        <strings lang="ja">
+            <name><![CDATA[ゴールドな宮殿]]></name>
+            <detail><![CDATA[これみよがしに自慢できる 成金趣味なオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Golden Palace]]></name>
+            <detail><![CDATA[A gaudy house perfect for flaunting one's wealth.]]></detail>
+        </strings>
+        <size>650</size>
+        <level>999</level>
+        <comfort>80</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>91</id>
+        <strings lang="ja">
+            <name><![CDATA[アールデコ建築なオウチ]]></name>
+            <detail><![CDATA[建築家集団「アッサー・B・ハルモーン」らによる作品です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Art Deco House]]></name>
+            <detail><![CDATA[A work of art by the architect Arthur B.Harmon.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>999</level>
+        <comfort>87</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>92</id>
+        <strings lang="ja">
+            <name><![CDATA[マカロンカラーなオウチ]]></name>
+            <detail><![CDATA[細かい装飾にこだわった気品に満ちたオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Pastel House]]></name>
+            <detail><![CDATA[A house full of refined colorful ornamentation.]]></detail>
+        </strings>
+        <size>580</size>
+        <level>999</level>
+        <comfort>90</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>93</id>
+        <strings lang="ja">
+            <name><![CDATA[爽やかゴシックなオウチ]]></name>
+            <detail><![CDATA[中世の貴族が住んでいた オウチをリノベーションしました。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Elegant Gothic House]]></name>
+            <detail><![CDATA[A renovated house where a medieval noble once lived.]]></detail>
+        </strings>
+        <size>650</size>
+        <level>999</level>
+        <comfort>87</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>94</id>
+        <strings lang="ja">
+            <name><![CDATA[超広いオウチ]]></name>
+            <detail><![CDATA[長さが100メートルもあるかなり広いオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Super Spacious House]]></name>
+            <detail><![CDATA[A rather spacious house that's over 330 feet long.]]></detail>
+        </strings>
+        <size>700</size>
+        <level>999</level>
+        <comfort>98</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>95</id>
+        <strings lang="ja">
+            <name><![CDATA[さざ波が聞こえるオウチ]]></name>
+            <detail><![CDATA[ときどき カモメがベランダにやってきたりもします。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[House Near the Sea]]></name>
+            <detail><![CDATA[Sometimes seagulls land on the veranda.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>999</level>
+        <comfort>100</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>96</id>
+        <strings lang="ja">
+            <name><![CDATA[ポップな匠の家]]></name>
+            <detail><![CDATA[通称「収納の魔術師」の匠によるこだわりが感じられます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Poppy House]]></name>
+            <detail><![CDATA[A masterpiece designed by the Closet Wizard.]]></detail>
+        </strings>
+        <size>380</size>
+        <level>999</level>
+        <comfort>78</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>97</id>
+        <strings lang="ja">
+            <name><![CDATA[セーノ川沿いのアパート]]></name>
+            <detail><![CDATA[印象派の巨匠が若いときに住んでいたとされるアパートです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Apartment By the River]]></name>
+            <detail><![CDATA[An apartment that used to be home to a master painter.]]></detail>
+        </strings>
+        <size>300</size>
+        <level>999</level>
+        <comfort>64</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>98</id>
+        <strings lang="ja">
+            <name><![CDATA[スターなオウチ]]></name>
+            <detail><![CDATA[ベッドに寝そべりながら見る星空が最高にきれいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Starry House]]></name>
+            <detail><![CDATA[You can look up at the starry sky from in bed.]]></detail>
+        </strings>
+        <size>340</size>
+        <level>999</level>
+        <comfort>75</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>99</id>
+        <strings lang="ja">
+            <name><![CDATA[からくり忍者屋敷]]></name>
+            <detail><![CDATA[隠し部屋がたくさんあるので 迷子になりそうです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Mechanical Ninja House]]></name>
+            <detail><![CDATA[There are a lot of hidden rooms, so don't get lost.]]></detail>
+        </strings>
+        <size>420</size>
+        <level>999</level>
+        <comfort>56</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>100</id>
+        <strings lang="ja">
+            <name><![CDATA[スタジオMEGU]]></name>
+            <detail><![CDATA[お昼のリーダーになれちゃいそうなオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Studio MEGU]]></name>
+            <detail><![CDATA[A house about to take over afternoon syndication!]]></detail>
+        </strings>
+        <size>500</size>
+        <level>999</level>
+        <comfort>40</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>101</id>
+        <strings lang="ja">
+            <name><![CDATA[昭和レトロポップな家]]></name>
+            <detail><![CDATA[レトロな中にちょっとモダンなテイストを感じるオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Retro Pop House]]></name>
+            <detail><![CDATA[A house with a retro interior yet a modern taste.]]></detail>
+        </strings>
+        <size>490</size>
+        <level>999</level>
+        <comfort>60</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>102</id>
+        <strings lang="ja">
+            <name><![CDATA[カラフルメキシカンな家]]></name>
+            <detail><![CDATA[アミーゴたちを招き入れたくなります。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Colorful Mexican House]]></name>
+            <detail><![CDATA[You'll want to invite all your mejores amigos.]]></detail>
+        </strings>
+        <size>320</size>
+        <level>999</level>
+        <comfort>70</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>103</id>
+        <strings lang="ja">
+            <name><![CDATA[モノトーンなオウチ]]></name>
+            <detail><![CDATA[大人のMEGUに似合いそうな 落ち着いた雰囲気です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Monotone House]]></name>
+            <detail><![CDATA[A calm and somber house fit for mature MEGUs.]]></detail>
+        </strings>
+        <size>420</size>
+        <level>999</level>
+        <comfort>90</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>104</id>
+        <strings lang="ja">
+            <name><![CDATA[大人のラスベガス]]></name>
+            <detail><![CDATA[砂漠のど真ん中にある年中無休の大人のオアシスです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Las Vegas]]></name>
+            <detail><![CDATA[A year-round paradise in the middle of the desert.]]></detail>
+        </strings>
+        <size>680</size>
+        <level>999</level>
+        <comfort>45</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>105</id>
+        <strings lang="ja">
+            <name><![CDATA[近未来なオウチ]]></name>
+            <detail><![CDATA[地上800Mに建つ超高層マンションです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Futuristic House]]></name>
+            <detail><![CDATA[A high-rise apartment building 800 meters tall.]]></detail>
+        </strings>
+        <size>665</size>
+        <level>999</level>
+        <comfort>88</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>106</id>
+        <strings lang="ja">
+            <name><![CDATA[ホワイトなオウチ]]></name>
+            <detail><![CDATA[真っ白な空間にあなただけのインテリアをお楽しみください。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[White House]]></name>
+            <detail><![CDATA[Experience the beautiful pure white interior.]]></detail>
+        </strings>
+        <size>600</size>
+        <level>261</level>
+        <comfort>92</comfort>
+        <price>743100</price>
+    </house>
+    <house>
+        <id>107</id>
+        <strings lang="ja">
+            <name><![CDATA[サンルーム]]></name>
+            <detail><![CDATA[日光浴と日焼けが楽しめるオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Sun Room]]></name>
+            <detail><![CDATA[A room where you can enjoy sunbathing and tanning.]]></detail>
+        </strings>
+        <size>380</size>
+        <level>263</level>
+        <comfort>72</comfort>
+        <price>743300</price>
+    </house>
+    <house>
+        <id>108</id>
+        <strings lang="ja">
+            <name><![CDATA[サーカス]]></name>
+            <detail><![CDATA[サーカス団はいませんので サーカスは楽しめません。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Circus]]></name>
+            <detail><![CDATA[There's no circus troupe, so you can't view the show.]]></detail>
+        </strings>
+        <size>510</size>
+        <level>265</level>
+        <comfort>80</comfort>
+        <price>743500</price>
+    </house>
+    <house>
+        <id>109</id>
+        <strings lang="ja">
+            <name><![CDATA[衣装部屋]]></name>
+            <detail><![CDATA[200着の上着に500着の衣服、300足の靴が収納できます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Dressing Room]]></name>
+            <detail><![CDATA[A room with 200 coats, 500 outfits, and 300 shoes.]]></detail>
+        </strings>
+        <size>310</size>
+        <level>267</level>
+        <comfort>72</comfort>
+        <price>743700</price>
+    </house>
+    <house>
+        <id>110</id>
+        <strings lang="ja">
+            <name><![CDATA[鉄子のオウチ]]></name>
+            <detail><![CDATA[車両を改造してつくった 乗り鉄には たまらないオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Train House]]></name>
+            <detail><![CDATA[A house with a remodeled railway car.]]></detail>
+        </strings>
+        <size>320</size>
+        <level>269</level>
+        <comfort>70</comfort>
+        <price>743900</price>
+    </house>
+    <house>
+        <id>111</id>
+        <strings lang="ja">
+            <name><![CDATA[銭湯なオウチ]]></name>
+            <detail><![CDATA[お風呂好きにはたまらないオウチの完成です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Bath House]]></name>
+            <detail><![CDATA[A house perfect for anyone in love with bathing.]]></detail>
+        </strings>
+        <size>380</size>
+        <level>271</level>
+        <comfort>70</comfort>
+        <price>300000</price>
+    </house>
+    <house>
+        <id>112</id>
+        <strings lang="ja">
+            <name><![CDATA[アメリカンガレージ]]></name>
+            <detail><![CDATA[ショールームのように素敵なオウチ作りをお楽しみください。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[American Garage]]></name>
+            <detail><![CDATA[Just like an old-fashioned American showroom.]]></detail>
+        </strings>
+        <size>280</size>
+        <level>273</level>
+        <comfort>100</comfort>
+        <price>450000</price>
+    </house>
+    <house>
+        <id>113</id>
+        <strings lang="ja">
+            <name><![CDATA[キャンピングカー]]></name>
+            <detail><![CDATA[フル装備していつでもどこへでもキャンピングできます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Camper]]></name>
+            <detail><![CDATA[Everything you could need to go camping anywhere anytime.]]></detail>
+        </strings>
+        <size>340</size>
+        <level>275</level>
+        <comfort>70</comfort>
+        <price>680000</price>
+    </house>
+    <house>
+        <id>114</id>
+        <strings lang="ja">
+            <name><![CDATA[青空なオウチ]]></name>
+            <detail><![CDATA[見上げると青空いっぱいの素敵なオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Blue Sky House]]></name>
+            <detail><![CDATA[A wonderful house with a  blue sky-like ceiling.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>277</level>
+        <comfort>110</comfort>
+        <price>600000</price>
+    </house>
+    <house>
+        <id>115</id>
+        <strings lang="ja">
+            <name><![CDATA[どこにでもドアなオウチ]]></name>
+            <detail><![CDATA[ドアを開けるとお風呂 なんてこともたまにあります。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[House With Many Doors]]></name>
+            <detail><![CDATA[You never know what's gonna be on the other side!]]></detail>
+        </strings>
+        <size>550</size>
+        <level>279</level>
+        <comfort>95</comfort>
+        <price>800000</price>
+    </house>
+    <house>
+        <id>116</id>
+        <strings lang="ja">
+            <name><![CDATA[お菓子のオウチ]]></name>
+            <detail><![CDATA[まさにドリームハウス！ 子供の頃の夢が叶っちゃいます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Candy House]]></name>
+            <detail><![CDATA[Your childhood dreams come true in this fantasy house.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>999</level>
+        <comfort>80</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>117</id>
+        <strings lang="ja">
+            <name><![CDATA[アニマルなオウチ]]></name>
+            <detail><![CDATA[動物さんたちに囲まれたほっこりするオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Animal House]]></name>
+            <detail><![CDATA[A relaxing house with lots of cute animals.]]></detail>
+        </strings>
+        <size>420</size>
+        <level>281</level>
+        <comfort>110</comfort>
+        <price>600000</price>
+    </house>
+    <house>
+        <id>118</id>
+        <strings lang="ja">
+            <name><![CDATA[スケートリンク]]></name>
+            <detail><![CDATA[一年中MEGUと一緒に滑れる最高な環境を用意しました。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Skating Rink]]></name>
+            <detail><![CDATA[A high-class ice rink where you can skate all year round.]]></detail>
+        </strings>
+        <size>770</size>
+        <level>283</level>
+        <comfort>35</comfort>
+        <price>800200</price>
+    </house>
+    <house>
+        <id>119</id>
+        <strings lang="ja">
+            <name><![CDATA[サッカー場]]></name>
+            <detail><![CDATA[2014年にむけて日々練習するのみです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Soccer Field]]></name>
+            <detail><![CDATA[A great place to practice for the 2014 season!]]></detail>
+        </strings>
+        <size>880</size>
+        <level>285</level>
+        <comfort>30</comfort>
+        <price>800200</price>
+    </house>
+    <house>
+        <id>120</id>
+        <strings lang="ja">
+            <name><![CDATA[カラフルなオウチ]]></name>
+            <detail><![CDATA[コーディネイト次第で おしゃれなオウチに早変わり。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Colorful House]]></name>
+            <detail><![CDATA[However you decorate this colorful house it'll be fly.]]></detail>
+        </strings>
+        <size>380</size>
+        <level>287</level>
+        <comfort>70</comfort>
+        <price>743900</price>
+    </house>
+    <house>
+        <id>121</id>
+        <strings lang="ja">
+            <name><![CDATA[体育館]]></name>
+            <detail><![CDATA[思う存分走って騒げるのはこのオウチだけです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Gymnasium]]></name>
+            <detail><![CDATA[A house where MEGU can run to its heart's content.]]></detail>
+        </strings>
+        <size>610</size>
+        <level>289</level>
+        <comfort>50</comfort>
+        <price>800200</price>
+    </house>
+    <house>
+        <id>122</id>
+        <strings lang="ja">
+            <name><![CDATA[ゲレンデ]]></name>
+            <detail><![CDATA[うっとりする白銀の世界に酔いしれてください。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Ski Slopes]]></name>
+            <detail><![CDATA[Get enveloped in a wonderful world of white snow.]]></detail>
+        </strings>
+        <size>850</size>
+        <level>999</level>
+        <comfort>20</comfort>
+        <price>810000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>123</id>
+        <strings lang="ja">
+            <name><![CDATA[アーケード街]]></name>
+            <detail><![CDATA[昼間は賑やかでいいのですが 夜はひっそりしています。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Shopping Arcade]]></name>
+            <detail><![CDATA[It's noisy in the morning, but totally silent at night.]]></detail>
+        </strings>
+        <size>700</size>
+        <level>291</level>
+        <comfort>40</comfort>
+        <price>620000</price>
+    </house>
+    <house>
+        <id>124</id>
+        <strings lang="ja">
+            <name><![CDATA[釣りバカなオウチ]]></name>
+            <detail><![CDATA[釣り好きがじわじわ増えてきています。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Fisherman's House]]></name>
+            <detail><![CDATA[Do you love fishing? You will once you move in!]]></detail>
+        </strings>
+        <size>500</size>
+        <level>293</level>
+        <comfort>50</comfort>
+        <price>530000</price>
+    </house>
+    <house>
+        <id>125</id>
+        <strings lang="ja">
+            <name><![CDATA[古民家カフェ]]></name>
+            <detail><![CDATA[おばあちゃん家にきたかのようなほっとする空間です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Open-Air Café]]></name>
+            <detail><![CDATA[You feel totally free in this relaxed café.]]></detail>
+        </strings>
+        <size>450</size>
+        <level>295</level>
+        <comfort>70</comfort>
+        <price>450000</price>
+    </house>
+    <house>
+        <id>126</id>
+        <strings lang="ja">
+            <name><![CDATA[図書館]]></name>
+            <detail><![CDATA[レッドカーペットが敷き詰められた 厳粛な図書館です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Library]]></name>
+            <detail><![CDATA[This is a very, very, very, very, very serious library.]]></detail>
+        </strings>
+        <size>750</size>
+        <level>298</level>
+        <comfort>65</comfort>
+        <price>720000</price>
+    </house>
+    <house>
+        <id>127</id>
+        <strings lang="ja">
+            <name><![CDATA[美術館]]></name>
+            <detail><![CDATA[日本を代表する美術館になりたいと思っています。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Art Museum]]></name>
+            <detail><![CDATA[Trying to become the best museum on the planet.]]></detail>
+        </strings>
+        <size>800</size>
+        <level>300</level>
+        <comfort>65</comfort>
+        <price>750000</price>
+    </house>
+    <house>
+        <id>128</id>
+        <strings lang="ja">
+            <name><![CDATA[雪山の見えるオウチ]]></name>
+            <detail><![CDATA[これだけあれば 雪だるまを作り放題です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Mountain View House]]></name>
+            <detail><![CDATA[With all this snow we can make millions of snowmen!]]></detail>
+        </strings>
+        <size>800</size>
+        <level>999</level>
+        <comfort>30</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>129</id>
+        <strings lang="ja">
+            <name><![CDATA[コインランドリー]]></name>
+            <detail><![CDATA[洗濯し放題ですが コインを入れないと回りません。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Laundromat]]></name>
+            <detail><![CDATA[You can do laundry all the time! Don't forget quarters!]]></detail>
+        </strings>
+        <size>300</size>
+        <level>302</level>
+        <comfort>50</comfort>
+        <price>380000</price>
+    </house>
+    <house>
+        <id>130</id>
+        <strings lang="ja">
+            <name><![CDATA[オフィス]]></name>
+            <detail><![CDATA[眺めはいいですが オフィスなので仕事漬けになりそうです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[High Rise Office]]></name>
+            <detail><![CDATA[Don't let the amazing view interrupt your work!]]></detail>
+        </strings>
+        <size>500</size>
+        <level>304</level>
+        <comfort>25</comfort>
+        <price>450000</price>
+    </house>
+    <house>
+        <id>131</id>
+        <strings lang="ja">
+            <name><![CDATA[音楽室]]></name>
+            <detail><![CDATA[防音効果バッチリなので お隣さんに迷惑がかかりません。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Music Classroom]]></name>
+            <detail><![CDATA[Sound-proofed, so you can play as loud as you want.]]></detail>
+        </strings>
+        <size>350</size>
+        <level>306</level>
+        <comfort>40</comfort>
+        <price>420000</price>
+    </house>
+    <house>
+        <id>132</id>
+        <strings lang="ja">
+            <name><![CDATA[ホテルのラウンジ]]></name>
+            <detail><![CDATA[毎日ホテル暮らしできるなんて まさに夢のようです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Hotel Lounge]]></name>
+            <detail><![CDATA[You can just live your everyday life in a hotel.]]></detail>
+        </strings>
+        <size>700</size>
+        <level>308</level>
+        <comfort>70</comfort>
+        <price>550000</price>
+    </house>
+    <house>
+        <id>133</id>
+        <strings lang="ja">
+            <name><![CDATA[フラワーなオウチ]]></name>
+            <detail><![CDATA[いつもお花の香りがする素敵なオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Rosy House]]></name>
+            <detail><![CDATA[A lovely house that smells of flowers everywhere.]]></detail>
+        </strings>
+        <size>450</size>
+        <level>310</level>
+        <comfort>65</comfort>
+        <price>510000</price>
+    </house>
+    <house>
+        <id>134</id>
+        <strings lang="ja">
+            <name><![CDATA[ハートスワンなオウチ]]></name>
+            <detail><![CDATA[スワンとハートの未だかつてないコラボが実現しました。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Swan Love House]]></name>
+            <detail><![CDATA[The Hearts and the Swans together make a love house.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>999</level>
+        <comfort>70</comfort>
+        <price>700000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>135</id>
+        <strings lang="ja">
+            <name><![CDATA[砂漠]]></name>
+            <detail><![CDATA[市街地に比較的近いので 生活に不便はありません。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Desert Wasteland]]></name>
+            <detail><![CDATA[Close to town so is less inconvenient than you'd think.]]></detail>
+        </strings>
+        <size>900</size>
+        <level>312</level>
+        <comfort>25</comfort>
+        <price>550000</price>
+    </house>
+    <house>
+        <id>136</id>
+        <strings lang="ja">
+            <name><![CDATA[Air Peace One]]></name>
+            <detail><![CDATA[大統領専用機に住めるなんて まさに夢のようです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Air Peace One]]></name>
+            <detail><![CDATA[Just imagine being able to live in the President plane!]]></detail>
+        </strings>
+        <size>300</size>
+        <level>314</level>
+        <comfort>75</comfort>
+        <price>650000</price>
+    </house>
+    <house>
+        <id>137</id>
+        <strings lang="ja">
+            <name><![CDATA[夕暮れ時の海岸]]></name>
+            <detail><![CDATA[完全プライベートなあなただけのビーチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Sunset Beach]]></name>
+            <detail><![CDATA[A completely secluded beach made just for you!]]></detail>
+        </strings>
+        <size>700</size>
+        <level>316</level>
+        <comfort>50</comfort>
+        <price>500000</price>
+        <bgm>ID30_beach.mp3</bgm>
+    </house>
+    <house>
+        <id>138</id>
+        <strings lang="ja">
+            <name><![CDATA[ステージ]]></name>
+            <detail><![CDATA[ライブパフォーマンスが磨かれる 素敵なオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Performance Stage]]></name>
+            <detail><![CDATA[The perfect place to practice your skills.]]></detail>
+        </strings>
+        <size>550</size>
+        <level>318</level>
+        <comfort>60</comfort>
+        <price>480000</price>
+    </house>
+    <house>
+        <id>139</id>
+        <strings lang="ja">
+            <name><![CDATA[自転車ハウス]]></name>
+            <detail><![CDATA[自転車インテリアがじわじわきてます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Bicycle House]]></name>
+            <detail><![CDATA[The bicycles all around are just too much fun.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>320</level>
+        <comfort>65</comfort>
+        <price>490000</price>
+    </house>
+    <house>
+        <id>140</id>
+        <strings lang="ja">
+            <name><![CDATA[桜並木]]></name>
+            <detail><![CDATA[全長25Kmに及ぶ桜並木は あなただけの癒しの空間。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Cherry Blossom Lame]]></name>
+            <detail><![CDATA[A true paradise with over 25 miles of Cherry Blossoms.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>999</level>
+        <comfort>65</comfort>
+        <price>490000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>141</id>
+        <strings lang="ja">
+            <name><![CDATA[駄菓子屋]]></name>
+            <detail><![CDATA[お店としても もちろん営業しています。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Old Time Candy Shop]]></name>
+            <detail><![CDATA[Of course they still are going to sell candy here.]]></detail>
+        </strings>
+        <size>300</size>
+        <level>322</level>
+        <comfort>50</comfort>
+        <price>300000</price>
+    </house>
+    <house>
+        <id>142</id>
+        <strings lang="ja">
+            <name><![CDATA[滑走路]]></name>
+            <detail><![CDATA[プライベートな滑走路は なんてセレブリティなんでしょう。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Airport Runway]]></name>
+            <detail><![CDATA[A private runway always makes you feel like a star.]]></detail>
+        </strings>
+        <size>700</size>
+        <level>324</level>
+        <comfort>55</comfort>
+        <price>350000</price>
+    </house>
+    <house>
+        <id>143</id>
+        <strings lang="ja">
+            <name><![CDATA[レトロ横丁]]></name>
+            <detail><![CDATA[よりみちをする誘惑に 負けちゃいそうです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Japanese Food Alley]]></name>
+            <detail><![CDATA[There is too much here to try. You'll never eat it all!]]></detail>
+        </strings>
+        <size>500</size>
+        <level>326</level>
+        <comfort>60</comfort>
+        <price>350000</price>
+    </house>
+    <house>
+        <id>144</id>
+        <strings lang="ja">
+            <name><![CDATA[ブティック]]></name>
+            <detail><![CDATA[ブティックを 大人買いしちゃいました。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Fashion Boutique]]></name>
+            <detail><![CDATA[Everyone loves to shop at a fancy boutique. Right?]]></detail>
+        </strings>
+        <size>450</size>
+        <level>328</level>
+        <comfort>70</comfort>
+        <price>400000</price>
+    </house>
+    <house>
+        <id>145</id>
+        <strings lang="ja">
+            <name><![CDATA[遊園地]]></name>
+            <detail><![CDATA[迷子にならないように 気を付けましょう。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Amusement Park]]></name>
+            <detail><![CDATA[You must do your best not to get lost!]]></detail>
+        </strings>
+        <size>700</size>
+        <level>330</level>
+        <comfort>75</comfort>
+        <price>450000</price>
+    </house>
+    <house>
+        <id>146</id>
+        <strings lang="ja">
+            <name><![CDATA[ロボット研究所]]></name>
+            <detail><![CDATA[世の中に革命を起こすロボたちが次々と開発されています。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Robot Research Lab]]></name>
+            <detail><![CDATA[Developing amazing new robots around the clock.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>999</level>
+        <comfort>70</comfort>
+        <price>750000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>147</id>
+        <strings lang="ja">
+            <name><![CDATA[キャットハウス]]></name>
+            <detail><![CDATA[キャットなラグが敷かれたオウチは 珍しいです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Cat House]]></name>
+            <detail><![CDATA[The giant cat head rug on floor is just too cute.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>999</level>
+        <comfort>80</comfort>
+        <price>880000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>148</id>
+        <strings lang="ja">
+            <name><![CDATA[悪MEGU団のアジト]]></name>
+            <detail><![CDATA[イタズラ好きな悪MEGUたちの秘密基地です。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Stray MEGU Hideout]]></name>
+            <detail><![CDATA[The Stray MEGU live here in secret.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>999</level>
+        <comfort>100</comfort>
+        <price>880000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>149</id>
+        <strings lang="ja">
+            <name><![CDATA[スノーホテルなオウチ]]></name>
+            <detail><![CDATA[少し寒いですが MEGUが大喜びで駆け回りそうです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Snow Hotel]]></name>
+            <detail><![CDATA[It's a little cold, but MEGU really love it here.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>999</level>
+        <comfort>60</comfort>
+        <price>900000</price>
+        <not_sale>1</not_sale>
+    </house>
+    <house>
+        <id>150</id>
+        <strings lang="ja">
+            <name><![CDATA[アメリカンなオウチ]]></name>
+            <detail><![CDATA[アメリカ南西部の様式を再現しています。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[American House]]></name>
+            <detail><![CDATA[A good old house straight from the US of A.]]></detail>
+        </strings>
+        <size>450</size>
+        <level>332</level>
+        <comfort>70</comfort>
+        <price>280000</price>
+    </house>
+    <house>
+        <id>151</id>
+        <strings lang="ja">
+            <name><![CDATA[もっとお祭り好きなオウチ]]></name>
+            <detail><![CDATA[いなせなお祭り娘も大喜びです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Festival Maniac's House]]></name>
+            <detail><![CDATA[It's a festival every day of the year in here.]]></detail>
+        </strings>
+        <size>300</size>
+        <level>334</level>
+        <comfort>90</comfort>
+        <price>400000</price>
+    </house>
+    <house>
+        <id>152</id>
+        <strings lang="ja">
+            <name><![CDATA[日の出の見えるオウチ]]></name>
+            <detail><![CDATA[きれいな日の出を じっくりと眺めることができます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Sunrise View Abode]]></name>
+            <detail><![CDATA[The perfect place to relax and watch the sunrise.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>336</level>
+        <comfort>70</comfort>
+        <price>500000</price>
+    </house>
+    <house>
+        <id>153</id>
+        <strings lang="ja">
+            <name><![CDATA[サハラなオウチ]]></name>
+            <detail><![CDATA[昼は暑く 夜は寒い 砂漠のど真ん中にあります。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Sahara Desert Home]]></name>
+            <detail><![CDATA[Hot during the day and cold at night. It's in the desert!]]></detail>
+        </strings>
+        <size>200</size>
+        <level>338</level>
+        <comfort>80</comfort>
+        <price>500000</price>
+    </house>
+    <house>
+        <id>154</id>
+        <strings lang="ja">
+            <name><![CDATA[ドットなオウチ]]></name>
+            <detail><![CDATA[かわいらしいドットがいっぱいのオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Polka Dot House]]></name>
+            <detail><![CDATA[There are cute polka dots everywhere! Yes!!]]></detail>
+        </strings>
+        <size>400</size>
+        <level>340</level>
+        <comfort>90</comfort>
+        <price>500000</price>
+    </house>
+    <house>
+        <id>155</id>
+        <strings lang="ja">
+            <name><![CDATA[額縁だらけのオウチ]]></name>
+            <detail><![CDATA[空いた額縁には 好きなものを飾りましょう。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[House of Frames]]></name>
+            <detail><![CDATA[You can put whatever you want in the frames.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>341</level>
+        <comfort>70</comfort>
+        <price>400000</price>
+    </house>
+    <house>
+        <id>156</id>
+        <strings lang="ja">
+            <name><![CDATA[竹林]]></name>
+            <detail><![CDATA[竹に囲まれて 癒し効果ばつぐんです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Bamboo Forest]]></name>
+            <detail><![CDATA[Want peaceful times? Then live in a bamboo forest.]]></detail>
+        </strings>
+        <size>450</size>
+        <level>343</level>
+        <comfort>70</comfort>
+        <price>450000</price>
+    </house>
+    <house>
+        <id>157</id>
+        <strings lang="ja">
+            <name><![CDATA[ビーチバレー会場]]></name>
+            <detail><![CDATA[砂が熱いから 足をやけどしないよう気をつけましょう。 ]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Beach Volleyball Court]]></name>
+            <detail><![CDATA[Don't burn your feet on the hot, hot sand.]]></detail>
+        </strings>
+        <size>650</size>
+        <level>344</level>
+        <comfort>70</comfort>
+        <price>420000</price>
+    </house>
+    <house>
+        <id>158</id>
+        <strings lang="ja">
+            <name><![CDATA[ウェディングガーデン]]></name>
+            <detail><![CDATA[開放的な シーサイドウェディングを満喫しましょう。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Wedding Garden]]></name>
+            <detail><![CDATA[Everyone wants a sea-side wedding, right?]]></detail>
+        </strings>
+        <size>600</size>
+        <level>345</level>
+        <comfort>70</comfort>
+        <price>550000</price>
+    </house>
+    <house>
+        <id>160</id>
+        <strings lang="ja">
+            <name><![CDATA[アラビアンなオウチ]]></name>
+            <detail><![CDATA[エスニックな家具を置いてアラビアンな世界が楽しめます。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Arabian House]]></name>
+            <detail><![CDATA[Perfect place to spend an Arabian Night.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>346</level>
+        <comfort>70</comfort>
+        <price>400000</price>
+    </house>
+    <house>
+        <id>161</id>
+        <strings lang="ja">
+            <name><![CDATA[パン屋]]></name>
+            <detail><![CDATA[クリームパンが絶品な行列のできるパン屋さんです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Bakery House]]></name>
+            <detail><![CDATA[All the bread here is super delicious.]]></detail>
+        </strings>
+        <size>400</size>
+        <level>347</level>
+        <comfort>60</comfort>
+        <price>400000</price>
+    </house>
+    <house>
+        <id>162</id>
+        <strings lang="ja">
+            <name><![CDATA[沖縄なオウチ]]></name>
+            <detail><![CDATA[沖縄に行った気になれる素敵なオウチです。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Okinawan House]]></name>
+            <detail><![CDATA[Feels just like living on an island paradise.]]></detail>
+        </strings>
+        <size>500</size>
+        <level>349</level>
+        <comfort>60</comfort>
+        <price>450000</price>
+    </house>
+    <house>
+        <id>163</id>
+        <strings lang="ja">
+            <name><![CDATA[素敵なガーデン]]></name>
+            <detail><![CDATA[ガーデンインテリアをたくさんおいて楽しみましょう。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Beautiful Garden]]></name>
+            <detail><![CDATA[You can garden to your hearts content.]]></detail>
+        </strings>
+        <size>550</size>
+        <level>350</level>
+        <comfort>60</comfort>
+        <price>500000</price>
+    </house>
+        <house>
+        <id>164</id>
+        <strings lang="ja">
+            <name><![CDATA[iMegu ストアー]]></name>
+            <detail><![CDATA[ガーデンインテリアをたくさんおいて楽しみましょう。]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[iMegu Store]]></name>
+            <detail><![CDATA[So many high tech devices!.]]></detail>
+        </strings>
+        <size>550</size>
+        <level>350</level>
+        <comfort>60</comfort>
+        <price>500000</price>
+    </house>
+    <house>
+        <id>1001</id>
+        <strings lang="ja">
+            <name><![CDATA[標準ひろば]]></name>
+            <detail><![CDATA[標準的な広場]]></detail>
+        </strings>
+        <strings lang="en">
+            <name><![CDATA[Default park]]></name>
+            <detail><![CDATA[Default park]]></detail>
+        </strings>
+        <size>500</size>
+        <level>999</level>
+        <comfort>99</comfort>
+        <price>999999</price>
+        <not_sale>1</not_sale>
+    </house>
+</application>

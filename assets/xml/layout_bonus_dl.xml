@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    
+	<layout_bonus>
+		<strings lang="ja">
+            <name>超個性派</name>
+        </strings>
+		<strings lang="en">
+            <name>Super colorful characters</name>
+        </strings>
+		<layout>
+			<house>15</house>
+			<furniture>26</furniture>
+			<furniture>34</furniture>
+			<furniture>35</furniture>
+		</layout>
+		<score>2000</score>
+	</layout_bonus>
+    
+	<layout_bonus>
+		<strings lang="ja">
+            <name>南国ビーチ</name>
+        </strings>
+		<strings lang="en">
+            <name>Tropical beach</name>
+        </strings>
+		<layout>
+			<house>30</house>
+			<furniture>506</furniture>
+			<furniture>504</furniture>
+			<furniture>503</furniture>
+            <furniture>524</furniture>
+		</layout>
+		<score>600</score>
+	</layout_bonus>
+    
+	<layout_bonus>
+		<strings lang="ja">
+            <name>お姫様の部屋</name>
+        </strings>
+		<strings lang="en">
+            <name>Princess</name>
+        </strings>
+		<layout>
+            <house>29</house>
+			<furniture>21</furniture>
+			<furniture>28</furniture>
+			<furniture>31</furniture>
+			<furniture>32</furniture>
+		</layout>
+		<score>500</score>
+	</layout_bonus>
+    
+	<layout_bonus>
+		<strings lang="ja">
+            <name>音楽家 Part1</name>
+        </strings>
+		<strings lang="en">
+            <name>Musician Part1</name>
+        </strings>
+		<layout>
+            <house>28</house>
+			<furniture>40</furniture>
+			<furniture>58</furniture>
+			<furniture>70</furniture>
+			<furniture>63</furniture>
+			<furniture>57</furniture>
+			<furniture>61</furniture>
+		</layout>
+		<score>500</score>
+	</layout_bonus>
+    
+	<layout_bonus>
+		<strings lang="ja">
+            <name>音楽家 Part2</name>
+        </strings>
+		<strings lang="en">
+            <name>Musician Part2</name>
+        </strings>
+		<layout>
+            <house>27</house>
+			<furniture>40</furniture>
+			<furniture>58</furniture>
+			<furniture>70</furniture>
+			<furniture>63</furniture>
+			<furniture>57</furniture>
+			<furniture>61</furniture>
+		</layout>
+		<score>500</score>
+	</layout_bonus>
+    
+	<layout_bonus>
+		<strings lang="ja">
+            <name>自然がいっぱい</name>
+        </strings>
+		<strings lang="en">
+            <name>Great nature</name>
+        </strings>
+		<layout>
+			<house>33</house>
+			<furniture>2</furniture>
+			<furniture>7</furniture>
+			<furniture>13</furniture>
+			<furniture>18</furniture>
+			<furniture>26</furniture>
+			<furniture>37</furniture>
+			<furniture>39</furniture>
+			<furniture>45</furniture>
+			<furniture>55</furniture>
+			<furniture>508</furniture>
+            <furniture>520</furniture>
+		</layout>
+		<score>2000</score>
+	</layout_bonus>
+    
+	<layout_bonus>
+		<strings lang="ja">
+            <name>ゆかいな仲間たち</name>
+        </strings>
+		<strings lang="en">
+            <name>pleasant friends</name>
+        </strings>
+		<layout>
+			<furniture>4</furniture>
+			<furniture>15</furniture>
+			<furniture>33</furniture>
+			<furniture>513</furniture>
+			<furniture>72</furniture>
+		</layout>
+		<score>2000</score>
+	</layout_bonus>
+    
+	<layout_bonus>
+		<strings lang="ja">
+            <name>ハッピーハロウィン Part1</name>
+        </strings>
+		<strings lang="en">
+            <name>Happy Halloween Part1</name>
+        </strings>
+		<layout>
+			<house>32</house>
+			<furniture>509</furniture>
+			<furniture>510</furniture>
+			<furniture>511</furniture>
+			<furniture>512</furniture>
+			<furniture>513</furniture>
+			<furniture>514</furniture>
+		</layout>
+		<score>2000</score>
+	</layout_bonus>
+    
+	<layout_bonus>
+		<strings lang="ja">
+            <name>ハッピーハロウィン Part2</name>
+        </strings>
+		<strings lang="en">
+            <name>Happy Halloween Part2</name>
+        </strings>
+		<layout>
+			<house>34</house>
+			<furniture>509</furniture>
+			<furniture>510</furniture>
+			<furniture>511</furniture>
+			<furniture>512</furniture>
+			<furniture>513</furniture>
+			<furniture>514</furniture>
+		</layout>
+		<score>2000</score>
+	</layout_bonus>
+    
+	<layout_bonus>
+		<strings lang="ja">
+            <name>高貴なグレー</name>
+        </strings>
+		<strings lang="en">
+            <name>Noble gray</name>
+        </strings>
+		<layout>
+			<house>27</house>
+			<furniture>83</furniture>
+			<furniture>84</furniture>
+			<furniture>87</furniture>
+			<furniture>517</furniture>
+			<furniture>519</furniture>
+		</layout>
+		<score>800</score>
+	</layout_bonus>
+    
+	<layout_bonus>
+		<strings lang="ja">
+            <name>高貴なピンク</name>
+        </strings>
+		<strings lang="en">
+            <name>Noble pink</name>
+        </strings>
+		<layout>
+			<house>29</house>
+			<furniture>85</furniture>
+			<furniture>86</furniture>
+			<furniture>88</furniture>
+			<furniture>516</furniture>
+			<furniture>518</furniture>
+		</layout>
+		<score>800</score>
+	</layout_bonus>
+	
+	<layout_bonus>
+		<strings lang="ja">
+            <name>和風</name>
+        </strings>
+		<strings lang="en">
+            <name>Japanese style</name>
+        </strings>
+		<layout>
+			<house>20</house>
+			<furniture>3</furniture>
+			<furniture>6</furniture>
+			<furniture>10</furniture>
+			<furniture>39</furniture>
+			<furniture>46</furniture>
+            <furniture>522</furniture>
+            <furniture>527</furniture>
+		</layout>
+		<score>1000</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>天体観測</name>
+        </strings>
+		<strings lang="en">
+            <name>Astronomical observation</name>
+        </strings>
+		<layout>
+			<house>39</house>
+			<furniture>100</furniture>
+			<furniture>99</furniture>
+			<furniture>92</furniture>
+		</layout>
+		<score>1500</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>スポーツ好き</name>
+        </strings>
+		<strings lang="en">
+            <name>Good at sports</name>
+        </strings>
+		<layout>
+			<furniture>60</furniture>
+			<furniture>80</furniture>
+			<furniture>93</furniture>
+            <furniture>94</furniture>
+            <furniture>524</furniture>
+		</layout>
+		<score>1500</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>リラックス</name>
+        </strings>
+		<strings lang="en">
+            <name>Relax</name>
+        </strings>
+		<layout>
+            <furniture>22</furniture>
+			<furniture>97</furniture>
+			<furniture>501</furniture>
+			<furniture>529</furniture>
+		</layout>
+		<score>1000</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>パソコンと家電</name>
+        </strings>
+		<strings lang="en">
+            <name>PCs and home appliances</name>
+        </strings>
+		<layout>
+            <house>36</house>
+			<furniture>30</furniture>
+			<furniture>44</furniture>
+			<furniture>48</furniture>
+            <furniture>66</furniture>
+            <furniture>69</furniture>
+            <furniture>526</furniture>
+		</layout>
+		<score>1000</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>石器時代</name>
+        </strings>
+		<strings lang="en">
+            <name>Stone Age</name>
+        </strings>
+		<layout>
+            <house>44</house>
+			<furniture>530</furniture>
+			<furniture>531</furniture>
+			<furniture>532</furniture>
+            <furniture>537</furniture>
+		</layout>
+		<score>900</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>茶の湯</name>
+        </strings>
+		<strings lang="en">
+            <name>Tea ceremony</name>
+        </strings>
+		<layout>
+            <house>45</house>
+            <furniture>39</furniture>
+            <furniture>110</furniture>
+			<furniture>533</furniture>
+			<furniture>534</furniture>
+			<furniture>535</furniture>
+		</layout>
+		<score>1200</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>ウッディークリスマス</name>
+        </strings>
+		<strings lang="en">
+            <name>Woody Christmas</name>
+        </strings>
+		<layout>
+            <house>43</house>
+			<furniture>27</furniture>
+            <furniture>536</furniture>
+            <furniture>543</furniture>
+            <furniture>546</furniture>
+            <furniture>547</furniture>
+		</layout>
+		<score>1200</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>秘密基地</name>
+        </strings>
+		<strings lang="en">
+            <name>Secret base</name>
+        </strings>
+		<layout>
+            <house>41</house>
+			<furniture>1</furniture>
+            <furniture>91</furniture>
+            <furniture>99</furniture>
+            <furniture>100</furniture>
+		</layout>
+		<score>8000</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>海とともに</name>
+        </strings>
+		<strings lang="en">
+            <name>With the sea</name>
+        </strings>
+		<layout>
+            <house>42</house>
+			<furniture>77</furniture>
+            <furniture>92</furniture>
+            <furniture>524</furniture>
+            <furniture>525</furniture>
+		</layout>
+		<score>1500</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>ゴールドクリスマス</name>
+        </strings>
+		<strings lang="en">
+            <name>Gold Christmas</name>
+        </strings>
+		<layout>
+            <furniture>104</furniture>
+			<furniture>541</furniture>
+			<furniture>542</furniture>
+			<furniture>544</furniture>
+		</layout>
+		<score>800</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>アマゾンのジャングル</name>
+        </strings>
+		<strings lang="en">
+            <name>Jangle of Amazon</name>
+        </strings>
+		<layout>
+            <furniture>567</furniture>
+            <furniture>568</furniture>
+			<furniture>569</furniture>
+			<furniture>570</furniture>
+			<furniture>571</furniture>
+		</layout>
+		<score>500</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>グフ王のピラミッド</name>
+        </strings>
+		<strings lang="en">
+            <name>Pyramid of Ghufu</name>
+        </strings>
+		<layout>
+            <furniture>572</furniture>
+            <furniture>573</furniture>
+			<furniture>574</furniture>
+			<furniture>575</furniture>
+			<furniture>576</furniture>
+		</layout>
+		<score>500</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>くらやみの古城</name>
+        </strings>
+		<strings lang="en">
+            <name>Dark castle</name>
+        </strings>
+		<layout>
+            <furniture>579</furniture>
+            <furniture>580</furniture>
+			<furniture>581</furniture>
+			<furniture>582</furniture>
+			<furniture>583</furniture>
+            <furniture>584</furniture>
+            <furniture>585</furniture>
+			<furniture>586</furniture>
+			<furniture>587</furniture>
+			<furniture>588</furniture>
+		</layout>
+		<score>550</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>ケラミゴス遺跡</name>
+        </strings>
+		<strings lang="en">
+            <name>Kerameigos ruins</name>
+        </strings>
+		<layout>
+            <furniture>589</furniture>
+			<furniture>592</furniture>
+			<furniture>593</furniture>
+			<furniture>597</furniture>
+		</layout>
+		<score>400</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>アクロボリス遺跡</name>
+        </strings>
+		<strings lang="en">
+            <name>Ruins of Acrobolis</name>
+        </strings>
+		<layout>
+            <furniture>590</furniture>
+			<furniture>591</furniture>
+            <furniture>594</furniture>
+            <furniture>595</furniture>
+			<furniture>596</furniture>
+			<furniture>598</furniture>
+		</layout>
+		<score>660</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>凍てついた氷の世界</name>
+        </strings>
+		<strings lang="en">
+            <name>The frozen icy world</name>
+        </strings>
+		<layout>
+            <furniture>599</furniture>
+			<furniture>601</furniture>
+			<furniture>603</furniture>
+			<furniture>606</furniture>
+		</layout>
+		<score>400</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>暗闇と氷の世界</name>
+        </strings>
+		<strings lang="en">
+            <name>Darkness and icy world</name>
+        </strings>
+		<layout>
+            <furniture>600</furniture>
+			<furniture>602</furniture>
+            <furniture>604</furniture>
+			<furniture>605</furniture>
+			<furniture>607</furniture>
+		</layout>
+		<score>660</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>おしゃれMEGU-LA</name>
+        </strings>
+		<strings lang="en">
+            <name>Fashionable MEGU-LA</name>
+        </strings>
+		<layout>
+            <furniture>609</furniture>
+            <furniture>610</furniture>
+		</layout>
+		<score>300</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>おしゃれKAWAI</name>
+        </strings>
+		<strings lang="en">
+            <name>Fashionable KAWAI</name>
+        </strings>
+		<layout>
+            <furniture>611</furniture>
+            <furniture>612</furniture>
+		</layout>
+		<score>300</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>おしゃれEGGO</name>
+        </strings>
+		<strings lang="en">
+            <name>Fashionable EGGO</name>
+        </strings>
+		<layout>
+            <furniture>613</furniture>
+            <furniture>614</furniture>
+		</layout>
+		<score>300</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>ちょい悪MEGU-LA</name>
+        </strings>
+		<strings lang="en">
+            <name>Wild-looking MEGU-LA</name>
+        </strings>
+		<layout>
+            <furniture>615</furniture>
+            <furniture>616</furniture>
+		</layout>
+		<score>300</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>ニコニコなMEGUたち</name>
+        </strings>
+		<strings lang="en">
+            <name>Smiling MEGUs Part1</name>
+        </strings>
+		<layout>
+            <furniture>615</furniture>
+            <furniture>617</furniture>
+            <furniture>618</furniture>
+		</layout>
+		<score>300</score>
+	</layout_bonus>
+
+    <layout_bonus>
+		<strings lang="ja">
+            <name>MEGUキャンドルセット1</name>
+        </strings>
+		<strings lang="en">
+            <name>MEGU candle set 1</name>
+        </strings>
+		<layout>
+            <furniture>619</furniture>
+            <furniture>620</furniture>
+            <furniture>621</furniture>
+		</layout>
+		<score>350</score>
+	</layout_bonus>
+
+    <layout_bonus>
+		<strings lang="ja">
+            <name>MEGUキャンドルセット2</name>
+        </strings>
+		<strings lang="en">
+            <name>MEGU candle set 2</name>
+        </strings>
+		<layout>
+            <furniture>622</furniture>
+            <furniture>623</furniture>
+            <furniture>624</furniture>
+		</layout>
+		<score>350</score>
+	</layout_bonus>
+
+    <layout_bonus>
+		<strings lang="ja">
+            <name>MEGUキャンドルセット3</name>
+        </strings>
+		<strings lang="en">
+            <name>MEGU candle set 3</name>
+        </strings>
+		<layout>
+            <furniture>625</furniture>
+            <furniture>626</furniture>
+            <furniture>627</furniture>
+		</layout>
+		<score>350</score>
+	</layout_bonus>
+
+    <layout_bonus>
+		<strings lang="ja">
+            <name>MEGUのキャンドル コンプ</name>
+        </strings>
+		<strings lang="en">
+            <name>Complete MEGU Candles</name>
+        </strings>
+		<layout>
+            <furniture>619</furniture>
+            <furniture>620</furniture>
+            <furniture>621</furniture>
+            <furniture>622</furniture>
+            <furniture>623</furniture>
+            <furniture>624</furniture>
+            <furniture>625</furniture>
+            <furniture>626</furniture>
+            <furniture>627</furniture>
+            <furniture>628</furniture>
+		</layout>
+		<score>390</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>ドゥンケル魔法学校</name>
+        </strings>
+		<strings lang="en">
+            <name>Dunkel magic school</name>
+        </strings>
+		<layout>
+            <furniture>629</furniture>
+			<furniture>630</furniture>
+            <furniture>631</furniture>
+            <furniture>632</furniture>
+			<furniture>633</furniture>
+			<furniture>634</furniture>
+		</layout>
+		<score>500</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>おもちゃ工場跡</name>
+        </strings>
+		<strings lang="en">
+            <name>The remains of a toy factory</name>
+        </strings>
+		<layout>
+            <furniture>635</furniture>
+			<furniture>636</furniture>
+            <furniture>637</furniture>
+            <furniture>638</furniture>
+			<furniture>639</furniture>
+			<furniture>640</furniture>
+		</layout>
+		<score>500</score>
+	</layout_bonus>
+
+    <layout_bonus>
+		<strings lang="ja">
+            <name>ハートな家具たち</name>
+        </strings>
+		<strings lang="en">
+            <name>Heart furniture</name>
+        </strings>
+		<layout>
+            <furniture>647</furniture>
+			<furniture>648</furniture>
+            <furniture>649</furniture>
+            <furniture>650</furniture>
+			<furniture>651</furniture>
+			<furniture>652</furniture>
+            <furniture>653</furniture>
+			<furniture>654</furniture>
+            <furniture>655</furniture>
+		</layout>
+		<score>550</score>
+	</layout_bonus>
+    
+    <layout_bonus>
+		<strings lang="ja">
+            <name>フランチェスカ城</name>
+        </strings>
+		<strings lang="en">
+            <name>Francesca castle</name>
+        </strings>
+		<layout>
+            <furniture>641</furniture>
+			<furniture>642</furniture>
+            <furniture>643</furniture>
+            <furniture>644</furniture>
+			<furniture>645</furniture>
+			<furniture>646</furniture>
+		</layout>
+		<score>500</score>
+	</layout_bonus>
+    
+</application>
